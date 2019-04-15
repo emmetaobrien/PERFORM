@@ -1,2 +1,7 @@
 [datalad "dataset"]
-	id = fb8b4090-5d64-11e9-9178-3417ebb10536
+	id = 0c1d0fe0-5240-11e9-9178-3417ebb10536
+[datalad "metadata"]
+	nativetype = lorisbvl
+	nativetype = lorisbvl
+	nativetype = minc2
+	nativetype = minc2

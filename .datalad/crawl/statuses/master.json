@@ -1,0 +1,5321 @@
+{
+  "db_version": 1,
+  "files": {
+    "913174_v1CPSuite_Breath_By_Breath": {
+      "filename": "CPSuite_Breath_By_Breath",
+      "size": 306
+    },
+    "913174_v1CPSuite_Exercise_Worksheet": {
+      "filename": "CPSuite_Exercise_Worksheet",
+      "size": 1298
+    },
+    "913174_v1Nutrition_24hr_recall": {
+      "filename": "Nutrition_24hr_recall",
+      "size": 305
+    },
+    "913174_v1Nutrition_24hr_recall_quick_estimate": {
+      "filename": "Nutrition_24hr_recall_quick_estimate",
+      "size": 2098
+    },
+    "913174_v1Nutrition_Anthropometric_Measurements": {
+      "filename": "Nutrition_Anthropometric_Measurements",
+      "size": 547
+    },
+    "913174_v1Nutrition_Assessment_Monitoring_and_Evaluation": {
+      "filename": "Nutrition_Assessment_Monitoring_and_Evaluation",
+      "size": 1829
+    },
+    "913174_v1Nutrition_Client_History": {
+      "filename": "Nutrition_Client_History",
+      "size": 716
+    },
+    "913174_v1Nutrition_Comparative_Standards": {
+      "filename": "Nutrition_Comparative_Standards",
+      "size": 910
+    },
+    "913174_v1Nutrition_Diagnosis": {
+      "filename": "Nutrition_Diagnosis",
+      "size": 378
+    },
+    "913174_v1Nutrition_Evaluation_Report": {
+      "filename": "Nutrition_Evaluation_Report",
+      "size": 362
+    },
+    "913174_v1Nutrition_Food_Related_History": {
+      "filename": "Nutrition_Food_Related_History",
+      "size": 844
+    },
+    "913174_v1Nutrition_PNP": {
+      "filename": "Nutrition_PNP",
+      "size": 420
+    },
+    "913174_v1Nutrition_SOAP": {
+      "filename": "Nutrition_SOAP",
+      "size": 339
+    },
+    "913174_v1Nutrition_eaTracker": {
+      "filename": "Nutrition_eaTracker",
+      "size": 306
+    },
+    "913174_v1Sleep_Adult_Medical_History_Form": {
+      "filename": "Sleep_Adult_Medical_History_Form",
+      "size": 3497
+    },
+    "913174_v1Sleep_Diary": {
+      "filename": "Sleep_Diary",
+      "size": 269
+    },
+    "913174_v1Sleep_Pre_Participation_Screening_Questionnaire": {
+      "filename": "Sleep_Pre_Participation_Screening_Questionnaire",
+      "size": 477
+    },
+    "913174_v1Sleep_Visual_Analog_Scale_Study": {
+      "filename": "Sleep_Visual_Analog_Scale_Study",
+      "size": 228
+    },
+    "913174_v1Sleep_Visual_Analog_Scale_Test": {
+      "filename": "Sleep_Visual_Analog_Scale_Test",
+      "size": 226
+    },
+    "CPSuite_Breath_By_Breath": {
+      "filename": "CPSuite_Breath_By_Breath",
+      "size": 306
+    },
+    "CPSuite_Exercise_Worksheet": {
+      "filename": "CPSuite_Exercise_Worksheet",
+      "size": 1298
+    },
+    "Nutrition_24hr_recall": {
+      "filename": "Nutrition_24hr_recall",
+      "size": 305
+    },
+    "Nutrition_24hr_recall_quick_estimate": {
+      "filename": "Nutrition_24hr_recall_quick_estimate",
+      "size": 2098
+    },
+    "Nutrition_Anthropometric_Measurements": {
+      "filename": "Nutrition_Anthropometric_Measurements",
+      "size": 547
+    },
+    "Nutrition_Assessment_Monitoring_and_Evaluation": {
+      "filename": "Nutrition_Assessment_Monitoring_and_Evaluation",
+      "size": 1829
+    },
+    "Nutrition_Client_History": {
+      "filename": "Nutrition_Client_History",
+      "size": 716
+    },
+    "Nutrition_Comparative_Standards": {
+      "filename": "Nutrition_Comparative_Standards",
+      "size": 910
+    },
+    "Nutrition_Diagnosis": {
+      "filename": "Nutrition_Diagnosis",
+      "size": 378
+    },
+    "Nutrition_Evaluation_Report": {
+      "filename": "Nutrition_Evaluation_Report",
+      "size": 362
+    },
+    "Nutrition_Food_Related_History": {
+      "filename": "Nutrition_Food_Related_History",
+      "size": 844
+    },
+    "Nutrition_PNP": {
+      "filename": "Nutrition_PNP",
+      "size": 420
+    },
+    "Nutrition_SOAP": {
+      "filename": "Nutrition_SOAP",
+      "size": 339
+    },
+    "Nutrition_eaTracker": {
+      "filename": "Nutrition_eaTracker",
+      "size": 306
+    },
+    "Sleep_Adult_Medical_History_Form": {
+      "filename": "Sleep_Adult_Medical_History_Form",
+      "size": 3497
+    },
+    "Sleep_Diary": {
+      "filename": "Sleep_Diary",
+      "size": 269
+    },
+    "Sleep_Pre_Participation_Screening_Questionnaire": {
+      "filename": "Sleep_Pre_Participation_Screening_Questionnaire",
+      "size": 477
+    },
+    "Sleep_Visual_Analog_Scale_Study": {
+      "filename": "Sleep_Visual_Analog_Scale_Study",
+      "size": 228
+    },
+    "Sleep_Visual_Analog_Scale_Test": {
+      "filename": "Sleep_Visual_Analog_Scale_Test",
+      "size": 226
+    },
+    "loris_102451_V1_fMRI_001.mnc": {
+      "filename": "loris_102451_V1_fMRI_001.mnc",
+      "size": 301567955
+    },
+    "loris_102451_V1_fMRI_002.mnc": {
+      "filename": "loris_102451_V1_fMRI_002.mnc",
+      "size": 25278553
+    },
+    "loris_102451_V1_fMRI_003.mnc": {
+      "filename": "loris_102451_V1_fMRI_003.mnc",
+      "size": 40563392
+    },
+    "loris_102451_V1_fMRI_004.mnc": {
+      "filename": "loris_102451_V1_fMRI_004.mnc",
+      "size": 65840000
+    },
+    "loris_102451_V1_fMRI_005.mnc": {
+      "filename": "loris_102451_V1_fMRI_005.mnc",
+      "size": 25366963
+    },
+    "loris_102451_V1_fMRI_006.mnc": {
+      "filename": "loris_102451_V1_fMRI_006.mnc",
+      "size": 40188611
+    },
+    "loris_102451_V1_fMRI_007.mnc": {
+      "filename": "loris_102451_V1_fMRI_007.mnc",
+      "size": 65293274
+    },
+    "loris_102451_V1_fMRI_008.mnc": {
+      "filename": "loris_102451_V1_fMRI_008.mnc",
+      "size": 25175683
+    },
+    "loris_102451_V1_fMRI_009.mnc": {
+      "filename": "loris_102451_V1_fMRI_009.mnc",
+      "size": 25140752
+    },
+    "loris_102451_V1_fMRI_010.mnc": {
+      "filename": "loris_102451_V1_fMRI_010.mnc",
+      "size": 35164912
+    },
+    "loris_102451_V1_t1_001.mnc": {
+      "filename": "loris_102451_V1_t1_001.mnc",
+      "size": 19594240
+    },
+    "loris_105973_V1_fMRI_001.mnc": {
+      "filename": "loris_105973_V1_fMRI_001.mnc",
+      "size": 94117104
+    },
+    "loris_105973_V1_t1_001.mnc": {
+      "filename": "loris_105973_V1_t1_001.mnc",
+      "size": 16923952
+    },
+    "loris_113756_V1_CTAC_001.mnc": {
+      "filename": "loris_113756_V1_CTAC_001.mnc",
+      "size": 9164810
+    },
+    "loris_113756_V1_CTAC_002.mnc": {
+      "filename": "loris_113756_V1_CTAC_002.mnc",
+      "size": 6663382
+    },
+    "loris_113756_V1_CT_001.mnc": {
+      "filename": "loris_113756_V1_CT_001.mnc",
+      "size": 2210564
+    },
+    "loris_113756_V1_CT_002.mnc": {
+      "filename": "loris_113756_V1_CT_002.mnc",
+      "size": 8560522
+    },
+    "loris_113756_V1_CT_003.mnc": {
+      "filename": "loris_113756_V1_CT_003.mnc",
+      "size": 1071994
+    },
+    "loris_113756_V1_CT_004.mnc": {
+      "filename": "loris_113756_V1_CT_004.mnc",
+      "size": 13283795
+    },
+    "loris_113756_V1_MAC_001.mnc": {
+      "filename": "loris_113756_V1_MAC_001.mnc",
+      "size": 1425981
+    },
+    "loris_113756_V1_MAC_002.mnc": {
+      "filename": "loris_113756_V1_MAC_002.mnc",
+      "size": 1712926
+    },
+    "loris_113756_V1_NAC_001.mnc": {
+      "filename": "loris_113756_V1_NAC_001.mnc",
+      "size": 2377626
+    },
+    "loris_113756_V1_NAC_002.mnc": {
+      "filename": "loris_113756_V1_NAC_002.mnc",
+      "size": 2541725
+    },
+    "loris_113756_V1_fMRI_001.mnc": {
+      "filename": "loris_113756_V1_fMRI_001.mnc",
+      "size": 57812368
+    },
+    "loris_113756_V1_t1_001.mnc": {
+      "filename": "loris_113756_V1_t1_001.mnc",
+      "size": 16843765
+    },
+    "loris_116404_V1_fMRI_001.mnc": {
+      "filename": "loris_116404_V1_fMRI_001.mnc",
+      "size": 13242955
+    },
+    "loris_116404_V1_fMRI_002.mnc": {
+      "filename": "loris_116404_V1_fMRI_002.mnc",
+      "size": 61402898
+    },
+    "loris_116404_V1_fMRI_003.mnc": {
+      "filename": "loris_116404_V1_fMRI_003.mnc",
+      "size": 44946678
+    },
+    "loris_116404_V1_fMRI_004.mnc": {
+      "filename": "loris_116404_V1_fMRI_004.mnc",
+      "size": 44880864
+    },
+    "loris_116404_V1_fMRI_005.mnc": {
+      "filename": "loris_116404_V1_fMRI_005.mnc",
+      "size": 19374881
+    },
+    "loris_116404_V1_fMRI_006.mnc": {
+      "filename": "loris_116404_V1_fMRI_006.mnc",
+      "size": 9399947
+    },
+    "loris_116404_V1_t1_001.mnc": {
+      "filename": "loris_116404_V1_t1_001.mnc",
+      "size": 26447904
+    },
+    "loris_119398_V1_dti_001.mnc": {
+      "filename": "loris_119398_V1_dti_001.mnc",
+      "size": 428562257
+    },
+    "loris_119398_V1_t1_001.mnc": {
+      "filename": "loris_119398_V1_t1_001.mnc",
+      "size": 16763366
+    },
+    "loris_119398_V1_t1_002.mnc": {
+      "filename": "loris_119398_V1_t1_002.mnc",
+      "size": 15704689
+    },
+    "loris_129090_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc": {
+      "filename": "loris_129090_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc",
+      "size": 1474446
+    },
+    "loris_129090_V1_dti_001.mnc": {
+      "filename": "loris_129090_V1_dti_001.mnc",
+      "size": 91875316
+    },
+    "loris_129090_V1_fMRI_001.mnc": {
+      "filename": "loris_129090_V1_fMRI_001.mnc",
+      "size": 39305177
+    },
+    "loris_129090_V1_fMRI_002.mnc": {
+      "filename": "loris_129090_V1_fMRI_002.mnc",
+      "size": 63758036
+    },
+    "loris_129090_V1_fMRI_003.mnc": {
+      "filename": "loris_129090_V1_fMRI_003.mnc",
+      "size": 24587050
+    },
+    "loris_129090_V1_fMRI_004.mnc": {
+      "filename": "loris_129090_V1_fMRI_004.mnc",
+      "size": 24673850
+    },
+    "loris_129090_V1_fMRI_005.mnc": {
+      "filename": "loris_129090_V1_fMRI_005.mnc",
+      "size": 34524895
+    },
+    "loris_129090_V1_fMRI_006.mnc": {
+      "filename": "loris_129090_V1_fMRI_006.mnc",
+      "size": 291695714
+    },
+    "loris_129090_V1_fMRI_007.mnc": {
+      "filename": "loris_129090_V1_fMRI_007.mnc",
+      "size": 38798282
+    },
+    "loris_129090_V1_fMRI_008.mnc": {
+      "filename": "loris_129090_V1_fMRI_008.mnc",
+      "size": 63483029
+    },
+    "loris_129090_V1_fMRI_009.mnc": {
+      "filename": "loris_129090_V1_fMRI_009.mnc",
+      "size": 24509637
+    },
+    "loris_129090_V1_fMRI_010.mnc": {
+      "filename": "loris_129090_V1_fMRI_010.mnc",
+      "size": 24613195
+    },
+    "loris_129090_V1_fMRI_011.mnc": {
+      "filename": "loris_129090_V1_fMRI_011.mnc",
+      "size": 34343122
+    },
+    "loris_129090_V1_fMRI_012.mnc": {
+      "filename": "loris_129090_V1_fMRI_012.mnc",
+      "size": 25048982
+    },
+    "loris_129090_V1_fMRI_013.mnc": {
+      "filename": "loris_129090_V1_fMRI_013.mnc",
+      "size": 39817087
+    },
+    "loris_129090_V1_fMRI_014.mnc": {
+      "filename": "loris_129090_V1_fMRI_014.mnc",
+      "size": 64568588
+    },
+    "loris_129090_V1_fMRI_015.mnc": {
+      "filename": "loris_129090_V1_fMRI_015.mnc",
+      "size": 24805060
+    },
+    "loris_129090_V1_t1_001.mnc": {
+      "filename": "loris_129090_V1_t1_001.mnc",
+      "size": 18755233
+    },
+    "loris_129090_V1_t1_002.mnc": {
+      "filename": "loris_129090_V1_t1_002.mnc",
+      "size": 11758168
+    },
+    "loris_129090_V1_t1_003.mnc": {
+      "filename": "loris_129090_V1_t1_003.mnc",
+      "size": 11162270
+    },
+    "loris_129090_V1_t1_004.mnc": {
+      "filename": "loris_129090_V1_t1_004.mnc",
+      "size": 18418931
+    },
+    "loris_129090_V1_t1_005.mnc": {
+      "filename": "loris_129090_V1_t1_005.mnc",
+      "size": 18717587
+    },
+    "loris_134676_V1_fMRI_001.mnc": {
+      "filename": "loris_134676_V1_fMRI_001.mnc",
+      "size": 176551586
+    },
+    "loris_134676_V1_fMRI_002.mnc": {
+      "filename": "loris_134676_V1_fMRI_002.mnc",
+      "size": 153054187
+    },
+    "loris_134676_V1_fMRI_003.mnc": {
+      "filename": "loris_134676_V1_fMRI_003.mnc",
+      "size": 25589793
+    },
+    "loris_134676_V1_fMRI_004.mnc": {
+      "filename": "loris_134676_V1_fMRI_004.mnc",
+      "size": 40794913
+    },
+    "loris_134676_V1_fMRI_005.mnc": {
+      "filename": "loris_134676_V1_fMRI_005.mnc",
+      "size": 66158678
+    },
+    "loris_134676_V1_fMRI_006.mnc": {
+      "filename": "loris_134676_V1_fMRI_006.mnc",
+      "size": 25492977
+    },
+    "loris_134676_V1_fMRI_007.mnc": {
+      "filename": "loris_134676_V1_fMRI_007.mnc",
+      "size": 41023312
+    },
+    "loris_134676_V1_fMRI_008.mnc": {
+      "filename": "loris_134676_V1_fMRI_008.mnc",
+      "size": 66441423
+    },
+    "loris_134676_V1_fMRI_009.mnc": {
+      "filename": "loris_134676_V1_fMRI_009.mnc",
+      "size": 25631750
+    },
+    "loris_134676_V1_fMRI_010.mnc": {
+      "filename": "loris_134676_V1_fMRI_010.mnc",
+      "size": 25607199
+    },
+    "loris_134676_V1_fMRI_011.mnc": {
+      "filename": "loris_134676_V1_fMRI_011.mnc",
+      "size": 35843790
+    },
+    "loris_134676_V1_t1_001.mnc": {
+      "filename": "loris_134676_V1_t1_001.mnc",
+      "size": 19442797
+    },
+    "loris_162138_V1_CT_001.mnc": {
+      "filename": "loris_162138_V1_CT_001.mnc",
+      "size": 3200249
+    },
+    "loris_162138_V1_CT_002.mnc": {
+      "filename": "loris_162138_V1_CT_002.mnc",
+      "size": 2925429
+    },
+    "loris_162138_V1_t1_001.mnc": {
+      "filename": "loris_162138_V1_t1_001.mnc",
+      "size": 16385755
+    },
+    "loris_162138_V1_t2_001.mnc": {
+      "filename": "loris_162138_V1_t2_001.mnc",
+      "size": 15610730
+    },
+    "loris_177747_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc": {
+      "filename": "loris_177747_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc",
+      "size": 1078423
+    },
+    "loris_177747_V1_T2_EPI_rev_phase_encod_grad_dir_002.mnc": {
+      "filename": "loris_177747_V1_T2_EPI_rev_phase_encod_grad_dir_002.mnc",
+      "size": 1074486
+    },
+    "loris_177747_V1_dti_001.mnc": {
+      "filename": "loris_177747_V1_dti_001.mnc",
+      "size": 48980278
+    },
+    "loris_177747_V1_dti_002.mnc": {
+      "filename": "loris_177747_V1_dti_002.mnc",
+      "size": 48498736
+    },
+    "loris_177747_V1_fMRI_001.mnc": {
+      "filename": "loris_177747_V1_fMRI_001.mnc",
+      "size": 35589461
+    },
+    "loris_177747_V1_fMRI_002.mnc": {
+      "filename": "loris_177747_V1_fMRI_002.mnc",
+      "size": 42218693
+    },
+    "loris_177747_V1_fMRI_003.mnc": {
+      "filename": "loris_177747_V1_fMRI_003.mnc",
+      "size": 36173282
+    },
+    "loris_177747_V1_fMRI_004.mnc": {
+      "filename": "loris_177747_V1_fMRI_004.mnc",
+      "size": 42573208
+    },
+    "loris_177747_V1_t1_001.mnc": {
+      "filename": "loris_177747_V1_t1_001.mnc",
+      "size": 15900840
+    },
+    "loris_177747_V1_t1_002.mnc": {
+      "filename": "loris_177747_V1_t1_002.mnc",
+      "size": 15988218
+    },
+    "loris_179173_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc": {
+      "filename": "loris_179173_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc",
+      "size": 1142050
+    },
+    "loris_179173_V1_dti_001.mnc": {
+      "filename": "loris_179173_V1_dti_001.mnc",
+      "size": 51787338
+    },
+    "loris_179173_V1_fMRI_001.mnc": {
+      "filename": "loris_179173_V1_fMRI_001.mnc",
+      "size": 39078669
+    },
+    "loris_179173_V1_fMRI_002.mnc": {
+      "filename": "loris_179173_V1_fMRI_002.mnc",
+      "size": 46271348
+    },
+    "loris_179173_V1_t1_001.mnc": {
+      "filename": "loris_179173_V1_t1_001.mnc",
+      "size": 16794108
+    },
+    "loris_186263_V1_t1_001.mnc": {
+      "filename": "loris_186263_V1_t1_001.mnc",
+      "size": 12938177
+    },
+    "loris_187208_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc": {
+      "filename": "loris_187208_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc",
+      "size": 1575350
+    },
+    "loris_187208_V1_dti_001.mnc": {
+      "filename": "loris_187208_V1_dti_001.mnc",
+      "size": 98311866
+    },
+    "loris_187208_V1_fMRI_001.mnc": {
+      "filename": "loris_187208_V1_fMRI_001.mnc",
+      "size": 41462324
+    },
+    "loris_187208_V1_fMRI_002.mnc": {
+      "filename": "loris_187208_V1_fMRI_002.mnc",
+      "size": 67421715
+    },
+    "loris_187208_V1_fMRI_003.mnc": {
+      "filename": "loris_187208_V1_fMRI_003.mnc",
+      "size": 26091235
+    },
+    "loris_187208_V1_fMRI_004.mnc": {
+      "filename": "loris_187208_V1_fMRI_004.mnc",
+      "size": 25959667
+    },
+    "loris_187208_V1_fMRI_005.mnc": {
+      "filename": "loris_187208_V1_fMRI_005.mnc",
+      "size": 36265352
+    },
+    "loris_187208_V1_t1_001.mnc": {
+      "filename": "loris_187208_V1_t1_001.mnc",
+      "size": 19229534
+    },
+    "loris_202784_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc": {
+      "filename": "loris_202784_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc",
+      "size": 1535968
+    },
+    "loris_202784_V1_dti_001.mnc": {
+      "filename": "loris_202784_V1_dti_001.mnc",
+      "size": 93957172
+    },
+    "loris_202784_V1_fMRI_001.mnc": {
+      "filename": "loris_202784_V1_fMRI_001.mnc",
+      "size": 39978292
+    },
+    "loris_202784_V1_fMRI_002.mnc": {
+      "filename": "loris_202784_V1_fMRI_002.mnc",
+      "size": 64883761
+    },
+    "loris_202784_V1_fMRI_003.mnc": {
+      "filename": "loris_202784_V1_fMRI_003.mnc",
+      "size": 25004230
+    },
+    "loris_202784_V1_fMRI_004.mnc": {
+      "filename": "loris_202784_V1_fMRI_004.mnc",
+      "size": 25039389
+    },
+    "loris_202784_V1_fMRI_005.mnc": {
+      "filename": "loris_202784_V1_fMRI_005.mnc",
+      "size": 35174777
+    },
+    "loris_202784_V1_t1_001.mnc": {
+      "filename": "loris_202784_V1_t1_001.mnc",
+      "size": 19428985
+    },
+    "loris_202784_V1_t1_002.mnc": {
+      "filename": "loris_202784_V1_t1_002.mnc",
+      "size": 19166938
+    },
+    "loris_209214_V1_t1_001.mnc": {
+      "filename": "loris_209214_V1_t1_001.mnc",
+      "size": 15559854
+    },
+    "loris_223572_V1_fMRI_001.mnc": {
+      "filename": "loris_223572_V1_fMRI_001.mnc",
+      "size": 25332771
+    },
+    "loris_223572_V1_fMRI_002.mnc": {
+      "filename": "loris_223572_V1_fMRI_002.mnc",
+      "size": 14802938
+    },
+    "loris_223572_V1_fMRI_003.mnc": {
+      "filename": "loris_223572_V1_fMRI_003.mnc",
+      "size": 15759403
+    },
+    "loris_223572_V1_t1_001.mnc": {
+      "filename": "loris_223572_V1_t1_001.mnc",
+      "size": 20948504
+    },
+    "loris_223572_V1_t1_002.mnc": {
+      "filename": "loris_223572_V1_t1_002.mnc",
+      "size": 20411624
+    },
+    "loris_223572_V1_t1_003.mnc": {
+      "filename": "loris_223572_V1_t1_003.mnc",
+      "size": 20805078
+    },
+    "loris_225869_V1_dti_001.mnc": {
+      "filename": "loris_225869_V1_dti_001.mnc",
+      "size": 458544270
+    },
+    "loris_225869_V1_dti_002.mnc": {
+      "filename": "loris_225869_V1_dti_002.mnc",
+      "size": 460070400
+    },
+    "loris_225869_V1_t1_001.mnc": {
+      "filename": "loris_225869_V1_t1_001.mnc",
+      "size": 16368259
+    },
+    "loris_225869_V1_t1_002.mnc": {
+      "filename": "loris_225869_V1_t1_002.mnc",
+      "size": 16428362
+    },
+    "loris_233145_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc": {
+      "filename": "loris_233145_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc",
+      "size": 1519684
+    },
+    "loris_233145_V1_dti_001.mnc": {
+      "filename": "loris_233145_V1_dti_001.mnc",
+      "size": 95123060
+    },
+    "loris_233145_V1_fMRI_001.mnc": {
+      "filename": "loris_233145_V1_fMRI_001.mnc",
+      "size": 41181715
+    },
+    "loris_233145_V1_fMRI_002.mnc": {
+      "filename": "loris_233145_V1_fMRI_002.mnc",
+      "size": 66899058
+    },
+    "loris_233145_V1_fMRI_003.mnc": {
+      "filename": "loris_233145_V1_fMRI_003.mnc",
+      "size": 25791598
+    },
+    "loris_233145_V1_fMRI_004.mnc": {
+      "filename": "loris_233145_V1_fMRI_004.mnc",
+      "size": 25789610
+    },
+    "loris_233145_V1_fMRI_005.mnc": {
+      "filename": "loris_233145_V1_fMRI_005.mnc",
+      "size": 36059127
+    },
+    "loris_233145_V1_fMRI_006.mnc": {
+      "filename": "loris_233145_V1_fMRI_006.mnc",
+      "size": 150738633
+    },
+    "loris_233145_V1_fMRI_007.mnc": {
+      "filename": "loris_233145_V1_fMRI_007.mnc",
+      "size": 155694560
+    },
+    "loris_233145_V1_fMRI_008.mnc": {
+      "filename": "loris_233145_V1_fMRI_008.mnc",
+      "size": 26066039
+    },
+    "loris_233145_V1_fMRI_009.mnc": {
+      "filename": "loris_233145_V1_fMRI_009.mnc",
+      "size": 41281287
+    },
+    "loris_233145_V1_fMRI_010.mnc": {
+      "filename": "loris_233145_V1_fMRI_010.mnc",
+      "size": 67104626
+    },
+    "loris_233145_V1_fMRI_011.mnc": {
+      "filename": "loris_233145_V1_fMRI_011.mnc",
+      "size": 25865884
+    },
+    "loris_233145_V1_fMRI_012.mnc": {
+      "filename": "loris_233145_V1_fMRI_012.mnc",
+      "size": 41600095
+    },
+    "loris_233145_V1_fMRI_013.mnc": {
+      "filename": "loris_233145_V1_fMRI_013.mnc",
+      "size": 67759272
+    },
+    "loris_233145_V1_fMRI_014.mnc": {
+      "filename": "loris_233145_V1_fMRI_014.mnc",
+      "size": 26127187
+    },
+    "loris_233145_V1_fMRI_015.mnc": {
+      "filename": "loris_233145_V1_fMRI_015.mnc",
+      "size": 26048880
+    },
+    "loris_233145_V1_fMRI_016.mnc": {
+      "filename": "loris_233145_V1_fMRI_016.mnc",
+      "size": 36426552
+    },
+    "loris_233145_V1_t1_001.mnc": {
+      "filename": "loris_233145_V1_t1_001.mnc",
+      "size": 19315990
+    },
+    "loris_233145_V1_t1_002.mnc": {
+      "filename": "loris_233145_V1_t1_002.mnc",
+      "size": 19232029
+    },
+    "loris_233145_V1_t1_003.mnc": {
+      "filename": "loris_233145_V1_t1_003.mnc",
+      "size": 19506406
+    },
+    "loris_235820_V1_CTAC_001.mnc": {
+      "filename": "loris_235820_V1_CTAC_001.mnc",
+      "size": 9056932
+    },
+    "loris_235820_V1_CTAC_002.mnc": {
+      "filename": "loris_235820_V1_CTAC_002.mnc",
+      "size": 6563370
+    },
+    "loris_235820_V1_CT_001.mnc": {
+      "filename": "loris_235820_V1_CT_001.mnc",
+      "size": 2103633
+    },
+    "loris_235820_V1_CT_002.mnc": {
+      "filename": "loris_235820_V1_CT_002.mnc",
+      "size": 8606486
+    },
+    "loris_235820_V1_CT_003.mnc": {
+      "filename": "loris_235820_V1_CT_003.mnc",
+      "size": 1034417
+    },
+    "loris_235820_V1_CT_004.mnc": {
+      "filename": "loris_235820_V1_CT_004.mnc",
+      "size": 13043194
+    },
+    "loris_235820_V1_MAC_001.mnc": {
+      "filename": "loris_235820_V1_MAC_001.mnc",
+      "size": 1357774
+    },
+    "loris_235820_V1_MAC_002.mnc": {
+      "filename": "loris_235820_V1_MAC_002.mnc",
+      "size": 1663436
+    },
+    "loris_235820_V1_NAC_001.mnc": {
+      "filename": "loris_235820_V1_NAC_001.mnc",
+      "size": 2314516
+    },
+    "loris_235820_V1_NAC_002.mnc": {
+      "filename": "loris_235820_V1_NAC_002.mnc",
+      "size": 2503169
+    },
+    "loris_235820_V1_fMRI_001.mnc": {
+      "filename": "loris_235820_V1_fMRI_001.mnc",
+      "size": 57623770
+    },
+    "loris_235820_V1_fMRI_002.mnc": {
+      "filename": "loris_235820_V1_fMRI_002.mnc",
+      "size": 1761809
+    },
+    "loris_235820_V1_t1_001.mnc": {
+      "filename": "loris_235820_V1_t1_001.mnc",
+      "size": 16556920
+    },
+    "loris_236776_V1_fMRI_001.mnc": {
+      "filename": "loris_236776_V1_fMRI_001.mnc",
+      "size": 93265678
+    },
+    "loris_236776_V1_t1_001.mnc": {
+      "filename": "loris_236776_V1_t1_001.mnc",
+      "size": 16491089
+    },
+    "loris_238147_V1_CT_001.mnc": {
+      "filename": "loris_238147_V1_CT_001.mnc",
+      "size": 318070
+    },
+    "loris_238147_V1_CT_002.mnc": {
+      "filename": "loris_238147_V1_CT_002.mnc",
+      "size": 638184
+    },
+    "loris_238147_V1_CT_003.mnc": {
+      "filename": "loris_238147_V1_CT_003.mnc",
+      "size": 713742
+    },
+    "loris_238147_V2_CT_001.mnc": {
+      "filename": "loris_238147_V2_CT_001.mnc",
+      "size": 307299
+    },
+    "loris_238147_V2_CT_002.mnc": {
+      "filename": "loris_238147_V2_CT_002.mnc",
+      "size": 615939
+    },
+    "loris_238147_V2_CT_003.mnc": {
+      "filename": "loris_238147_V2_CT_003.mnc",
+      "size": 690299
+    },
+    "loris_239054_V3_fMRI_001.mnc": {
+      "filename": "loris_239054_V3_fMRI_001.mnc",
+      "size": 60537998
+    },
+    "loris_239054_V3_fMRI_002.mnc": {
+      "filename": "loris_239054_V3_fMRI_002.mnc",
+      "size": 60505295
+    },
+    "loris_239054_V3_fMRI_003.mnc": {
+      "filename": "loris_239054_V3_fMRI_003.mnc",
+      "size": 2352288
+    },
+    "loris_239054_V3_fMRI_004.mnc": {
+      "filename": "loris_239054_V3_fMRI_004.mnc",
+      "size": 2332950
+    },
+    "loris_239054_V3_fMRI_005.mnc": {
+      "filename": "loris_239054_V3_fMRI_005.mnc",
+      "size": 1851912
+    },
+    "loris_239054_V3_fMRI_006.mnc": {
+      "filename": "loris_239054_V3_fMRI_006.mnc",
+      "size": 25206351
+    },
+    "loris_239054_V3_fMRI_007.mnc": {
+      "filename": "loris_239054_V3_fMRI_007.mnc",
+      "size": 20201014
+    },
+    "loris_239054_V3_fMRI_008.mnc": {
+      "filename": "loris_239054_V3_fMRI_008.mnc",
+      "size": 60766982
+    },
+    "loris_239054_V3_t1_001.mnc": {
+      "filename": "loris_239054_V3_t1_001.mnc",
+      "size": 29867253
+    },
+    "loris_239054_V3_t1_002.mnc": {
+      "filename": "loris_239054_V3_t1_002.mnc",
+      "size": 36217918
+    },
+    "loris_239054_V3_t1_003.mnc": {
+      "filename": "loris_239054_V3_t1_003.mnc",
+      "size": 8491001
+    },
+    "loris_249723_V1_dti_001.mnc": {
+      "filename": "loris_249723_V1_dti_001.mnc",
+      "size": 89671235
+    },
+    "loris_249723_V1_dti_002.mnc": {
+      "filename": "loris_249723_V1_dti_002.mnc",
+      "size": 91352191
+    },
+    "loris_249723_V1_dti_003.mnc": {
+      "filename": "loris_249723_V1_dti_003.mnc",
+      "size": 91775694
+    },
+    "loris_249723_V1_t1_001.mnc": {
+      "filename": "loris_249723_V1_t1_001.mnc",
+      "size": 7297226
+    },
+    "loris_260537_V1_fMRI_001.mnc": {
+      "filename": "loris_260537_V1_fMRI_001.mnc",
+      "size": 4840913
+    },
+    "loris_260537_V1_fMRI_002.mnc": {
+      "filename": "loris_260537_V1_fMRI_002.mnc",
+      "size": 87102824
+    },
+    "loris_260537_V1_t1_001.mnc": {
+      "filename": "loris_260537_V1_t1_001.mnc",
+      "size": 16883336
+    },
+    "loris_260537_V1_t1_002.mnc": {
+      "filename": "loris_260537_V1_t1_002.mnc",
+      "size": 20221413
+    },
+    "loris_260537_V1_t1_003.mnc": {
+      "filename": "loris_260537_V1_t1_003.mnc",
+      "size": 7702350
+    },
+    "loris_260537_V1_t1_004.mnc": {
+      "filename": "loris_260537_V1_t1_004.mnc",
+      "size": 15538528
+    },
+    "loris_263385_V1_CT_001.mnc": {
+      "filename": "loris_263385_V1_CT_001.mnc",
+      "size": 299837
+    },
+    "loris_263385_V1_CT_002.mnc": {
+      "filename": "loris_263385_V1_CT_002.mnc",
+      "size": 606588
+    },
+    "loris_263385_V1_CT_003.mnc": {
+      "filename": "loris_263385_V1_CT_003.mnc",
+      "size": 751375
+    },
+    "loris_263812_V1_fMRI_001.mnc": {
+      "filename": "loris_263812_V1_fMRI_001.mnc",
+      "size": 43625754
+    },
+    "loris_263812_V1_fMRI_002.mnc": {
+      "filename": "loris_263812_V1_fMRI_002.mnc",
+      "size": 43730999
+    },
+    "loris_263812_V1_fMRI_003.mnc": {
+      "filename": "loris_263812_V1_fMRI_003.mnc",
+      "size": 43716204
+    },
+    "loris_263812_V1_fMRI_004.mnc": {
+      "filename": "loris_263812_V1_fMRI_004.mnc",
+      "size": 59956976
+    },
+    "loris_263812_V1_fMRI_005.mnc": {
+      "filename": "loris_263812_V1_fMRI_005.mnc",
+      "size": 56600629
+    },
+    "loris_263812_V1_t1_001.mnc": {
+      "filename": "loris_263812_V1_t1_001.mnc",
+      "size": 24747347
+    },
+    "loris_263812_V1_t1_002.mnc": {
+      "filename": "loris_263812_V1_t1_002.mnc",
+      "size": 23803386
+    },
+    "loris_317629_V1_t1_001.mnc": {
+      "filename": "loris_317629_V1_t1_001.mnc",
+      "size": 15967563
+    },
+    "loris_317629_V1_t1_002.mnc": {
+      "filename": "loris_317629_V1_t1_002.mnc",
+      "size": 16238704
+    },
+    "loris_317802_V1_CTAC_001.mnc": {
+      "filename": "loris_317802_V1_CTAC_001.mnc",
+      "size": 8631159
+    },
+    "loris_317802_V1_CTAC_002.mnc": {
+      "filename": "loris_317802_V1_CTAC_002.mnc",
+      "size": 6517699
+    },
+    "loris_317802_V1_CT_001.mnc": {
+      "filename": "loris_317802_V1_CT_001.mnc",
+      "size": 1889025
+    },
+    "loris_317802_V1_CT_002.mnc": {
+      "filename": "loris_317802_V1_CT_002.mnc",
+      "size": 10426554
+    },
+    "loris_317802_V1_CT_003.mnc": {
+      "filename": "loris_317802_V1_CT_003.mnc",
+      "size": 1082139
+    },
+    "loris_317802_V1_CT_004.mnc": {
+      "filename": "loris_317802_V1_CT_004.mnc",
+      "size": 12900331
+    },
+    "loris_317802_V1_MAC_001.mnc": {
+      "filename": "loris_317802_V1_MAC_001.mnc",
+      "size": 955773
+    },
+    "loris_317802_V1_MAC_002.mnc": {
+      "filename": "loris_317802_V1_MAC_002.mnc",
+      "size": 1658165
+    },
+    "loris_317802_V1_NAC_001.mnc": {
+      "filename": "loris_317802_V1_NAC_001.mnc",
+      "size": 1932923
+    },
+    "loris_317802_V1_NAC_002.mnc": {
+      "filename": "loris_317802_V1_NAC_002.mnc",
+      "size": 2505253
+    },
+    "loris_317802_V1_fMRI_001.mnc": {
+      "filename": "loris_317802_V1_fMRI_001.mnc",
+      "size": 48633003
+    },
+    "loris_317802_V1_t1_001.mnc": {
+      "filename": "loris_317802_V1_t1_001.mnc",
+      "size": 16758717
+    },
+    "loris_320015_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc": {
+      "filename": "loris_320015_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc",
+      "size": 1524902
+    },
+    "loris_320015_V1_dti_001.mnc": {
+      "filename": "loris_320015_V1_dti_001.mnc",
+      "size": 94966885
+    },
+    "loris_320015_V1_fMRI_001.mnc": {
+      "filename": "loris_320015_V1_fMRI_001.mnc",
+      "size": 327810599
+    },
+    "loris_320015_V1_fMRI_002.mnc": {
+      "filename": "loris_320015_V1_fMRI_002.mnc",
+      "size": 26244534
+    },
+    "loris_320015_V1_fMRI_003.mnc": {
+      "filename": "loris_320015_V1_fMRI_003.mnc",
+      "size": 41873128
+    },
+    "loris_320015_V1_fMRI_004.mnc": {
+      "filename": "loris_320015_V1_fMRI_004.mnc",
+      "size": 68424784
+    },
+    "loris_320015_V1_fMRI_005.mnc": {
+      "filename": "loris_320015_V1_fMRI_005.mnc",
+      "size": 26447688
+    },
+    "loris_320015_V1_fMRI_006.mnc": {
+      "filename": "loris_320015_V1_fMRI_006.mnc",
+      "size": 44307277
+    },
+    "loris_320015_V1_fMRI_007.mnc": {
+      "filename": "loris_320015_V1_fMRI_007.mnc",
+      "size": 72221983
+    },
+    "loris_320015_V1_fMRI_008.mnc": {
+      "filename": "loris_320015_V1_fMRI_008.mnc",
+      "size": 27792131
+    },
+    "loris_320015_V1_fMRI_009.mnc": {
+      "filename": "loris_320015_V1_fMRI_009.mnc",
+      "size": 27742410
+    },
+    "loris_320015_V1_fMRI_010.mnc": {
+      "filename": "loris_320015_V1_fMRI_010.mnc",
+      "size": 38831486
+    },
+    "loris_320015_V1_fMRI_011.mnc": {
+      "filename": "loris_320015_V1_fMRI_011.mnc",
+      "size": 13773470
+    },
+    "loris_320015_V1_fMRI_012.mnc": {
+      "filename": "loris_320015_V1_fMRI_012.mnc",
+      "size": 3482326
+    },
+    "loris_320015_V1_fMRI_013.mnc": {
+      "filename": "loris_320015_V1_fMRI_013.mnc",
+      "size": 8075300
+    },
+    "loris_320015_V1_fMRI_014.mnc": {
+      "filename": "loris_320015_V1_fMRI_014.mnc",
+      "size": 41554757
+    },
+    "loris_320015_V1_fMRI_015.mnc": {
+      "filename": "loris_320015_V1_fMRI_015.mnc",
+      "size": 67328540
+    },
+    "loris_320015_V1_fMRI_016.mnc": {
+      "filename": "loris_320015_V1_fMRI_016.mnc",
+      "size": 26015433
+    },
+    "loris_320015_V1_fMRI_017.mnc": {
+      "filename": "loris_320015_V1_fMRI_017.mnc",
+      "size": 25985642
+    },
+    "loris_320015_V1_fMRI_018.mnc": {
+      "filename": "loris_320015_V1_fMRI_018.mnc",
+      "size": 36289366
+    },
+    "loris_320015_V1_t1_001.mnc": {
+      "filename": "loris_320015_V1_t1_001.mnc",
+      "size": 21141850
+    },
+    "loris_320015_V1_t1_002.mnc": {
+      "filename": "loris_320015_V1_t1_002.mnc",
+      "size": 20834696
+    },
+    "loris_320015_V1_t1_003.mnc": {
+      "filename": "loris_320015_V1_t1_003.mnc",
+      "size": 19341141
+    },
+    "loris_332687_V2_fMRI_001.mnc": {
+      "filename": "loris_332687_V2_fMRI_001.mnc",
+      "size": 60599161
+    },
+    "loris_332687_V2_fMRI_002.mnc": {
+      "filename": "loris_332687_V2_fMRI_002.mnc",
+      "size": 42705204
+    },
+    "loris_332687_V2_fMRI_003.mnc": {
+      "filename": "loris_332687_V2_fMRI_003.mnc",
+      "size": 42674977
+    },
+    "loris_332687_V2_fMRI_004.mnc": {
+      "filename": "loris_332687_V2_fMRI_004.mnc",
+      "size": 42508602
+    },
+    "loris_332687_V2_fMRI_005.mnc": {
+      "filename": "loris_332687_V2_fMRI_005.mnc",
+      "size": 42476475
+    },
+    "loris_332687_V2_fMRI_006.mnc": {
+      "filename": "loris_332687_V2_fMRI_006.mnc",
+      "size": 30235173
+    },
+    "loris_332687_V2_t1_001.mnc": {
+      "filename": "loris_332687_V2_t1_001.mnc",
+      "size": 23039669
+    },
+    "loris_336707_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc": {
+      "filename": "loris_336707_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc",
+      "size": 1061681
+    },
+    "loris_336707_V1_T2_EPI_rev_phase_encod_grad_dir_002.mnc": {
+      "filename": "loris_336707_V1_T2_EPI_rev_phase_encod_grad_dir_002.mnc",
+      "size": 1055808
+    },
+    "loris_336707_V1_dti_001.mnc": {
+      "filename": "loris_336707_V1_dti_001.mnc",
+      "size": 47613054
+    },
+    "loris_336707_V1_dti_002.mnc": {
+      "filename": "loris_336707_V1_dti_002.mnc",
+      "size": 46408149
+    },
+    "loris_336707_V1_fMRI_001.mnc": {
+      "filename": "loris_336707_V1_fMRI_001.mnc",
+      "size": 34309161
+    },
+    "loris_336707_V1_fMRI_002.mnc": {
+      "filename": "loris_336707_V1_fMRI_002.mnc",
+      "size": 40685714
+    },
+    "loris_336707_V1_fMRI_003.mnc": {
+      "filename": "loris_336707_V1_fMRI_003.mnc",
+      "size": 34475819
+    },
+    "loris_336707_V1_fMRI_004.mnc": {
+      "filename": "loris_336707_V1_fMRI_004.mnc",
+      "size": 40989559
+    },
+    "loris_336707_V1_t1_001.mnc": {
+      "filename": "loris_336707_V1_t1_001.mnc",
+      "size": 15584834
+    },
+    "loris_336707_V1_t1_002.mnc": {
+      "filename": "loris_336707_V1_t1_002.mnc",
+      "size": 15400990
+    },
+    "loris_342480_V1_dti_001.mnc": {
+      "filename": "loris_342480_V1_dti_001.mnc",
+      "size": 435836438
+    },
+    "loris_342480_V1_dti_002.mnc": {
+      "filename": "loris_342480_V1_dti_002.mnc",
+      "size": 437702033
+    },
+    "loris_342480_V1_t1_001.mnc": {
+      "filename": "loris_342480_V1_t1_001.mnc",
+      "size": 15807397
+    },
+    "loris_342480_V1_t1_002.mnc": {
+      "filename": "loris_342480_V1_t1_002.mnc",
+      "size": 15783609
+    },
+    "loris_348218_V1_CTAC_001.mnc": {
+      "filename": "loris_348218_V1_CTAC_001.mnc",
+      "size": 6401985
+    },
+    "loris_348218_V1_CT_001.mnc": {
+      "filename": "loris_348218_V1_CT_001.mnc",
+      "size": 1182989
+    },
+    "loris_348218_V1_CT_002.mnc": {
+      "filename": "loris_348218_V1_CT_002.mnc",
+      "size": 12400129
+    },
+    "loris_348218_V1_MAC_001.mnc": {
+      "filename": "loris_348218_V1_MAC_001.mnc",
+      "size": 18762782
+    },
+    "loris_348218_V1_MAC_002.mnc": {
+      "filename": "loris_348218_V1_MAC_002.mnc",
+      "size": 6083693
+    },
+    "loris_348218_V1_fMRI_001.mnc": {
+      "filename": "loris_348218_V1_fMRI_001.mnc",
+      "size": 60573471
+    },
+    "loris_348218_V1_t1_001.mnc": {
+      "filename": "loris_348218_V1_t1_001.mnc",
+      "size": 17582698
+    },
+    "loris_349303_V1_CTAC_001.mnc": {
+      "filename": "loris_349303_V1_CTAC_001.mnc",
+      "size": 10248789
+    },
+    "loris_349303_V1_CTAC_002.mnc": {
+      "filename": "loris_349303_V1_CTAC_002.mnc",
+      "size": 10214286
+    },
+    "loris_349303_V1_CTAC_003.mnc": {
+      "filename": "loris_349303_V1_CTAC_003.mnc",
+      "size": 6488023
+    },
+    "loris_349303_V1_CT_001.mnc": {
+      "filename": "loris_349303_V1_CT_001.mnc",
+      "size": 2315968
+    },
+    "loris_349303_V1_CT_002.mnc": {
+      "filename": "loris_349303_V1_CT_002.mnc",
+      "size": 9228483
+    },
+    "loris_349303_V1_CT_003.mnc": {
+      "filename": "loris_349303_V1_CT_003.mnc",
+      "size": 2348190
+    },
+    "loris_349303_V1_CT_004.mnc": {
+      "filename": "loris_349303_V1_CT_004.mnc",
+      "size": 9183916
+    },
+    "loris_349303_V1_CT_005.mnc": {
+      "filename": "loris_349303_V1_CT_005.mnc",
+      "size": 1105196
+    },
+    "loris_349303_V1_CT_006.mnc": {
+      "filename": "loris_349303_V1_CT_006.mnc",
+      "size": 12480198
+    },
+    "loris_349303_V1_MAC_001.mnc": {
+      "filename": "loris_349303_V1_MAC_001.mnc",
+      "size": 1177088
+    },
+    "loris_349303_V1_MAC_002.mnc": {
+      "filename": "loris_349303_V1_MAC_002.mnc",
+      "size": 1384609
+    },
+    "loris_349303_V1_MAC_003.mnc": {
+      "filename": "loris_349303_V1_MAC_003.mnc",
+      "size": 1724447
+    },
+    "loris_349303_V1_NAC_001.mnc": {
+      "filename": "loris_349303_V1_NAC_001.mnc",
+      "size": 2243812
+    },
+    "loris_349303_V1_NAC_002.mnc": {
+      "filename": "loris_349303_V1_NAC_002.mnc",
+      "size": 2373143
+    },
+    "loris_349303_V1_NAC_003.mnc": {
+      "filename": "loris_349303_V1_NAC_003.mnc",
+      "size": 2528425
+    },
+    "loris_349303_V1_fMRI_001.mnc": {
+      "filename": "loris_349303_V1_fMRI_001.mnc",
+      "size": 58341136
+    },
+    "loris_349303_V1_t1_001.mnc": {
+      "filename": "loris_349303_V1_t1_001.mnc",
+      "size": 17624567
+    },
+    "loris_354157_V1_fMRI_001.mnc": {
+      "filename": "loris_354157_V1_fMRI_001.mnc",
+      "size": 56914379
+    },
+    "loris_354157_V1_t1_001.mnc": {
+      "filename": "loris_354157_V1_t1_001.mnc",
+      "size": 17655486
+    },
+    "loris_356282_V1_t1_001.mnc": {
+      "filename": "loris_356282_V1_t1_001.mnc",
+      "size": 15742150
+    },
+    "loris_356282_V1_t1_002.mnc": {
+      "filename": "loris_356282_V1_t1_002.mnc",
+      "size": 15791057
+    },
+    "loris_357845_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc": {
+      "filename": "loris_357845_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc",
+      "size": 1520614
+    },
+    "loris_357845_V1_dti_001.mnc": {
+      "filename": "loris_357845_V1_dti_001.mnc",
+      "size": 94803559
+    },
+    "loris_357845_V1_fMRI_001.mnc": {
+      "filename": "loris_357845_V1_fMRI_001.mnc",
+      "size": 40061076
+    },
+    "loris_357845_V1_fMRI_002.mnc": {
+      "filename": "loris_357845_V1_fMRI_002.mnc",
+      "size": 65085530
+    },
+    "loris_357845_V1_fMRI_003.mnc": {
+      "filename": "loris_357845_V1_fMRI_003.mnc",
+      "size": 25212108
+    },
+    "loris_357845_V1_fMRI_004.mnc": {
+      "filename": "loris_357845_V1_fMRI_004.mnc",
+      "size": 25165717
+    },
+    "loris_357845_V1_fMRI_005.mnc": {
+      "filename": "loris_357845_V1_fMRI_005.mnc",
+      "size": 35154568
+    },
+    "loris_357845_V1_fMRI_006.mnc": {
+      "filename": "loris_357845_V1_fMRI_006.mnc",
+      "size": 299832510
+    },
+    "loris_357845_V1_fMRI_007.mnc": {
+      "filename": "loris_357845_V1_fMRI_007.mnc",
+      "size": 8027096
+    },
+    "loris_357845_V1_fMRI_008.mnc": {
+      "filename": "loris_357845_V1_fMRI_008.mnc",
+      "size": 25303213
+    },
+    "loris_357845_V1_fMRI_009.mnc": {
+      "filename": "loris_357845_V1_fMRI_009.mnc",
+      "size": 39919655
+    },
+    "loris_357845_V1_fMRI_010.mnc": {
+      "filename": "loris_357845_V1_fMRI_010.mnc",
+      "size": 64703080
+    },
+    "loris_357845_V1_fMRI_011.mnc": {
+      "filename": "loris_357845_V1_fMRI_011.mnc",
+      "size": 24945547
+    },
+    "loris_357845_V1_fMRI_012.mnc": {
+      "filename": "loris_357845_V1_fMRI_012.mnc",
+      "size": 40046040
+    },
+    "loris_357845_V1_fMRI_013.mnc": {
+      "filename": "loris_357845_V1_fMRI_013.mnc",
+      "size": 65116383
+    },
+    "loris_357845_V1_fMRI_014.mnc": {
+      "filename": "loris_357845_V1_fMRI_014.mnc",
+      "size": 25138768
+    },
+    "loris_357845_V1_fMRI_015.mnc": {
+      "filename": "loris_357845_V1_fMRI_015.mnc",
+      "size": 25104828
+    },
+    "loris_357845_V1_fMRI_016.mnc": {
+      "filename": "loris_357845_V1_fMRI_016.mnc",
+      "size": 35082513
+    },
+    "loris_357845_V1_t1_001.mnc": {
+      "filename": "loris_357845_V1_t1_001.mnc",
+      "size": 18840237
+    },
+    "loris_357845_V1_t1_002.mnc": {
+      "filename": "loris_357845_V1_t1_002.mnc",
+      "size": 18855724
+    },
+    "loris_357845_V1_t1_003.mnc": {
+      "filename": "loris_357845_V1_t1_003.mnc",
+      "size": 19974996
+    },
+    "loris_357845_V1_t1_004.mnc": {
+      "filename": "loris_357845_V1_t1_004.mnc",
+      "size": 19247914
+    },
+    "loris_366138_V1_dti_001.mnc": {
+      "filename": "loris_366138_V1_dti_001.mnc",
+      "size": 94775938
+    },
+    "loris_366138_V1_fMRI_001.mnc": {
+      "filename": "loris_366138_V1_fMRI_001.mnc",
+      "size": 40951831
+    },
+    "loris_366138_V1_fMRI_002.mnc": {
+      "filename": "loris_366138_V1_fMRI_002.mnc",
+      "size": 66466134
+    },
+    "loris_366138_V1_fMRI_003.mnc": {
+      "filename": "loris_366138_V1_fMRI_003.mnc",
+      "size": 25621508
+    },
+    "loris_366138_V1_fMRI_004.mnc": {
+      "filename": "loris_366138_V1_fMRI_004.mnc",
+      "size": 25663111
+    },
+    "loris_366138_V1_fMRI_005.mnc": {
+      "filename": "loris_366138_V1_fMRI_005.mnc",
+      "size": 35817894
+    },
+    "loris_366138_V1_t1_001.mnc": {
+      "filename": "loris_366138_V1_t1_001.mnc",
+      "size": 20003756
+    },
+    "loris_366138_V1_t1_002.mnc": {
+      "filename": "loris_366138_V1_t1_002.mnc",
+      "size": 19556258
+    },
+    "loris_368856_V1_dti_001.mnc": {
+      "filename": "loris_368856_V1_dti_001.mnc",
+      "size": 449270117
+    },
+    "loris_368856_V1_dti_002.mnc": {
+      "filename": "loris_368856_V1_dti_002.mnc",
+      "size": 449189124
+    },
+    "loris_368856_V1_dti_003.mnc": {
+      "filename": "loris_368856_V1_dti_003.mnc",
+      "size": 441149412
+    },
+    "loris_368856_V1_t1_001.mnc": {
+      "filename": "loris_368856_V1_t1_001.mnc",
+      "size": 16404482
+    },
+    "loris_368856_V1_t1_002.mnc": {
+      "filename": "loris_368856_V1_t1_002.mnc",
+      "size": 16633053
+    },
+    "loris_368856_V1_t1_003.mnc": {
+      "filename": "loris_368856_V1_t1_003.mnc",
+      "size": 16456447
+    },
+    "loris_369239_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc": {
+      "filename": "loris_369239_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc",
+      "size": 1522226
+    },
+    "loris_369239_V1_dti_001.mnc": {
+      "filename": "loris_369239_V1_dti_001.mnc",
+      "size": 92718632
+    },
+    "loris_369239_V1_fMRI_001.mnc": {
+      "filename": "loris_369239_V1_fMRI_001.mnc",
+      "size": 40609085
+    },
+    "loris_369239_V1_fMRI_002.mnc": {
+      "filename": "loris_369239_V1_fMRI_002.mnc",
+      "size": 66125514
+    },
+    "loris_369239_V1_fMRI_003.mnc": {
+      "filename": "loris_369239_V1_fMRI_003.mnc",
+      "size": 25466000
+    },
+    "loris_369239_V1_fMRI_004.mnc": {
+      "filename": "loris_369239_V1_fMRI_004.mnc",
+      "size": 25478791
+    },
+    "loris_369239_V1_fMRI_005.mnc": {
+      "filename": "loris_369239_V1_fMRI_005.mnc",
+      "size": 35746216
+    },
+    "loris_369239_V1_t1_001.mnc": {
+      "filename": "loris_369239_V1_t1_001.mnc",
+      "size": 18997140
+    },
+    "loris_369239_V1_t1_002.mnc": {
+      "filename": "loris_369239_V1_t1_002.mnc",
+      "size": 18859721
+    },
+    "loris_377206_V1_fMRI_001.mnc": {
+      "filename": "loris_377206_V1_fMRI_001.mnc",
+      "size": 2245705
+    },
+    "loris_377206_V1_fMRI_002.mnc": {
+      "filename": "loris_377206_V1_fMRI_002.mnc",
+      "size": 40781370
+    },
+    "loris_377206_V1_fMRI_003.mnc": {
+      "filename": "loris_377206_V1_fMRI_003.mnc",
+      "size": 52915468
+    },
+    "loris_377206_V1_fMRI_004.mnc": {
+      "filename": "loris_377206_V1_fMRI_004.mnc",
+      "size": 28711617
+    },
+    "loris_377206_V1_fMRI_005.mnc": {
+      "filename": "loris_377206_V1_fMRI_005.mnc",
+      "size": 24184846
+    },
+    "loris_377206_V1_t1_001.mnc": {
+      "filename": "loris_377206_V1_t1_001.mnc",
+      "size": 14217451
+    },
+    "loris_377206_V1_t1_002.mnc": {
+      "filename": "loris_377206_V1_t1_002.mnc",
+      "size": 31163532
+    },
+    "loris_377206_V1_t1_003.mnc": {
+      "filename": "loris_377206_V1_t1_003.mnc",
+      "size": 19805654
+    },
+    "loris_378411_V1_fMRI_001.mnc": {
+      "filename": "loris_378411_V1_fMRI_001.mnc",
+      "size": 58854679
+    },
+    "loris_378411_V1_fMRI_002.mnc": {
+      "filename": "loris_378411_V1_fMRI_002.mnc",
+      "size": 42101556
+    },
+    "loris_378411_V1_fMRI_003.mnc": {
+      "filename": "loris_378411_V1_fMRI_003.mnc",
+      "size": 42079839
+    },
+    "loris_378411_V1_t1_001.mnc": {
+      "filename": "loris_378411_V1_t1_001.mnc",
+      "size": 22133247
+    },
+    "loris_378411_V1_t1_002.mnc": {
+      "filename": "loris_378411_V1_t1_002.mnc",
+      "size": 23106050
+    },
+    "loris_407616_V1_dti_001.mnc": {
+      "filename": "loris_407616_V1_dti_001.mnc",
+      "size": 104675873
+    },
+    "loris_407616_V1_fMRI_001.mnc": {
+      "filename": "loris_407616_V1_fMRI_001.mnc",
+      "size": 2263082
+    },
+    "loris_407616_V1_fMRI_002.mnc": {
+      "filename": "loris_407616_V1_fMRI_002.mnc",
+      "size": 25790705
+    },
+    "loris_407616_V1_fMRI_003.mnc": {
+      "filename": "loris_407616_V1_fMRI_003.mnc",
+      "size": 35897239
+    },
+    "loris_407616_V1_fMRI_004.mnc": {
+      "filename": "loris_407616_V1_fMRI_004.mnc",
+      "size": 34278193
+    },
+    "loris_407616_V1_fMRI_005.mnc": {
+      "filename": "loris_407616_V1_fMRI_005.mnc",
+      "size": 62025518
+    },
+    "loris_407616_V1_fMRI_006.mnc": {
+      "filename": "loris_407616_V1_fMRI_006.mnc",
+      "size": 2256730
+    },
+    "loris_407616_V1_fMRI_007.mnc": {
+      "filename": "loris_407616_V1_fMRI_007.mnc",
+      "size": 2238707
+    },
+    "loris_407616_V1_fMRI_008.mnc": {
+      "filename": "loris_407616_V1_fMRI_008.mnc",
+      "size": 2275268
+    },
+    "loris_407616_V1_fMRI_009.mnc": {
+      "filename": "loris_407616_V1_fMRI_009.mnc",
+      "size": 25531909
+    },
+    "loris_407616_V1_fMRI_010.mnc": {
+      "filename": "loris_407616_V1_fMRI_010.mnc",
+      "size": 20385153
+    },
+    "loris_407616_V1_fMRI_011.mnc": {
+      "filename": "loris_407616_V1_fMRI_011.mnc",
+      "size": 60762099
+    },
+    "loris_407616_V1_fMRI_012.mnc": {
+      "filename": "loris_407616_V1_fMRI_012.mnc",
+      "size": 61454652
+    },
+    "loris_407616_V1_fMRI_013.mnc": {
+      "filename": "loris_407616_V1_fMRI_013.mnc",
+      "size": 61054782
+    },
+    "loris_407616_V1_t1_001.mnc": {
+      "filename": "loris_407616_V1_t1_001.mnc",
+      "size": 19920282
+    },
+    "loris_407616_V1_t1_002.mnc": {
+      "filename": "loris_407616_V1_t1_002.mnc",
+      "size": 15746429
+    },
+    "loris_407616_V1_t1_003.mnc": {
+      "filename": "loris_407616_V1_t1_003.mnc",
+      "size": 18136068
+    },
+    "loris_407616_V1_t1_004.mnc": {
+      "filename": "loris_407616_V1_t1_004.mnc",
+      "size": 8033107
+    },
+    "loris_411874_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc": {
+      "filename": "loris_411874_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc",
+      "size": 1638857
+    },
+    "loris_411874_V1_dti_001.mnc": {
+      "filename": "loris_411874_V1_dti_001.mnc",
+      "size": 102027182
+    },
+    "loris_411874_V1_fMRI_001.mnc": {
+      "filename": "loris_411874_V1_fMRI_001.mnc",
+      "size": 26838665
+    },
+    "loris_411874_V1_fMRI_002.mnc": {
+      "filename": "loris_411874_V1_fMRI_002.mnc",
+      "size": 26847501
+    },
+    "loris_411874_V1_fMRI_003.mnc": {
+      "filename": "loris_411874_V1_fMRI_003.mnc",
+      "size": 37497936
+    },
+    "loris_411874_V1_fMRI_004.mnc": {
+      "filename": "loris_411874_V1_fMRI_004.mnc",
+      "size": 69892031
+    },
+    "loris_411874_V1_fMRI_005.mnc": {
+      "filename": "loris_411874_V1_fMRI_005.mnc",
+      "size": 325147111
+    },
+    "loris_411874_V1_fMRI_006.mnc": {
+      "filename": "loris_411874_V1_fMRI_006.mnc",
+      "size": 27133881
+    },
+    "loris_411874_V1_fMRI_007.mnc": {
+      "filename": "loris_411874_V1_fMRI_007.mnc",
+      "size": 43963653
+    },
+    "loris_411874_V1_fMRI_008.mnc": {
+      "filename": "loris_411874_V1_fMRI_008.mnc",
+      "size": 71329206
+    },
+    "loris_411874_V1_fMRI_009.mnc": {
+      "filename": "loris_411874_V1_fMRI_009.mnc",
+      "size": 27519964
+    },
+    "loris_411874_V1_fMRI_010.mnc": {
+      "filename": "loris_411874_V1_fMRI_010.mnc",
+      "size": 42425198
+    },
+    "loris_411874_V1_fMRI_011.mnc": {
+      "filename": "loris_411874_V1_fMRI_011.mnc",
+      "size": 68934908
+    },
+    "loris_411874_V1_fMRI_012.mnc": {
+      "filename": "loris_411874_V1_fMRI_012.mnc",
+      "size": 26565904
+    },
+    "loris_411874_V1_fMRI_013.mnc": {
+      "filename": "loris_411874_V1_fMRI_013.mnc",
+      "size": 26559076
+    },
+    "loris_411874_V1_fMRI_014.mnc": {
+      "filename": "loris_411874_V1_fMRI_014.mnc",
+      "size": 37154506
+    },
+    "loris_411874_V1_t1_001.mnc": {
+      "filename": "loris_411874_V1_t1_001.mnc",
+      "size": 19914363
+    },
+    "loris_411874_V1_t1_002.mnc": {
+      "filename": "loris_411874_V1_t1_002.mnc",
+      "size": 19735940
+    },
+    "loris_411874_V1_t1_003.mnc": {
+      "filename": "loris_411874_V1_t1_003.mnc",
+      "size": 19884748
+    },
+    "loris_411874_V1_t1_004.mnc": {
+      "filename": "loris_411874_V1_t1_004.mnc",
+      "size": 20126465
+    },
+    "loris_423613_V1_fMRI_001.mnc": {
+      "filename": "loris_423613_V1_fMRI_001.mnc",
+      "size": 25133650
+    },
+    "loris_423613_V1_fMRI_002.mnc": {
+      "filename": "loris_423613_V1_fMRI_002.mnc",
+      "size": 35153544
+    },
+    "loris_423613_V1_fMRI_003.mnc": {
+      "filename": "loris_423613_V1_fMRI_003.mnc",
+      "size": 300550747
+    },
+    "loris_423613_V1_fMRI_004.mnc": {
+      "filename": "loris_423613_V1_fMRI_004.mnc",
+      "size": 25311356
+    },
+    "loris_423613_V1_fMRI_005.mnc": {
+      "filename": "loris_423613_V1_fMRI_005.mnc",
+      "size": 40307345
+    },
+    "loris_423613_V1_fMRI_006.mnc": {
+      "filename": "loris_423613_V1_fMRI_006.mnc",
+      "size": 65571799
+    },
+    "loris_423613_V1_fMRI_007.mnc": {
+      "filename": "loris_423613_V1_fMRI_007.mnc",
+      "size": 25328468
+    },
+    "loris_423613_V1_fMRI_008.mnc": {
+      "filename": "loris_423613_V1_fMRI_008.mnc",
+      "size": 2187321
+    },
+    "loris_423613_V1_fMRI_009.mnc": {
+      "filename": "loris_423613_V1_fMRI_009.mnc",
+      "size": 10901031
+    },
+    "loris_423613_V1_fMRI_010.mnc": {
+      "filename": "loris_423613_V1_fMRI_010.mnc",
+      "size": 40080594
+    },
+    "loris_423613_V1_fMRI_011.mnc": {
+      "filename": "loris_423613_V1_fMRI_011.mnc",
+      "size": 65082150
+    },
+    "loris_423613_V1_fMRI_012.mnc": {
+      "filename": "loris_423613_V1_fMRI_012.mnc",
+      "size": 25132368
+    },
+    "loris_423613_V1_t1_001.mnc": {
+      "filename": "loris_423613_V1_t1_001.mnc",
+      "size": 19004228
+    },
+    "loris_430370_V1_t1_001.mnc": {
+      "filename": "loris_430370_V1_t1_001.mnc",
+      "size": 19726973
+    },
+    "loris_434783_V1_fMRI_001.mnc": {
+      "filename": "loris_434783_V1_fMRI_001.mnc",
+      "size": 96033240
+    },
+    "loris_434783_V1_t1_001.mnc": {
+      "filename": "loris_434783_V1_t1_001.mnc",
+      "size": 16560473
+    },
+    "loris_441894_V1_dti_001.mnc": {
+      "filename": "loris_441894_V1_dti_001.mnc",
+      "size": 425465659
+    },
+    "loris_441894_V1_dti_002.mnc": {
+      "filename": "loris_441894_V1_dti_002.mnc",
+      "size": 427797132
+    },
+    "loris_441894_V1_t1_001.mnc": {
+      "filename": "loris_441894_V1_t1_001.mnc",
+      "size": 15719377
+    },
+    "loris_441894_V1_t1_002.mnc": {
+      "filename": "loris_441894_V1_t1_002.mnc",
+      "size": 15571561
+    },
+    "loris_449595_V1_fMRI_001.mnc": {
+      "filename": "loris_449595_V1_fMRI_001.mnc",
+      "size": 36237244
+    },
+    "loris_449595_V1_fMRI_002.mnc": {
+      "filename": "loris_449595_V1_fMRI_002.mnc",
+      "size": 6143207
+    },
+    "loris_449595_V1_fMRI_003.mnc": {
+      "filename": "loris_449595_V1_fMRI_003.mnc",
+      "size": 41413767
+    },
+    "loris_449595_V1_fMRI_004.mnc": {
+      "filename": "loris_449595_V1_fMRI_004.mnc",
+      "size": 67129843
+    },
+    "loris_449595_V1_fMRI_005.mnc": {
+      "filename": "loris_449595_V1_fMRI_005.mnc",
+      "size": 25869479
+    },
+    "loris_449595_V1_fMRI_006.mnc": {
+      "filename": "loris_449595_V1_fMRI_006.mnc",
+      "size": 25859778
+    },
+    "loris_451749_V1_dti_001.mnc": {
+      "filename": "loris_451749_V1_dti_001.mnc",
+      "size": 184434003
+    },
+    "loris_451749_V1_fMRI_001.mnc": {
+      "filename": "loris_451749_V1_fMRI_001.mnc",
+      "size": 37058606
+    },
+    "loris_451749_V1_fMRI_002.mnc": {
+      "filename": "loris_451749_V1_fMRI_002.mnc",
+      "size": 2251963
+    },
+    "loris_451749_V1_fMRI_003.mnc": {
+      "filename": "loris_451749_V1_fMRI_003.mnc",
+      "size": 44038602
+    },
+    "loris_451749_V1_t1_001.mnc": {
+      "filename": "loris_451749_V1_t1_001.mnc",
+      "size": 16020031
+    },
+    "loris_451959_V3_CT_001.mnc": {
+      "filename": "loris_451959_V3_CT_001.mnc",
+      "size": 299024
+    },
+    "loris_451959_V3_CT_002.mnc": {
+      "filename": "loris_451959_V3_CT_002.mnc",
+      "size": 600488
+    },
+    "loris_451959_V3_CT_003.mnc": {
+      "filename": "loris_451959_V3_CT_003.mnc",
+      "size": 671233
+    },
+    "loris_466423_V1_fMRI_001.mnc": {
+      "filename": "loris_466423_V1_fMRI_001.mnc",
+      "size": 12137434
+    },
+    "loris_466423_V1_fMRI_002.mnc": {
+      "filename": "loris_466423_V1_fMRI_002.mnc",
+      "size": 76089053
+    },
+    "loris_466423_V1_fMRI_003.mnc": {
+      "filename": "loris_466423_V1_fMRI_003.mnc",
+      "size": 76085559
+    },
+    "loris_466423_V1_fMRI_004.mnc": {
+      "filename": "loris_466423_V1_fMRI_004.mnc",
+      "size": 73335970
+    },
+    "loris_466423_V1_fMRI_005.mnc": {
+      "filename": "loris_466423_V1_fMRI_005.mnc",
+      "size": 73242617
+    },
+    "loris_466423_V1_fMRI_006.mnc": {
+      "filename": "loris_466423_V1_fMRI_006.mnc",
+      "size": 3101800
+    },
+    "loris_466423_V1_fMRI_007.mnc": {
+      "filename": "loris_466423_V1_fMRI_007.mnc",
+      "size": 3088392
+    },
+    "loris_466423_V1_t1_001.mnc": {
+      "filename": "loris_466423_V1_t1_001.mnc",
+      "size": 18435760
+    },
+    "loris_466423_V1_t1_002.mnc": {
+      "filename": "loris_466423_V1_t1_002.mnc",
+      "size": 15839288
+    },
+    "loris_473790_V1_CTAC_001.mnc": {
+      "filename": "loris_473790_V1_CTAC_001.mnc",
+      "size": 8986197
+    },
+    "loris_473790_V1_CTAC_002.mnc": {
+      "filename": "loris_473790_V1_CTAC_002.mnc",
+      "size": 9097404
+    },
+    "loris_473790_V1_CTAC_003.mnc": {
+      "filename": "loris_473790_V1_CTAC_003.mnc",
+      "size": 9029498
+    },
+    "loris_473790_V1_CTAC_004.mnc": {
+      "filename": "loris_473790_V1_CTAC_004.mnc",
+      "size": 6578016
+    },
+    "loris_473790_V1_CT_001.mnc": {
+      "filename": "loris_473790_V1_CT_001.mnc",
+      "size": 2199570
+    },
+    "loris_473790_V1_CT_002.mnc": {
+      "filename": "loris_473790_V1_CT_002.mnc",
+      "size": 8529732
+    },
+    "loris_473790_V1_CT_003.mnc": {
+      "filename": "loris_473790_V1_CT_003.mnc",
+      "size": 2194906
+    },
+    "loris_473790_V1_CT_004.mnc": {
+      "filename": "loris_473790_V1_CT_004.mnc",
+      "size": 8571642
+    },
+    "loris_473790_V1_CT_005.mnc": {
+      "filename": "loris_473790_V1_CT_005.mnc",
+      "size": 2201338
+    },
+    "loris_473790_V1_CT_006.mnc": {
+      "filename": "loris_473790_V1_CT_006.mnc",
+      "size": 8537086
+    },
+    "loris_473790_V1_CT_007.mnc": {
+      "filename": "loris_473790_V1_CT_007.mnc",
+      "size": 947448
+    },
+    "loris_473790_V1_CT_008.mnc": {
+      "filename": "loris_473790_V1_CT_008.mnc",
+      "size": 13351468
+    },
+    "loris_473790_V1_MAC_001.mnc": {
+      "filename": "loris_473790_V1_MAC_001.mnc",
+      "size": 965649
+    },
+    "loris_473790_V1_MAC_002.mnc": {
+      "filename": "loris_473790_V1_MAC_002.mnc",
+      "size": 1241019
+    },
+    "loris_473790_V1_MAC_003.mnc": {
+      "filename": "loris_473790_V1_MAC_003.mnc",
+      "size": 1719022
+    },
+    "loris_473790_V1_NAC_001.mnc": {
+      "filename": "loris_473790_V1_NAC_001.mnc",
+      "size": 1942229
+    },
+    "loris_473790_V1_NAC_002.mnc": {
+      "filename": "loris_473790_V1_NAC_002.mnc",
+      "size": 2287586
+    },
+    "loris_473790_V1_NAC_003.mnc": {
+      "filename": "loris_473790_V1_NAC_003.mnc",
+      "size": 2540948
+    },
+    "loris_473790_V1_fMRI_001.mnc": {
+      "filename": "loris_473790_V1_fMRI_001.mnc",
+      "size": 54737608
+    },
+    "loris_473790_V1_t1_001.mnc": {
+      "filename": "loris_473790_V1_t1_001.mnc",
+      "size": 16806729
+    },
+    "loris_474140_V1_fMRI_001.mnc": {
+      "filename": "loris_474140_V1_fMRI_001.mnc",
+      "size": 57559241
+    },
+    "loris_474140_V1_fMRI_002.mnc": {
+      "filename": "loris_474140_V1_fMRI_002.mnc",
+      "size": 55735741
+    },
+    "loris_474140_V1_fMRI_003.mnc": {
+      "filename": "loris_474140_V1_fMRI_003.mnc",
+      "size": 2103488
+    },
+    "loris_474140_V1_fMRI_004.mnc": {
+      "filename": "loris_474140_V1_fMRI_004.mnc",
+      "size": 2111767
+    },
+    "loris_474140_V1_fMRI_005.mnc": {
+      "filename": "loris_474140_V1_fMRI_005.mnc",
+      "size": 24167635
+    },
+    "loris_474140_V1_fMRI_006.mnc": {
+      "filename": "loris_474140_V1_fMRI_006.mnc",
+      "size": 32520589
+    },
+    "loris_474140_V1_fMRI_007.mnc": {
+      "filename": "loris_474140_V1_fMRI_007.mnc",
+      "size": 56486138
+    },
+    "loris_474140_V1_fMRI_008.mnc": {
+      "filename": "loris_474140_V1_fMRI_008.mnc",
+      "size": 2093496
+    },
+    "loris_474140_V1_fMRI_009.mnc": {
+      "filename": "loris_474140_V1_fMRI_009.mnc",
+      "size": 2117175
+    },
+    "loris_474140_V1_t1_001.mnc": {
+      "filename": "loris_474140_V1_t1_001.mnc",
+      "size": 18350460
+    },
+    "loris_474140_V1_t1_002.mnc": {
+      "filename": "loris_474140_V1_t1_002.mnc",
+      "size": 16034126
+    },
+    "loris_474140_V1_t1_003.mnc": {
+      "filename": "loris_474140_V1_t1_003.mnc",
+      "size": 17102259
+    },
+    "loris_474140_V1_t1_004.mnc": {
+      "filename": "loris_474140_V1_t1_004.mnc",
+      "size": 7421793
+    },
+    "loris_474140_V1_t1_005.mnc": {
+      "filename": "loris_474140_V1_t1_005.mnc",
+      "size": 16237366
+    },
+    "loris_474140_V1_t1_006.mnc": {
+      "filename": "loris_474140_V1_t1_006.mnc",
+      "size": 18816500
+    },
+    "loris_474140_V1_t1_007.mnc": {
+      "filename": "loris_474140_V1_t1_007.mnc",
+      "size": 7417197
+    },
+    "loris_480798_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc": {
+      "filename": "loris_480798_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc",
+      "size": 1576187
+    },
+    "loris_480798_V1_dti_001.mnc": {
+      "filename": "loris_480798_V1_dti_001.mnc",
+      "size": 98115362
+    },
+    "loris_480798_V1_fMRI_001.mnc": {
+      "filename": "loris_480798_V1_fMRI_001.mnc",
+      "size": 37153299
+    },
+    "loris_480798_V1_fMRI_002.mnc": {
+      "filename": "loris_480798_V1_fMRI_002.mnc",
+      "size": 1649632
+    },
+    "loris_480798_V1_fMRI_003.mnc": {
+      "filename": "loris_480798_V1_fMRI_003.mnc",
+      "size": 42453568
+    },
+    "loris_480798_V1_fMRI_004.mnc": {
+      "filename": "loris_480798_V1_fMRI_004.mnc",
+      "size": 68919057
+    },
+    "loris_480798_V1_fMRI_005.mnc": {
+      "filename": "loris_480798_V1_fMRI_005.mnc",
+      "size": 26638915
+    },
+    "loris_480798_V1_fMRI_006.mnc": {
+      "filename": "loris_480798_V1_fMRI_006.mnc",
+      "size": 26602955
+    },
+    "loris_480798_V1_fMRI_007.mnc": {
+      "filename": "loris_480798_V1_fMRI_007.mnc",
+      "size": 309215244
+    },
+    "loris_480798_V1_fMRI_008.mnc": {
+      "filename": "loris_480798_V1_fMRI_008.mnc",
+      "size": 25914471
+    },
+    "loris_480798_V1_fMRI_009.mnc": {
+      "filename": "loris_480798_V1_fMRI_009.mnc",
+      "size": 41447259
+    },
+    "loris_480798_V1_fMRI_010.mnc": {
+      "filename": "loris_480798_V1_fMRI_010.mnc",
+      "size": 67057931
+    },
+    "loris_480798_V1_fMRI_011.mnc": {
+      "filename": "loris_480798_V1_fMRI_011.mnc",
+      "size": 25790608
+    },
+    "loris_480798_V1_fMRI_012.mnc": {
+      "filename": "loris_480798_V1_fMRI_012.mnc",
+      "size": 41443409
+    },
+    "loris_480798_V1_fMRI_013.mnc": {
+      "filename": "loris_480798_V1_fMRI_013.mnc",
+      "size": 67258522
+    },
+    "loris_480798_V1_fMRI_014.mnc": {
+      "filename": "loris_480798_V1_fMRI_014.mnc",
+      "size": 25910863
+    },
+    "loris_480798_V1_fMRI_015.mnc": {
+      "filename": "loris_480798_V1_fMRI_015.mnc",
+      "size": 25903073
+    },
+    "loris_480798_V1_fMRI_016.mnc": {
+      "filename": "loris_480798_V1_fMRI_016.mnc",
+      "size": 36194968
+    },
+    "loris_480798_V1_t1_001.mnc": {
+      "filename": "loris_480798_V1_t1_001.mnc",
+      "size": 20667834
+    },
+    "loris_480798_V1_t1_002.mnc": {
+      "filename": "loris_480798_V1_t1_002.mnc",
+      "size": 20373380
+    },
+    "loris_480798_V1_t1_003.mnc": {
+      "filename": "loris_480798_V1_t1_003.mnc",
+      "size": 19914003
+    },
+    "loris_490984_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc": {
+      "filename": "loris_490984_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc",
+      "size": 1507773
+    },
+    "loris_490984_V1_dti_001.mnc": {
+      "filename": "loris_490984_V1_dti_001.mnc",
+      "size": 93233595
+    },
+    "loris_490984_V1_fMRI_001.mnc": {
+      "filename": "loris_490984_V1_fMRI_001.mnc",
+      "size": 41116607
+    },
+    "loris_490984_V1_fMRI_002.mnc": {
+      "filename": "loris_490984_V1_fMRI_002.mnc",
+      "size": 66778071
+    },
+    "loris_490984_V1_fMRI_003.mnc": {
+      "filename": "loris_490984_V1_fMRI_003.mnc",
+      "size": 25693296
+    },
+    "loris_490984_V1_fMRI_004.mnc": {
+      "filename": "loris_490984_V1_fMRI_004.mnc",
+      "size": 25726503
+    },
+    "loris_490984_V1_fMRI_005.mnc": {
+      "filename": "loris_490984_V1_fMRI_005.mnc",
+      "size": 35958988
+    },
+    "loris_490984_V1_fMRI_006.mnc": {
+      "filename": "loris_490984_V1_fMRI_006.mnc",
+      "size": 305944604
+    },
+    "loris_490984_V1_fMRI_007.mnc": {
+      "filename": "loris_490984_V1_fMRI_007.mnc",
+      "size": 25551283
+    },
+    "loris_490984_V1_fMRI_008.mnc": {
+      "filename": "loris_490984_V1_fMRI_008.mnc",
+      "size": 25527296
+    },
+    "loris_490984_V1_fMRI_009.mnc": {
+      "filename": "loris_490984_V1_fMRI_009.mnc",
+      "size": 40572621
+    },
+    "loris_490984_V1_fMRI_010.mnc": {
+      "filename": "loris_490984_V1_fMRI_010.mnc",
+      "size": 66062664
+    },
+    "loris_490984_V1_fMRI_011.mnc": {
+      "filename": "loris_490984_V1_fMRI_011.mnc",
+      "size": 25453776
+    },
+    "loris_490984_V1_fMRI_012.mnc": {
+      "filename": "loris_490984_V1_fMRI_012.mnc",
+      "size": 40782549
+    },
+    "loris_490984_V1_fMRI_013.mnc": {
+      "filename": "loris_490984_V1_fMRI_013.mnc",
+      "size": 66236498
+    },
+    "loris_490984_V1_fMRI_014.mnc": {
+      "filename": "loris_490984_V1_fMRI_014.mnc",
+      "size": 25589734
+    },
+    "loris_490984_V1_fMRI_015.mnc": {
+      "filename": "loris_490984_V1_fMRI_015.mnc",
+      "size": 25528626
+    },
+    "loris_490984_V1_fMRI_016.mnc": {
+      "filename": "loris_490984_V1_fMRI_016.mnc",
+      "size": 35733369
+    },
+    "loris_490984_V1_t1_001.mnc": {
+      "filename": "loris_490984_V1_t1_001.mnc",
+      "size": 19175585
+    },
+    "loris_490984_V1_t1_002.mnc": {
+      "filename": "loris_490984_V1_t1_002.mnc",
+      "size": 19065207
+    },
+    "loris_490984_V1_t1_003.mnc": {
+      "filename": "loris_490984_V1_t1_003.mnc",
+      "size": 19392715
+    },
+    "loris_495465_V1_fMRI_001.mnc": {
+      "filename": "loris_495465_V1_fMRI_001.mnc",
+      "size": 95055245
+    },
+    "loris_495465_V1_t1_001.mnc": {
+      "filename": "loris_495465_V1_t1_001.mnc",
+      "size": 16466606
+    },
+    "loris_507648_V1_t1_001.mnc": {
+      "filename": "loris_507648_V1_t1_001.mnc",
+      "size": 16409716
+    },
+    "loris_507648_V1_t1_002.mnc": {
+      "filename": "loris_507648_V1_t1_002.mnc",
+      "size": 16265036
+    },
+    "loris_509286_V1_dti_001.mnc": {
+      "filename": "loris_509286_V1_dti_001.mnc",
+      "size": 95188922
+    },
+    "loris_509286_V1_fMRI_001.mnc": {
+      "filename": "loris_509286_V1_fMRI_001.mnc",
+      "size": 49804193
+    },
+    "loris_509286_V1_fMRI_002.mnc": {
+      "filename": "loris_509286_V1_fMRI_002.mnc",
+      "size": 56100599
+    },
+    "loris_509286_V1_fMRI_003.mnc": {
+      "filename": "loris_509286_V1_fMRI_003.mnc",
+      "size": 24134058
+    },
+    "loris_509286_V1_fMRI_004.mnc": {
+      "filename": "loris_509286_V1_fMRI_004.mnc",
+      "size": 33685465
+    },
+    "loris_509286_V1_fMRI_005.mnc": {
+      "filename": "loris_509286_V1_fMRI_005.mnc",
+      "size": 2100154
+    },
+    "loris_509286_V1_fMRI_006.mnc": {
+      "filename": "loris_509286_V1_fMRI_006.mnc",
+      "size": 2094679
+    },
+    "loris_509286_V1_t1_001.mnc": {
+      "filename": "loris_509286_V1_t1_001.mnc",
+      "size": 18106268
+    },
+    "loris_510726_V1_dti_001.mnc": {
+      "filename": "loris_510726_V1_dti_001.mnc",
+      "size": 441523423
+    },
+    "loris_510726_V1_dti_002.mnc": {
+      "filename": "loris_510726_V1_dti_002.mnc",
+      "size": 440615035
+    },
+    "loris_510726_V1_t1_001.mnc": {
+      "filename": "loris_510726_V1_t1_001.mnc",
+      "size": 16028469
+    },
+    "loris_510726_V1_t1_002.mnc": {
+      "filename": "loris_510726_V1_t1_002.mnc",
+      "size": 16087492
+    },
+    "loris_522334_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc": {
+      "filename": "loris_522334_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc",
+      "size": 1142450
+    },
+    "loris_522334_V1_T2_EPI_rev_phase_encod_grad_dir_002.mnc": {
+      "filename": "loris_522334_V1_T2_EPI_rev_phase_encod_grad_dir_002.mnc",
+      "size": 1117491
+    },
+    "loris_522334_V1_dti_001.mnc": {
+      "filename": "loris_522334_V1_dti_001.mnc",
+      "size": 51160958
+    },
+    "loris_522334_V1_dti_002.mnc": {
+      "filename": "loris_522334_V1_dti_002.mnc",
+      "size": 48698323
+    },
+    "loris_522334_V1_fMRI_001.mnc": {
+      "filename": "loris_522334_V1_fMRI_001.mnc",
+      "size": 37270821
+    },
+    "loris_522334_V1_fMRI_002.mnc": {
+      "filename": "loris_522334_V1_fMRI_002.mnc",
+      "size": 3044637
+    },
+    "loris_522334_V1_fMRI_003.mnc": {
+      "filename": "loris_522334_V1_fMRI_003.mnc",
+      "size": 44224583
+    },
+    "loris_522334_V1_fMRI_004.mnc": {
+      "filename": "loris_522334_V1_fMRI_004.mnc",
+      "size": 36310263
+    },
+    "loris_522334_V1_fMRI_005.mnc": {
+      "filename": "loris_522334_V1_fMRI_005.mnc",
+      "size": 43189505
+    },
+    "loris_522334_V1_t1_001.mnc": {
+      "filename": "loris_522334_V1_t1_001.mnc",
+      "size": 16498147
+    },
+    "loris_522334_V1_t1_002.mnc": {
+      "filename": "loris_522334_V1_t1_002.mnc",
+      "size": 16162822
+    },
+    "loris_531099_V1_dti_001.mnc": {
+      "filename": "loris_531099_V1_dti_001.mnc",
+      "size": 96956304
+    },
+    "loris_531099_V1_fMRI_001.mnc": {
+      "filename": "loris_531099_V1_fMRI_001.mnc",
+      "size": 2159312
+    },
+    "loris_531099_V1_fMRI_002.mnc": {
+      "filename": "loris_531099_V1_fMRI_002.mnc",
+      "size": 24379248
+    },
+    "loris_531099_V1_fMRI_003.mnc": {
+      "filename": "loris_531099_V1_fMRI_003.mnc",
+      "size": 34071823
+    },
+    "loris_531099_V1_fMRI_004.mnc": {
+      "filename": "loris_531099_V1_fMRI_004.mnc",
+      "size": 22366604
+    },
+    "loris_531099_V1_fMRI_005.mnc": {
+      "filename": "loris_531099_V1_fMRI_005.mnc",
+      "size": 56747740
+    },
+    "loris_531099_V1_fMRI_006.mnc": {
+      "filename": "loris_531099_V1_fMRI_006.mnc",
+      "size": 2138177
+    },
+    "loris_531099_V1_fMRI_007.mnc": {
+      "filename": "loris_531099_V1_fMRI_007.mnc",
+      "size": 57812746
+    },
+    "loris_531099_V1_fMRI_008.mnc": {
+      "filename": "loris_531099_V1_fMRI_008.mnc",
+      "size": 2197616
+    },
+    "loris_531099_V1_fMRI_009.mnc": {
+      "filename": "loris_531099_V1_fMRI_009.mnc",
+      "size": 2199990
+    },
+    "loris_531099_V1_fMRI_010.mnc": {
+      "filename": "loris_531099_V1_fMRI_010.mnc",
+      "size": 24616447
+    },
+    "loris_531099_V1_fMRI_011.mnc": {
+      "filename": "loris_531099_V1_fMRI_011.mnc",
+      "size": 22646363
+    },
+    "loris_531099_V1_fMRI_012.mnc": {
+      "filename": "loris_531099_V1_fMRI_012.mnc",
+      "size": 59217424
+    },
+    "loris_531099_V1_fMRI_013.mnc": {
+      "filename": "loris_531099_V1_fMRI_013.mnc",
+      "size": 59347186
+    },
+    "loris_531099_V1_t1_001.mnc": {
+      "filename": "loris_531099_V1_t1_001.mnc",
+      "size": 8069211
+    },
+    "loris_531099_V1_t1_002.mnc": {
+      "filename": "loris_531099_V1_t1_002.mnc",
+      "size": 18647508
+    },
+    "loris_531099_V1_t1_003.mnc": {
+      "filename": "loris_531099_V1_t1_003.mnc",
+      "size": 12848472
+    },
+    "loris_531099_V1_t1_004.mnc": {
+      "filename": "loris_531099_V1_t1_004.mnc",
+      "size": 16116371
+    },
+    "loris_531099_V1_t1_005.mnc": {
+      "filename": "loris_531099_V1_t1_005.mnc",
+      "size": 15707762
+    },
+    "loris_531099_V1_t1_006.mnc": {
+      "filename": "loris_531099_V1_t1_006.mnc",
+      "size": 7897980
+    },
+    "loris_531099_V1_t1_007.mnc": {
+      "filename": "loris_531099_V1_t1_007.mnc",
+      "size": 7926051
+    },
+    "loris_535899_V1_dti_001.mnc": {
+      "filename": "loris_535899_V1_dti_001.mnc",
+      "size": 103301023
+    },
+    "loris_535899_V1_fMRI_001.mnc": {
+      "filename": "loris_535899_V1_fMRI_001.mnc",
+      "size": 2267805
+    },
+    "loris_535899_V1_fMRI_002.mnc": {
+      "filename": "loris_535899_V1_fMRI_002.mnc",
+      "size": 24537684
+    },
+    "loris_535899_V1_fMRI_003.mnc": {
+      "filename": "loris_535899_V1_fMRI_003.mnc",
+      "size": 34276171
+    },
+    "loris_535899_V1_fMRI_004.mnc": {
+      "filename": "loris_535899_V1_fMRI_004.mnc",
+      "size": 31908165
+    },
+    "loris_535899_V1_fMRI_005.mnc": {
+      "filename": "loris_535899_V1_fMRI_005.mnc",
+      "size": 58890830
+    },
+    "loris_535899_V1_fMRI_006.mnc": {
+      "filename": "loris_535899_V1_fMRI_006.mnc",
+      "size": 2237524
+    },
+    "loris_535899_V1_fMRI_007.mnc": {
+      "filename": "loris_535899_V1_fMRI_007.mnc",
+      "size": 58644469
+    },
+    "loris_535899_V1_fMRI_008.mnc": {
+      "filename": "loris_535899_V1_fMRI_008.mnc",
+      "size": 2304402
+    },
+    "loris_535899_V1_fMRI_009.mnc": {
+      "filename": "loris_535899_V1_fMRI_009.mnc",
+      "size": 2290404
+    },
+    "loris_535899_V1_fMRI_010.mnc": {
+      "filename": "loris_535899_V1_fMRI_010.mnc",
+      "size": 24576383
+    },
+    "loris_535899_V1_fMRI_011.mnc": {
+      "filename": "loris_535899_V1_fMRI_011.mnc",
+      "size": 19600633
+    },
+    "loris_535899_V1_fMRI_012.mnc": {
+      "filename": "loris_535899_V1_fMRI_012.mnc",
+      "size": 58486419
+    },
+    "loris_535899_V1_fMRI_013.mnc": {
+      "filename": "loris_535899_V1_fMRI_013.mnc",
+      "size": 58983372
+    },
+    "loris_535899_V1_t1_001.mnc": {
+      "filename": "loris_535899_V1_t1_001.mnc",
+      "size": 19216321
+    },
+    "loris_535899_V1_t1_002.mnc": {
+      "filename": "loris_535899_V1_t1_002.mnc",
+      "size": 38777201
+    },
+    "loris_535899_V1_t1_003.mnc": {
+      "filename": "loris_535899_V1_t1_003.mnc",
+      "size": 44333758
+    },
+    "loris_535899_V1_t1_004.mnc": {
+      "filename": "loris_535899_V1_t1_004.mnc",
+      "size": 8246094
+    },
+    "loris_535899_V2_dti_001.mnc": {
+      "filename": "loris_535899_V2_dti_001.mnc",
+      "size": 102159401
+    },
+    "loris_535899_V2_fMRI_001.mnc": {
+      "filename": "loris_535899_V2_fMRI_001.mnc",
+      "size": 1323295
+    },
+    "loris_535899_V2_fMRI_002.mnc": {
+      "filename": "loris_535899_V2_fMRI_002.mnc",
+      "size": 31695614
+    },
+    "loris_535899_V2_fMRI_003.mnc": {
+      "filename": "loris_535899_V2_fMRI_003.mnc",
+      "size": 58414445
+    },
+    "loris_535899_V2_fMRI_004.mnc": {
+      "filename": "loris_535899_V2_fMRI_004.mnc",
+      "size": 2250044
+    },
+    "loris_535899_V2_fMRI_005.mnc": {
+      "filename": "loris_535899_V2_fMRI_005.mnc",
+      "size": 2370529
+    },
+    "loris_535899_V2_fMRI_006.mnc": {
+      "filename": "loris_535899_V2_fMRI_006.mnc",
+      "size": 935612
+    },
+    "loris_535899_V2_fMRI_007.mnc": {
+      "filename": "loris_535899_V2_fMRI_007.mnc",
+      "size": 2388653
+    },
+    "loris_535899_V2_fMRI_008.mnc": {
+      "filename": "loris_535899_V2_fMRI_008.mnc",
+      "size": 2387130
+    },
+    "loris_535899_V2_fMRI_009.mnc": {
+      "filename": "loris_535899_V2_fMRI_009.mnc",
+      "size": 25305986
+    },
+    "loris_535899_V2_fMRI_010.mnc": {
+      "filename": "loris_535899_V2_fMRI_010.mnc",
+      "size": 34074237
+    },
+    "loris_535899_V2_fMRI_011.mnc": {
+      "filename": "loris_535899_V2_fMRI_011.mnc",
+      "size": 57289979
+    },
+    "loris_535899_V2_fMRI_012.mnc": {
+      "filename": "loris_535899_V2_fMRI_012.mnc",
+      "size": 57209692
+    },
+    "loris_535899_V2_fMRI_013.mnc": {
+      "filename": "loris_535899_V2_fMRI_013.mnc",
+      "size": 2176006
+    },
+    "loris_535899_V2_fMRI_014.mnc": {
+      "filename": "loris_535899_V2_fMRI_014.mnc",
+      "size": 2193985
+    },
+    "loris_535899_V2_fMRI_015.mnc": {
+      "filename": "loris_535899_V2_fMRI_015.mnc",
+      "size": 23721888
+    },
+    "loris_535899_V2_fMRI_016.mnc": {
+      "filename": "loris_535899_V2_fMRI_016.mnc",
+      "size": 4047094
+    },
+    "loris_535899_V2_fMRI_017.mnc": {
+      "filename": "loris_535899_V2_fMRI_017.mnc",
+      "size": 19116445
+    },
+    "loris_535899_V2_fMRI_018.mnc": {
+      "filename": "loris_535899_V2_fMRI_018.mnc",
+      "size": 57454418
+    },
+    "loris_535899_V2_t1_001.mnc": {
+      "filename": "loris_535899_V2_t1_001.mnc",
+      "size": 19311952
+    },
+    "loris_535899_V2_t1_002.mnc": {
+      "filename": "loris_535899_V2_t1_002.mnc",
+      "size": 16719823
+    },
+    "loris_535899_V2_t1_003.mnc": {
+      "filename": "loris_535899_V2_t1_003.mnc",
+      "size": 18184343
+    },
+    "loris_535899_V2_t1_004.mnc": {
+      "filename": "loris_535899_V2_t1_004.mnc",
+      "size": 7998337
+    },
+    "loris_537637_V1_fMRI_001.mnc": {
+      "filename": "loris_537637_V1_fMRI_001.mnc",
+      "size": 40656979
+    },
+    "loris_537637_V1_fMRI_002.mnc": {
+      "filename": "loris_537637_V1_fMRI_002.mnc",
+      "size": 7289029
+    },
+    "loris_537637_V1_fMRI_003.mnc": {
+      "filename": "loris_537637_V1_fMRI_003.mnc",
+      "size": 19251677
+    },
+    "loris_546545_V1_fMRI_001.mnc": {
+      "filename": "loris_546545_V1_fMRI_001.mnc",
+      "size": 307040087
+    },
+    "loris_546545_V1_fMRI_002.mnc": {
+      "filename": "loris_546545_V1_fMRI_002.mnc",
+      "size": 25751629
+    },
+    "loris_546545_V1_fMRI_003.mnc": {
+      "filename": "loris_546545_V1_fMRI_003.mnc",
+      "size": 41672511
+    },
+    "loris_546545_V1_fMRI_004.mnc": {
+      "filename": "loris_546545_V1_fMRI_004.mnc",
+      "size": 67580703
+    },
+    "loris_546545_V1_fMRI_005.mnc": {
+      "filename": "loris_546545_V1_fMRI_005.mnc",
+      "size": 26047142
+    },
+    "loris_546545_V1_fMRI_006.mnc": {
+      "filename": "loris_546545_V1_fMRI_006.mnc",
+      "size": 40966942
+    },
+    "loris_546545_V1_fMRI_007.mnc": {
+      "filename": "loris_546545_V1_fMRI_007.mnc",
+      "size": 66494205
+    },
+    "loris_546545_V1_fMRI_008.mnc": {
+      "filename": "loris_546545_V1_fMRI_008.mnc",
+      "size": 25649265
+    },
+    "loris_546545_V1_fMRI_009.mnc": {
+      "filename": "loris_546545_V1_fMRI_009.mnc",
+      "size": 25630800
+    },
+    "loris_546545_V1_fMRI_010.mnc": {
+      "filename": "loris_546545_V1_fMRI_010.mnc",
+      "size": 35916889
+    },
+    "loris_546545_V1_t1_001.mnc": {
+      "filename": "loris_546545_V1_t1_001.mnc",
+      "size": 19077005
+    },
+    "loris_554484_V1_t1_001.mnc": {
+      "filename": "loris_554484_V1_t1_001.mnc",
+      "size": 15814168
+    },
+    "loris_554484_V1_t1_002.mnc": {
+      "filename": "loris_554484_V1_t1_002.mnc",
+      "size": 15776487
+    },
+    "loris_565585_V1_dti_001.mnc": {
+      "filename": "loris_565585_V1_dti_001.mnc",
+      "size": 94817435
+    },
+    "loris_565585_V1_fMRI_001.mnc": {
+      "filename": "loris_565585_V1_fMRI_001.mnc",
+      "size": 2143102
+    },
+    "loris_565585_V1_fMRI_002.mnc": {
+      "filename": "loris_565585_V1_fMRI_002.mnc",
+      "size": 24151980
+    },
+    "loris_565585_V1_fMRI_003.mnc": {
+      "filename": "loris_565585_V1_fMRI_003.mnc",
+      "size": 33809310
+    },
+    "loris_565585_V1_fMRI_004.mnc": {
+      "filename": "loris_565585_V1_fMRI_004.mnc",
+      "size": 31387045
+    },
+    "loris_565585_V1_fMRI_005.mnc": {
+      "filename": "loris_565585_V1_fMRI_005.mnc",
+      "size": 57813182
+    },
+    "loris_565585_V1_fMRI_006.mnc": {
+      "filename": "loris_565585_V1_fMRI_006.mnc",
+      "size": 2110740
+    },
+    "loris_565585_V1_fMRI_007.mnc": {
+      "filename": "loris_565585_V1_fMRI_007.mnc",
+      "size": 57615648
+    },
+    "loris_565585_V1_fMRI_008.mnc": {
+      "filename": "loris_565585_V1_fMRI_008.mnc",
+      "size": 2109453
+    },
+    "loris_565585_V1_fMRI_009.mnc": {
+      "filename": "loris_565585_V1_fMRI_009.mnc",
+      "size": 2132915
+    },
+    "loris_565585_V1_fMRI_010.mnc": {
+      "filename": "loris_565585_V1_fMRI_010.mnc",
+      "size": 23999151
+    },
+    "loris_565585_V1_fMRI_011.mnc": {
+      "filename": "loris_565585_V1_fMRI_011.mnc",
+      "size": 19196880
+    },
+    "loris_565585_V1_fMRI_012.mnc": {
+      "filename": "loris_565585_V1_fMRI_012.mnc",
+      "size": 57780428
+    },
+    "loris_565585_V1_fMRI_013.mnc": {
+      "filename": "loris_565585_V1_fMRI_013.mnc",
+      "size": 57565042
+    },
+    "loris_565585_V1_t1_001.mnc": {
+      "filename": "loris_565585_V1_t1_001.mnc",
+      "size": 18526668
+    },
+    "loris_565585_V1_t1_002.mnc": {
+      "filename": "loris_565585_V1_t1_002.mnc",
+      "size": 22146493
+    },
+    "loris_565585_V1_t1_003.mnc": {
+      "filename": "loris_565585_V1_t1_003.mnc",
+      "size": 17687739
+    },
+    "loris_565585_V1_t1_004.mnc": {
+      "filename": "loris_565585_V1_t1_004.mnc",
+      "size": 7957030
+    },
+    "loris_572985_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc": {
+      "filename": "loris_572985_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc",
+      "size": 1076122
+    },
+    "loris_572985_V1_dti_001.mnc": {
+      "filename": "loris_572985_V1_dti_001.mnc",
+      "size": 47438622
+    },
+    "loris_572985_V1_fMRI_001.mnc": {
+      "filename": "loris_572985_V1_fMRI_001.mnc",
+      "size": 35666561
+    },
+    "loris_572985_V1_fMRI_002.mnc": {
+      "filename": "loris_572985_V1_fMRI_002.mnc",
+      "size": 42319099
+    },
+    "loris_572985_V1_t1_001.mnc": {
+      "filename": "loris_572985_V1_t1_001.mnc",
+      "size": 15891610
+    },
+    "loris_590042_V1_t1_001.mnc": {
+      "filename": "loris_590042_V1_t1_001.mnc",
+      "size": 15723221
+    },
+    "loris_590042_V1_t1_002.mnc": {
+      "filename": "loris_590042_V1_t1_002.mnc",
+      "size": 15692429
+    },
+    "loris_590042_V1_t1_003.mnc": {
+      "filename": "loris_590042_V1_t1_003.mnc",
+      "size": 16159038
+    },
+    "loris_590042_V1_t1_004.mnc": {
+      "filename": "loris_590042_V1_t1_004.mnc",
+      "size": 15810648
+    },
+    "loris_590042_V1_t1_005.mnc": {
+      "filename": "loris_590042_V1_t1_005.mnc",
+      "size": 16249988
+    },
+    "loris_591148_V1_fMRI_001.mnc": {
+      "filename": "loris_591148_V1_fMRI_001.mnc",
+      "size": 64390976
+    },
+    "loris_591148_V1_t1_001.mnc": {
+      "filename": "loris_591148_V1_t1_001.mnc",
+      "size": 17861775
+    },
+    "loris_592861_V1_CTAC_001.mnc": {
+      "filename": "loris_592861_V1_CTAC_001.mnc",
+      "size": 6027416
+    },
+    "loris_592861_V1_CT_001.mnc": {
+      "filename": "loris_592861_V1_CT_001.mnc",
+      "size": 1270131
+    },
+    "loris_592861_V1_CT_002.mnc": {
+      "filename": "loris_592861_V1_CT_002.mnc",
+      "size": 12003790
+    },
+    "loris_592861_V1_MAC_001.mnc": {
+      "filename": "loris_592861_V1_MAC_001.mnc",
+      "size": 17614195
+    },
+    "loris_592861_V1_MAC_002.mnc": {
+      "filename": "loris_592861_V1_MAC_002.mnc",
+      "size": 16257223
+    },
+    "loris_593928_V1_CTAC_001.mnc": {
+      "filename": "loris_593928_V1_CTAC_001.mnc",
+      "size": 6135007
+    },
+    "loris_593928_V1_CT_001.mnc": {
+      "filename": "loris_593928_V1_CT_001.mnc",
+      "size": 1114768
+    },
+    "loris_593928_V1_CT_002.mnc": {
+      "filename": "loris_593928_V1_CT_002.mnc",
+      "size": 12041531
+    },
+    "loris_593928_V1_MAC_001.mnc": {
+      "filename": "loris_593928_V1_MAC_001.mnc",
+      "size": 18428682
+    },
+    "loris_593928_V1_MAC_002.mnc": {
+      "filename": "loris_593928_V1_MAC_002.mnc",
+      "size": 17000728
+    },
+    "loris_593928_V1_fMRI_001.mnc": {
+      "filename": "loris_593928_V1_fMRI_001.mnc",
+      "size": 56461977
+    },
+    "loris_593928_V1_t1_001.mnc": {
+      "filename": "loris_593928_V1_t1_001.mnc",
+      "size": 16674768
+    },
+    "loris_598258_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc": {
+      "filename": "loris_598258_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc",
+      "size": 1092829
+    },
+    "loris_598258_V1_T2_EPI_rev_phase_encod_grad_dir_002.mnc": {
+      "filename": "loris_598258_V1_T2_EPI_rev_phase_encod_grad_dir_002.mnc",
+      "size": 1098556
+    },
+    "loris_598258_V1_dti_001.mnc": {
+      "filename": "loris_598258_V1_dti_001.mnc",
+      "size": 50050454
+    },
+    "loris_598258_V1_dti_002.mnc": {
+      "filename": "loris_598258_V1_dti_002.mnc",
+      "size": 50848456
+    },
+    "loris_598258_V1_fMRI_001.mnc": {
+      "filename": "loris_598258_V1_fMRI_001.mnc",
+      "size": 36132878
+    },
+    "loris_598258_V1_fMRI_002.mnc": {
+      "filename": "loris_598258_V1_fMRI_002.mnc",
+      "size": 42657615
+    },
+    "loris_598258_V1_fMRI_003.mnc": {
+      "filename": "loris_598258_V1_fMRI_003.mnc",
+      "size": 36345050
+    },
+    "loris_598258_V1_fMRI_004.mnc": {
+      "filename": "loris_598258_V1_fMRI_004.mnc",
+      "size": 42917227
+    },
+    "loris_598258_V1_t1_001.mnc": {
+      "filename": "loris_598258_V1_t1_001.mnc",
+      "size": 16286593
+    },
+    "loris_598258_V1_t1_002.mnc": {
+      "filename": "loris_598258_V1_t1_002.mnc",
+      "size": 16305801
+    },
+    "loris_600774_V1_fMRI_001.mnc": {
+      "filename": "loris_600774_V1_fMRI_001.mnc",
+      "size": 38408133
+    },
+    "loris_600774_V1_fMRI_002.mnc": {
+      "filename": "loris_600774_V1_fMRI_002.mnc",
+      "size": 62654291
+    },
+    "loris_600774_V1_fMRI_003.mnc": {
+      "filename": "loris_600774_V1_fMRI_003.mnc",
+      "size": 24167525
+    },
+    "loris_600774_V1_fMRI_004.mnc": {
+      "filename": "loris_600774_V1_fMRI_004.mnc",
+      "size": 24181075
+    },
+    "loris_600774_V1_fMRI_005.mnc": {
+      "filename": "loris_600774_V1_fMRI_005.mnc",
+      "size": 33807439
+    },
+    "loris_600774_V1_t1_001.mnc": {
+      "filename": "loris_600774_V1_t1_001.mnc",
+      "size": 19175706
+    },
+    "loris_600774_V1_t1_002.mnc": {
+      "filename": "loris_600774_V1_t1_002.mnc",
+      "size": 19046172
+    },
+    "loris_603230_V1_dti_001.mnc": {
+      "filename": "loris_603230_V1_dti_001.mnc",
+      "size": 418427116
+    },
+    "loris_603230_V1_dti_002.mnc": {
+      "filename": "loris_603230_V1_dti_002.mnc",
+      "size": 427797132
+    },
+    "loris_603230_V1_dti_003.mnc": {
+      "filename": "loris_603230_V1_dti_003.mnc",
+      "size": 422644904
+    },
+    "loris_603230_V1_t1_001.mnc": {
+      "filename": "loris_603230_V1_t1_001.mnc",
+      "size": 15465764
+    },
+    "loris_603230_V1_t1_002.mnc": {
+      "filename": "loris_603230_V1_t1_002.mnc",
+      "size": 15572595
+    },
+    "loris_603230_V1_t1_003.mnc": {
+      "filename": "loris_603230_V1_t1_003.mnc",
+      "size": 15404760
+    },
+    "loris_605308_V1_fMRI_001.mnc": {
+      "filename": "loris_605308_V1_fMRI_001.mnc",
+      "size": 11505579
+    },
+    "loris_605308_V1_fMRI_002.mnc": {
+      "filename": "loris_605308_V1_fMRI_002.mnc",
+      "size": 11870740
+    },
+    "loris_605308_V1_fMRI_003.mnc": {
+      "filename": "loris_605308_V1_fMRI_003.mnc",
+      "size": 16200851
+    },
+    "loris_605308_V1_fMRI_004.mnc": {
+      "filename": "loris_605308_V1_fMRI_004.mnc",
+      "size": 11630186
+    },
+    "loris_605308_V1_fMRI_005.mnc": {
+      "filename": "loris_605308_V1_fMRI_005.mnc",
+      "size": 12242926
+    },
+    "loris_605308_V1_fMRI_006.mnc": {
+      "filename": "loris_605308_V1_fMRI_006.mnc",
+      "size": 25201876
+    },
+    "loris_605308_V1_fMRI_007.mnc": {
+      "filename": "loris_605308_V1_fMRI_007.mnc",
+      "size": 11476312
+    },
+    "loris_605308_V1_fMRI_008.mnc": {
+      "filename": "loris_605308_V1_fMRI_008.mnc",
+      "size": 11276178
+    },
+    "loris_605308_V1_fMRI_009.mnc": {
+      "filename": "loris_605308_V1_fMRI_009.mnc",
+      "size": 10579322
+    },
+    "loris_605308_V1_fMRI_010.mnc": {
+      "filename": "loris_605308_V1_fMRI_010.mnc",
+      "size": 11236221
+    },
+    "loris_605308_V1_fMRI_011.mnc": {
+      "filename": "loris_605308_V1_fMRI_011.mnc",
+      "size": 26907245
+    },
+    "loris_605308_V1_fMRI_012.mnc": {
+      "filename": "loris_605308_V1_fMRI_012.mnc",
+      "size": 26892124
+    },
+    "loris_605308_V1_fMRI_013.mnc": {
+      "filename": "loris_605308_V1_fMRI_013.mnc",
+      "size": 26913561
+    },
+    "loris_605308_V1_fMRI_014.mnc": {
+      "filename": "loris_605308_V1_fMRI_014.mnc",
+      "size": 11307885
+    },
+    "loris_605308_V1_fMRI_015.mnc": {
+      "filename": "loris_605308_V1_fMRI_015.mnc",
+      "size": 10619267
+    },
+    "loris_605308_V1_t1_001.mnc": {
+      "filename": "loris_605308_V1_t1_001.mnc",
+      "size": 19840450
+    },
+    "loris_605880_V1_fMRI_001.mnc": {
+      "filename": "loris_605880_V1_fMRI_001.mnc",
+      "size": 7726787
+    },
+    "loris_605880_V1_fMRI_002.mnc": {
+      "filename": "loris_605880_V1_fMRI_002.mnc",
+      "size": 8749712
+    },
+    "loris_605880_V1_fMRI_003.mnc": {
+      "filename": "loris_605880_V1_fMRI_003.mnc",
+      "size": 7205881
+    },
+    "loris_605880_V1_fMRI_004.mnc": {
+      "filename": "loris_605880_V1_fMRI_004.mnc",
+      "size": 8836105
+    },
+    "loris_605880_V1_fMRI_005.mnc": {
+      "filename": "loris_605880_V1_fMRI_005.mnc",
+      "size": 7323209
+    },
+    "loris_605880_V1_fMRI_006.mnc": {
+      "filename": "loris_605880_V1_fMRI_006.mnc",
+      "size": 8668067
+    },
+    "loris_605880_V1_fMRI_007.mnc": {
+      "filename": "loris_605880_V1_fMRI_007.mnc",
+      "size": 6754030
+    },
+    "loris_605880_V1_fMRI_008.mnc": {
+      "filename": "loris_605880_V1_fMRI_008.mnc",
+      "size": 7445555
+    },
+    "loris_605880_V1_fMRI_009.mnc": {
+      "filename": "loris_605880_V1_fMRI_009.mnc",
+      "size": 8882718
+    },
+    "loris_605880_V1_fMRI_010.mnc": {
+      "filename": "loris_605880_V1_fMRI_010.mnc",
+      "size": 7211786
+    },
+    "loris_605880_V1_fMRI_011.mnc": {
+      "filename": "loris_605880_V1_fMRI_011.mnc",
+      "size": 8738340
+    },
+    "loris_605880_V1_fMRI_012.mnc": {
+      "filename": "loris_605880_V1_fMRI_012.mnc",
+      "size": 7242171
+    },
+    "loris_605880_V1_fMRI_013.mnc": {
+      "filename": "loris_605880_V1_fMRI_013.mnc",
+      "size": 8693777
+    },
+    "loris_605880_V1_fMRI_014.mnc": {
+      "filename": "loris_605880_V1_fMRI_014.mnc",
+      "size": 8894562
+    },
+    "loris_605880_V1_fMRI_015.mnc": {
+      "filename": "loris_605880_V1_fMRI_015.mnc",
+      "size": 7456966
+    },
+    "loris_605880_V1_fMRI_016.mnc": {
+      "filename": "loris_605880_V1_fMRI_016.mnc",
+      "size": 9266661
+    },
+    "loris_607949_V1_CT_001.mnc": {
+      "filename": "loris_607949_V1_CT_001.mnc",
+      "size": 286878
+    },
+    "loris_607949_V1_CT_002.mnc": {
+      "filename": "loris_607949_V1_CT_002.mnc",
+      "size": 589016
+    },
+    "loris_607949_V1_CT_003.mnc": {
+      "filename": "loris_607949_V1_CT_003.mnc",
+      "size": 701507
+    },
+    "loris_609765_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc": {
+      "filename": "loris_609765_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc",
+      "size": 1530247
+    },
+    "loris_609765_V1_T2_EPI_rev_phase_encod_grad_dir_002.mnc": {
+      "filename": "loris_609765_V1_T2_EPI_rev_phase_encod_grad_dir_002.mnc",
+      "size": 1556968
+    },
+    "loris_609765_V1_T2_EPI_rev_phase_encod_grad_dir_003.mnc": {
+      "filename": "loris_609765_V1_T2_EPI_rev_phase_encod_grad_dir_003.mnc",
+      "size": 1557572
+    },
+    "loris_609765_V1_T2_EPI_rev_phase_encod_grad_dir_004.mnc": {
+      "filename": "loris_609765_V1_T2_EPI_rev_phase_encod_grad_dir_004.mnc",
+      "size": 1515431
+    },
+    "loris_609765_V1_T2_EPI_rev_phase_encod_grad_dir_005.mnc": {
+      "filename": "loris_609765_V1_T2_EPI_rev_phase_encod_grad_dir_005.mnc",
+      "size": 1562378
+    },
+    "loris_609765_V1_dti_001.mnc": {
+      "filename": "loris_609765_V1_dti_001.mnc",
+      "size": 349990845
+    },
+    "loris_609765_V1_dti_002.mnc": {
+      "filename": "loris_609765_V1_dti_002.mnc",
+      "size": 356209557
+    },
+    "loris_609765_V1_dti_003.mnc": {
+      "filename": "loris_609765_V1_dti_003.mnc",
+      "size": 99592133
+    },
+    "loris_609765_V1_dti_004.mnc": {
+      "filename": "loris_609765_V1_dti_004.mnc",
+      "size": 98230269
+    },
+    "loris_609765_V1_dti_005.mnc": {
+      "filename": "loris_609765_V1_dti_005.mnc",
+      "size": 102441963
+    },
+    "loris_609765_V1_fMRI_001.mnc": {
+      "filename": "loris_609765_V1_fMRI_001.mnc",
+      "size": 286414874
+    },
+    "loris_609765_V1_fMRI_002.mnc": {
+      "filename": "loris_609765_V1_fMRI_002.mnc",
+      "size": 43900423
+    },
+    "loris_609765_V1_fMRI_003.mnc": {
+      "filename": "loris_609765_V1_fMRI_003.mnc",
+      "size": 71253895
+    },
+    "loris_609765_V1_fMRI_004.mnc": {
+      "filename": "loris_609765_V1_fMRI_004.mnc",
+      "size": 26585817
+    },
+    "loris_609765_V1_fMRI_005.mnc": {
+      "filename": "loris_609765_V1_fMRI_005.mnc",
+      "size": 50462784
+    },
+    "loris_609765_V1_fMRI_006.mnc": {
+      "filename": "loris_609765_V1_fMRI_006.mnc",
+      "size": 40444334
+    },
+    "loris_609765_V1_fMRI_007.mnc": {
+      "filename": "loris_609765_V1_fMRI_007.mnc",
+      "size": 65694085
+    },
+    "loris_609765_V1_fMRI_008.mnc": {
+      "filename": "loris_609765_V1_fMRI_008.mnc",
+      "size": 25319009
+    },
+    "loris_609765_V1_fMRI_009.mnc": {
+      "filename": "loris_609765_V1_fMRI_009.mnc",
+      "size": 39496764
+    },
+    "loris_609765_V1_fMRI_010.mnc": {
+      "filename": "loris_609765_V1_fMRI_010.mnc",
+      "size": 41008262
+    },
+    "loris_609765_V1_fMRI_011.mnc": {
+      "filename": "loris_609765_V1_fMRI_011.mnc",
+      "size": 38580401
+    },
+    "loris_609765_V1_fMRI_012.mnc": {
+      "filename": "loris_609765_V1_fMRI_012.mnc",
+      "size": 42075509
+    },
+    "loris_609765_V1_t1_001.mnc": {
+      "filename": "loris_609765_V1_t1_001.mnc",
+      "size": 8110023
+    },
+    "loris_609765_V1_t1_002.mnc": {
+      "filename": "loris_609765_V1_t1_002.mnc",
+      "size": 19428916
+    },
+    "loris_609765_V1_t1_003.mnc": {
+      "filename": "loris_609765_V1_t1_003.mnc",
+      "size": 7958057
+    },
+    "loris_609765_V1_t1_004.mnc": {
+      "filename": "loris_609765_V1_t1_004.mnc",
+      "size": 7888759
+    },
+    "loris_609765_V1_t1_005.mnc": {
+      "filename": "loris_609765_V1_t1_005.mnc",
+      "size": 19510987
+    },
+    "loris_609765_V1_t1_006.mnc": {
+      "filename": "loris_609765_V1_t1_006.mnc",
+      "size": 19108970
+    },
+    "loris_609765_V1_t1_007.mnc": {
+      "filename": "loris_609765_V1_t1_007.mnc",
+      "size": 19817980
+    },
+    "loris_609765_V1_t1_008.mnc": {
+      "filename": "loris_609765_V1_t1_008.mnc",
+      "size": 19938552
+    },
+    "loris_612112_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc": {
+      "filename": "loris_612112_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc",
+      "size": 1476740
+    },
+    "loris_612112_V1_dti_001.mnc": {
+      "filename": "loris_612112_V1_dti_001.mnc",
+      "size": 92067862
+    },
+    "loris_612112_V1_fMRI_001.mnc": {
+      "filename": "loris_612112_V1_fMRI_001.mnc",
+      "size": 307206685
+    },
+    "loris_612112_V1_fMRI_002.mnc": {
+      "filename": "loris_612112_V1_fMRI_002.mnc",
+      "size": 26585203
+    },
+    "loris_612112_V1_fMRI_003.mnc": {
+      "filename": "loris_612112_V1_fMRI_003.mnc",
+      "size": 42374010
+    },
+    "loris_612112_V1_fMRI_004.mnc": {
+      "filename": "loris_612112_V1_fMRI_004.mnc",
+      "size": 68752757
+    },
+    "loris_612112_V1_fMRI_005.mnc": {
+      "filename": "loris_612112_V1_fMRI_005.mnc",
+      "size": 20486315
+    },
+    "loris_612112_V1_fMRI_006.mnc": {
+      "filename": "loris_612112_V1_fMRI_006.mnc",
+      "size": 26492719
+    },
+    "loris_612112_V1_fMRI_007.mnc": {
+      "filename": "loris_612112_V1_fMRI_007.mnc",
+      "size": 40307939
+    },
+    "loris_612112_V1_fMRI_008.mnc": {
+      "filename": "loris_612112_V1_fMRI_008.mnc",
+      "size": 65254489
+    },
+    "loris_612112_V1_fMRI_009.mnc": {
+      "filename": "loris_612112_V1_fMRI_009.mnc",
+      "size": 25441705
+    },
+    "loris_612112_V1_fMRI_010.mnc": {
+      "filename": "loris_612112_V1_fMRI_010.mnc",
+      "size": 25329311
+    },
+    "loris_612112_V1_fMRI_011.mnc": {
+      "filename": "loris_612112_V1_fMRI_011.mnc",
+      "size": 35516790
+    },
+    "loris_612112_V1_fMRI_012.mnc": {
+      "filename": "loris_612112_V1_fMRI_012.mnc",
+      "size": 38521501
+    },
+    "loris_612112_V1_fMRI_013.mnc": {
+      "filename": "loris_612112_V1_fMRI_013.mnc",
+      "size": 44454275
+    },
+    "loris_612112_V1_fMRI_014.mnc": {
+      "filename": "loris_612112_V1_fMRI_014.mnc",
+      "size": 71591751
+    },
+    "loris_612112_V1_fMRI_015.mnc": {
+      "filename": "loris_612112_V1_fMRI_015.mnc",
+      "size": 27504936
+    },
+    "loris_612112_V1_fMRI_016.mnc": {
+      "filename": "loris_612112_V1_fMRI_016.mnc",
+      "size": 44010039
+    },
+    "loris_612112_V1_fMRI_017.mnc": {
+      "filename": "loris_612112_V1_fMRI_017.mnc",
+      "size": 27569249
+    },
+    "loris_612112_V1_t1_001.mnc": {
+      "filename": "loris_612112_V1_t1_001.mnc",
+      "size": 20944137
+    },
+    "loris_612112_V1_t1_002.mnc": {
+      "filename": "loris_612112_V1_t1_002.mnc",
+      "size": 19810272
+    },
+    "loris_612112_V1_t1_003.mnc": {
+      "filename": "loris_612112_V1_t1_003.mnc",
+      "size": 18768910
+    },
+    "loris_617989_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc": {
+      "filename": "loris_617989_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc",
+      "size": 1484840
+    },
+    "loris_617989_V1_dti_001.mnc": {
+      "filename": "loris_617989_V1_dti_001.mnc",
+      "size": 92719944
+    },
+    "loris_617989_V1_fMRI_001.mnc": {
+      "filename": "loris_617989_V1_fMRI_001.mnc",
+      "size": 42066843
+    },
+    "loris_617989_V1_fMRI_002.mnc": {
+      "filename": "loris_617989_V1_fMRI_002.mnc",
+      "size": 68013351
+    },
+    "loris_617989_V1_fMRI_003.mnc": {
+      "filename": "loris_617989_V1_fMRI_003.mnc",
+      "size": 26181867
+    },
+    "loris_617989_V1_fMRI_004.mnc": {
+      "filename": "loris_617989_V1_fMRI_004.mnc",
+      "size": 26158229
+    },
+    "loris_617989_V1_fMRI_005.mnc": {
+      "filename": "loris_617989_V1_fMRI_005.mnc",
+      "size": 36527349
+    },
+    "loris_617989_V1_t1_001.mnc": {
+      "filename": "loris_617989_V1_t1_001.mnc",
+      "size": 19509901
+    },
+    "loris_617989_V1_t1_002.mnc": {
+      "filename": "loris_617989_V1_t1_002.mnc",
+      "size": 18571155
+    },
+    "loris_622418_V1_CTAC_001.mnc": {
+      "filename": "loris_622418_V1_CTAC_001.mnc",
+      "size": 5684262
+    },
+    "loris_622418_V1_CT_001.mnc": {
+      "filename": "loris_622418_V1_CT_001.mnc",
+      "size": 1158336
+    },
+    "loris_622418_V1_CT_002.mnc": {
+      "filename": "loris_622418_V1_CT_002.mnc",
+      "size": 11421785
+    },
+    "loris_622418_V1_MAC_001.mnc": {
+      "filename": "loris_622418_V1_MAC_001.mnc",
+      "size": 16739299
+    },
+    "loris_622418_V1_MAC_002.mnc": {
+      "filename": "loris_622418_V1_MAC_002.mnc",
+      "size": 15423289
+    },
+    "loris_622418_V1_fMRI_001.mnc": {
+      "filename": "loris_622418_V1_fMRI_001.mnc",
+      "size": 51734447
+    },
+    "loris_622418_V1_t1_001.mnc": {
+      "filename": "loris_622418_V1_t1_001.mnc",
+      "size": 15729025
+    },
+    "loris_622844_V1_fMRI_001.mnc": {
+      "filename": "loris_622844_V1_fMRI_001.mnc",
+      "size": 97757461
+    },
+    "loris_622844_V1_t1_001.mnc": {
+      "filename": "loris_622844_V1_t1_001.mnc",
+      "size": 16566833
+    },
+    "loris_629426_V1_CT_001.mnc": {
+      "filename": "loris_629426_V1_CT_001.mnc",
+      "size": 302365
+    },
+    "loris_629426_V1_CT_002.mnc": {
+      "filename": "loris_629426_V1_CT_002.mnc",
+      "size": 611377
+    },
+    "loris_629426_V1_CT_003.mnc": {
+      "filename": "loris_629426_V1_CT_003.mnc",
+      "size": 815660
+    },
+    "loris_629426_V2_CT_001.mnc": {
+      "filename": "loris_629426_V2_CT_001.mnc",
+      "size": 300274
+    },
+    "loris_629426_V2_CT_002.mnc": {
+      "filename": "loris_629426_V2_CT_002.mnc",
+      "size": 605102
+    },
+    "loris_629426_V2_CT_003.mnc": {
+      "filename": "loris_629426_V2_CT_003.mnc",
+      "size": 880718
+    },
+    "loris_629684_V1_CT_001.mnc": {
+      "filename": "loris_629684_V1_CT_001.mnc",
+      "size": 311733
+    },
+    "loris_629684_V1_CT_002.mnc": {
+      "filename": "loris_629684_V1_CT_002.mnc",
+      "size": 630268
+    },
+    "loris_629684_V1_CT_003.mnc": {
+      "filename": "loris_629684_V1_CT_003.mnc",
+      "size": 709457
+    },
+    "loris_629684_V2_CT_001.mnc": {
+      "filename": "loris_629684_V2_CT_001.mnc",
+      "size": 309720
+    },
+    "loris_629684_V2_CT_002.mnc": {
+      "filename": "loris_629684_V2_CT_002.mnc",
+      "size": 617627
+    },
+    "loris_629684_V2_CT_003.mnc": {
+      "filename": "loris_629684_V2_CT_003.mnc",
+      "size": 889941
+    },
+    "loris_646076_V1_CTAC_001.mnc": {
+      "filename": "loris_646076_V1_CTAC_001.mnc",
+      "size": 5908905
+    },
+    "loris_646076_V1_CT_001.mnc": {
+      "filename": "loris_646076_V1_CT_001.mnc",
+      "size": 1172374
+    },
+    "loris_646076_V1_CT_002.mnc": {
+      "filename": "loris_646076_V1_CT_002.mnc",
+      "size": 11766720
+    },
+    "loris_646076_V1_MAC_001.mnc": {
+      "filename": "loris_646076_V1_MAC_001.mnc",
+      "size": 16325384
+    },
+    "loris_646076_V1_MAC_002.mnc": {
+      "filename": "loris_646076_V1_MAC_002.mnc",
+      "size": 14914658
+    },
+    "loris_646076_V1_fMRI_001.mnc": {
+      "filename": "loris_646076_V1_fMRI_001.mnc",
+      "size": 51790707
+    },
+    "loris_646076_V1_t1_001.mnc": {
+      "filename": "loris_646076_V1_t1_001.mnc",
+      "size": 15601018
+    },
+    "loris_646087_V1_fMRI_001.mnc": {
+      "filename": "loris_646087_V1_fMRI_001.mnc",
+      "size": 63743374
+    },
+    "loris_646087_V1_fMRI_002.mnc": {
+      "filename": "loris_646087_V1_fMRI_002.mnc",
+      "size": 60384642
+    },
+    "loris_646087_V1_fMRI_003.mnc": {
+      "filename": "loris_646087_V1_fMRI_003.mnc",
+      "size": 60197420
+    },
+    "loris_646087_V1_t1_001.mnc": {
+      "filename": "loris_646087_V1_t1_001.mnc",
+      "size": 23534447
+    },
+    "loris_646087_V1_t1_002.mnc": {
+      "filename": "loris_646087_V1_t1_002.mnc",
+      "size": 23912971
+    },
+    "loris_649942_V1_fMRI_001.mnc": {
+      "filename": "loris_649942_V1_fMRI_001.mnc",
+      "size": 3259531
+    },
+    "loris_649942_V1_fMRI_002.mnc": {
+      "filename": "loris_649942_V1_fMRI_002.mnc",
+      "size": 77252666
+    },
+    "loris_649942_V1_fMRI_003.mnc": {
+      "filename": "loris_649942_V1_fMRI_003.mnc",
+      "size": 76768246
+    },
+    "loris_649942_V1_fMRI_004.mnc": {
+      "filename": "loris_649942_V1_fMRI_004.mnc",
+      "size": 76477239
+    },
+    "loris_649942_V1_fMRI_005.mnc": {
+      "filename": "loris_649942_V1_fMRI_005.mnc",
+      "size": 76573574
+    },
+    "loris_649942_V1_fMRI_006.mnc": {
+      "filename": "loris_649942_V1_fMRI_006.mnc",
+      "size": 3258772
+    },
+    "loris_649942_V1_t1_001.mnc": {
+      "filename": "loris_649942_V1_t1_001.mnc",
+      "size": 17198991
+    },
+    "loris_656929_V1_dti_001.mnc": {
+      "filename": "loris_656929_V1_dti_001.mnc",
+      "size": 443714405
+    },
+    "loris_656929_V1_dti_002.mnc": {
+      "filename": "loris_656929_V1_dti_002.mnc",
+      "size": 448053429
+    },
+    "loris_656929_V1_t1_001.mnc": {
+      "filename": "loris_656929_V1_t1_001.mnc",
+      "size": 16268844
+    },
+    "loris_656929_V1_t1_002.mnc": {
+      "filename": "loris_656929_V1_t1_002.mnc",
+      "size": 16236543
+    },
+    "loris_656967_V1_dti_001.mnc": {
+      "filename": "loris_656967_V1_dti_001.mnc",
+      "size": 94868691
+    },
+    "loris_656967_V1_fMRI_001.mnc": {
+      "filename": "loris_656967_V1_fMRI_001.mnc",
+      "size": 2169143
+    },
+    "loris_656967_V1_fMRI_002.mnc": {
+      "filename": "loris_656967_V1_fMRI_002.mnc",
+      "size": 24525027
+    },
+    "loris_656967_V1_fMRI_003.mnc": {
+      "filename": "loris_656967_V1_fMRI_003.mnc",
+      "size": 34226759
+    },
+    "loris_656967_V1_fMRI_004.mnc": {
+      "filename": "loris_656967_V1_fMRI_004.mnc",
+      "size": 31829872
+    },
+    "loris_656967_V1_fMRI_005.mnc": {
+      "filename": "loris_656967_V1_fMRI_005.mnc",
+      "size": 58736802
+    },
+    "loris_656967_V1_fMRI_006.mnc": {
+      "filename": "loris_656967_V1_fMRI_006.mnc",
+      "size": 2163450
+    },
+    "loris_656967_V1_fMRI_007.mnc": {
+      "filename": "loris_656967_V1_fMRI_007.mnc",
+      "size": 58367910
+    },
+    "loris_656967_V1_fMRI_008.mnc": {
+      "filename": "loris_656967_V1_fMRI_008.mnc",
+      "size": 2157303
+    },
+    "loris_656967_V1_fMRI_009.mnc": {
+      "filename": "loris_656967_V1_fMRI_009.mnc",
+      "size": 2163710
+    },
+    "loris_656967_V1_fMRI_010.mnc": {
+      "filename": "loris_656967_V1_fMRI_010.mnc",
+      "size": 24304403
+    },
+    "loris_656967_V1_fMRI_011.mnc": {
+      "filename": "loris_656967_V1_fMRI_011.mnc",
+      "size": 19473060
+    },
+    "loris_656967_V1_fMRI_012.mnc": {
+      "filename": "loris_656967_V1_fMRI_012.mnc",
+      "size": 58322948
+    },
+    "loris_656967_V1_fMRI_013.mnc": {
+      "filename": "loris_656967_V1_fMRI_013.mnc",
+      "size": 64387985
+    },
+    "loris_656967_V1_t1_001.mnc": {
+      "filename": "loris_656967_V1_t1_001.mnc",
+      "size": 18914463
+    },
+    "loris_656967_V1_t1_002.mnc": {
+      "filename": "loris_656967_V1_t1_002.mnc",
+      "size": 22370583
+    },
+    "loris_656967_V1_t1_003.mnc": {
+      "filename": "loris_656967_V1_t1_003.mnc",
+      "size": 17944370
+    },
+    "loris_656967_V1_t1_004.mnc": {
+      "filename": "loris_656967_V1_t1_004.mnc",
+      "size": 8202999
+    },
+    "loris_668449_V1_CTAC_001.mnc": {
+      "filename": "loris_668449_V1_CTAC_001.mnc",
+      "size": 8919978
+    },
+    "loris_668449_V1_CTAC_002.mnc": {
+      "filename": "loris_668449_V1_CTAC_002.mnc",
+      "size": 10568265
+    },
+    "loris_668449_V1_CTAC_003.mnc": {
+      "filename": "loris_668449_V1_CTAC_003.mnc",
+      "size": 8840739
+    },
+    "loris_668449_V1_CTAC_004.mnc": {
+      "filename": "loris_668449_V1_CTAC_004.mnc",
+      "size": 6528529
+    },
+    "loris_668449_V1_CT_001.mnc": {
+      "filename": "loris_668449_V1_CT_001.mnc",
+      "size": 2147538
+    },
+    "loris_668449_V1_CT_002.mnc": {
+      "filename": "loris_668449_V1_CT_002.mnc",
+      "size": 8326831
+    },
+    "loris_668449_V1_CT_003.mnc": {
+      "filename": "loris_668449_V1_CT_003.mnc",
+      "size": 2155354
+    },
+    "loris_668449_V1_CT_004.mnc": {
+      "filename": "loris_668449_V1_CT_004.mnc",
+      "size": 8364540
+    },
+    "loris_668449_V1_CT_005.mnc": {
+      "filename": "loris_668449_V1_CT_005.mnc",
+      "size": 948271
+    },
+    "loris_668449_V1_CT_006.mnc": {
+      "filename": "loris_668449_V1_CT_006.mnc",
+      "size": 13256025
+    },
+    "loris_668449_V1_MAC_001.mnc": {
+      "filename": "loris_668449_V1_MAC_001.mnc",
+      "size": 80869
+    },
+    "loris_668449_V1_MAC_002.mnc": {
+      "filename": "loris_668449_V1_MAC_002.mnc",
+      "size": 841846
+    },
+    "loris_668449_V1_MAC_003.mnc": {
+      "filename": "loris_668449_V1_MAC_003.mnc",
+      "size": 1270461
+    },
+    "loris_668449_V1_MAC_004.mnc": {
+      "filename": "loris_668449_V1_MAC_004.mnc",
+      "size": 1693009
+    },
+    "loris_668449_V1_NAC_001.mnc": {
+      "filename": "loris_668449_V1_NAC_001.mnc",
+      "size": 79835
+    },
+    "loris_668449_V1_NAC_002.mnc": {
+      "filename": "loris_668449_V1_NAC_002.mnc",
+      "size": 1767933
+    },
+    "loris_668449_V1_NAC_003.mnc": {
+      "filename": "loris_668449_V1_NAC_003.mnc",
+      "size": 2285545
+    },
+    "loris_668449_V1_NAC_004.mnc": {
+      "filename": "loris_668449_V1_NAC_004.mnc",
+      "size": 2512427
+    },
+    "loris_668449_V1_fMRI_001.mnc": {
+      "filename": "loris_668449_V1_fMRI_001.mnc",
+      "size": 54840416
+    },
+    "loris_668449_V1_t1_001.mnc": {
+      "filename": "loris_668449_V1_t1_001.mnc",
+      "size": 16273034
+    },
+    "loris_669034_V1_CTAC_001.mnc": {
+      "filename": "loris_669034_V1_CTAC_001.mnc",
+      "size": 9902655
+    },
+    "loris_669034_V1_CTAC_002.mnc": {
+      "filename": "loris_669034_V1_CTAC_002.mnc",
+      "size": 9945960
+    },
+    "loris_669034_V1_CTAC_003.mnc": {
+      "filename": "loris_669034_V1_CTAC_003.mnc",
+      "size": 6542330
+    },
+    "loris_669034_V1_CT_001.mnc": {
+      "filename": "loris_669034_V1_CT_001.mnc",
+      "size": 2348358
+    },
+    "loris_669034_V1_CT_002.mnc": {
+      "filename": "loris_669034_V1_CT_002.mnc",
+      "size": 9090704
+    },
+    "loris_669034_V1_CT_003.mnc": {
+      "filename": "loris_669034_V1_CT_003.mnc",
+      "size": 2364021
+    },
+    "loris_669034_V1_CT_004.mnc": {
+      "filename": "loris_669034_V1_CT_004.mnc",
+      "size": 9040476
+    },
+    "loris_669034_V1_CT_005.mnc": {
+      "filename": "loris_669034_V1_CT_005.mnc",
+      "size": 979009
+    },
+    "loris_669034_V1_CT_006.mnc": {
+      "filename": "loris_669034_V1_CT_006.mnc",
+      "size": 13353473
+    },
+    "loris_669034_V1_CT_007.mnc": {
+      "filename": "loris_669034_V1_CT_007.mnc",
+      "size": 1772702
+    },
+    "loris_669034_V1_MAC_001.mnc": {
+      "filename": "loris_669034_V1_MAC_001.mnc",
+      "size": 1236016
+    },
+    "loris_669034_V1_MAC_002.mnc": {
+      "filename": "loris_669034_V1_MAC_002.mnc",
+      "size": 1538120
+    },
+    "loris_669034_V1_MAC_003.mnc": {
+      "filename": "loris_669034_V1_MAC_003.mnc",
+      "size": 1772706
+    },
+    "loris_669034_V1_NAC_001.mnc": {
+      "filename": "loris_669034_V1_NAC_001.mnc",
+      "size": 2144224
+    },
+    "loris_669034_V1_NAC_002.mnc": {
+      "filename": "loris_669034_V1_NAC_002.mnc",
+      "size": 2485334
+    },
+    "loris_669034_V1_NAC_003.mnc": {
+      "filename": "loris_669034_V1_NAC_003.mnc",
+      "size": 2585816
+    },
+    "loris_669034_V1_fMRI_001.mnc": {
+      "filename": "loris_669034_V1_fMRI_001.mnc",
+      "size": 57236454
+    },
+    "loris_669034_V1_t1_001.mnc": {
+      "filename": "loris_669034_V1_t1_001.mnc",
+      "size": 16893055
+    },
+    "loris_670760_V1_t1_001.mnc": {
+      "filename": "loris_670760_V1_t1_001.mnc",
+      "size": 15734158
+    },
+    "loris_670760_V1_t1_002.mnc": {
+      "filename": "loris_670760_V1_t1_002.mnc",
+      "size": 15917249
+    },
+    "loris_670760_V1_t1_003.mnc": {
+      "filename": "loris_670760_V1_t1_003.mnc",
+      "size": 15870531
+    },
+    "loris_671366_V1_dti_001.mnc": {
+      "filename": "loris_671366_V1_dti_001.mnc",
+      "size": 101945589
+    },
+    "loris_671366_V1_fMRI_001.mnc": {
+      "filename": "loris_671366_V1_fMRI_001.mnc",
+      "size": 55150743
+    },
+    "loris_671366_V1_fMRI_002.mnc": {
+      "filename": "loris_671366_V1_fMRI_002.mnc",
+      "size": 2180283
+    },
+    "loris_671366_V1_fMRI_003.mnc": {
+      "filename": "loris_671366_V1_fMRI_003.mnc",
+      "size": 2173569
+    },
+    "loris_671366_V1_fMRI_004.mnc": {
+      "filename": "loris_671366_V1_fMRI_004.mnc",
+      "size": 7412821
+    },
+    "loris_671366_V1_fMRI_005.mnc": {
+      "filename": "loris_671366_V1_fMRI_005.mnc",
+      "size": 23089551
+    },
+    "loris_671366_V1_fMRI_006.mnc": {
+      "filename": "loris_671366_V1_fMRI_006.mnc",
+      "size": 32105352
+    },
+    "loris_671366_V1_fMRI_007.mnc": {
+      "filename": "loris_671366_V1_fMRI_007.mnc",
+      "size": 30119233
+    },
+    "loris_671366_V1_fMRI_008.mnc": {
+      "filename": "loris_671366_V1_fMRI_008.mnc",
+      "size": 2128998
+    },
+    "loris_671366_V1_fMRI_009.mnc": {
+      "filename": "loris_671366_V1_fMRI_009.mnc",
+      "size": 2122522
+    },
+    "loris_671366_V1_fMRI_010.mnc": {
+      "filename": "loris_671366_V1_fMRI_010.mnc",
+      "size": 23140122
+    },
+    "loris_671366_V1_fMRI_011.mnc": {
+      "filename": "loris_671366_V1_fMRI_011.mnc",
+      "size": 18525355
+    },
+    "loris_671366_V1_fMRI_012.mnc": {
+      "filename": "loris_671366_V1_fMRI_012.mnc",
+      "size": 55716998
+    },
+    "loris_671366_V1_fMRI_013.mnc": {
+      "filename": "loris_671366_V1_fMRI_013.mnc",
+      "size": 55506041
+    },
+    "loris_671366_V1_spectroscopy_megapress_001.mnc": {
+      "filename": "loris_671366_V1_spectroscopy_megapress_001.mnc",
+      "size": 100553
+    },
+    "loris_671366_V1_t1_001.mnc": {
+      "filename": "loris_671366_V1_t1_001.mnc",
+      "size": 18605237
+    },
+    "loris_671366_V1_t1_002.mnc": {
+      "filename": "loris_671366_V1_t1_002.mnc",
+      "size": 7853381
+    },
+    "loris_680905_V1_CTAC_001.mnc": {
+      "filename": "loris_680905_V1_CTAC_001.mnc",
+      "size": 6041406
+    },
+    "loris_680905_V1_CT_001.mnc": {
+      "filename": "loris_680905_V1_CT_001.mnc",
+      "size": 1305493
+    },
+    "loris_680905_V1_CT_002.mnc": {
+      "filename": "loris_680905_V1_CT_002.mnc",
+      "size": 12092754
+    },
+    "loris_680905_V1_MAC_001.mnc": {
+      "filename": "loris_680905_V1_MAC_001.mnc",
+      "size": 17722667
+    },
+    "loris_680905_V1_MAC_002.mnc": {
+      "filename": "loris_680905_V1_MAC_002.mnc",
+      "size": 16121676
+    },
+    "loris_680905_V1_fMRI_001.mnc": {
+      "filename": "loris_680905_V1_fMRI_001.mnc",
+      "size": 56990580
+    },
+    "loris_680905_V1_t1_001.mnc": {
+      "filename": "loris_680905_V1_t1_001.mnc",
+      "size": 16732923
+    },
+    "loris_686681_V1_CTAC_001.mnc": {
+      "filename": "loris_686681_V1_CTAC_001.mnc",
+      "size": 92107143
+    },
+    "loris_686681_V1_CTAC_002.mnc": {
+      "filename": "loris_686681_V1_CTAC_002.mnc",
+      "size": 24207865
+    },
+    "loris_686681_V1_CTAC_003.mnc": {
+      "filename": "loris_686681_V1_CTAC_003.mnc",
+      "size": 23304928
+    },
+    "loris_686681_V1_CTAC_004.mnc": {
+      "filename": "loris_686681_V1_CTAC_004.mnc",
+      "size": 460196
+    },
+    "loris_686681_V1_CT_001.mnc": {
+      "filename": "loris_686681_V1_CT_001.mnc",
+      "size": 2072987
+    },
+    "loris_686681_V1_CT_002.mnc": {
+      "filename": "loris_686681_V1_CT_002.mnc",
+      "size": 4878087
+    },
+    "loris_686681_V1_CT_003.mnc": {
+      "filename": "loris_686681_V1_CT_003.mnc",
+      "size": 2107892
+    },
+    "loris_686681_V1_CT_004.mnc": {
+      "filename": "loris_686681_V1_CT_004.mnc",
+      "size": 6563249
+    },
+    "loris_686681_V1_MAC_001.mnc": {
+      "filename": "loris_686681_V1_MAC_001.mnc",
+      "size": 2540593
+    },
+    "loris_686681_V1_MAC_002.mnc": {
+      "filename": "loris_686681_V1_MAC_002.mnc",
+      "size": 2670443
+    },
+    "loris_686681_V1_MAC_003.mnc": {
+      "filename": "loris_686681_V1_MAC_003.mnc",
+      "size": 2578540
+    },
+    "loris_686681_V1_MAC_004.mnc": {
+      "filename": "loris_686681_V1_MAC_004.mnc",
+      "size": 2285090
+    },
+    "loris_686681_V1_NAC_001.mnc": {
+      "filename": "loris_686681_V1_NAC_001.mnc",
+      "size": 1968665
+    },
+    "loris_686681_V1_NAC_002.mnc": {
+      "filename": "loris_686681_V1_NAC_002.mnc",
+      "size": 2081315
+    },
+    "loris_686681_V1_NAC_003.mnc": {
+      "filename": "loris_686681_V1_NAC_003.mnc",
+      "size": 1983355
+    },
+    "loris_686681_V1_NAC_004.mnc": {
+      "filename": "loris_686681_V1_NAC_004.mnc",
+      "size": 2026889
+    },
+    "loris_693829_V1_t1_001.mnc": {
+      "filename": "loris_693829_V1_t1_001.mnc",
+      "size": 16293344
+    },
+    "loris_693829_V1_t1_002.mnc": {
+      "filename": "loris_693829_V1_t1_002.mnc",
+      "size": 7441315
+    },
+    "loris_693829_V1_t1_003.mnc": {
+      "filename": "loris_693829_V1_t1_003.mnc",
+      "size": 14034979
+    },
+    "loris_693829_V1_t1_004.mnc": {
+      "filename": "loris_693829_V1_t1_004.mnc",
+      "size": 56438786
+    },
+    "loris_693829_V1_t1_005.mnc": {
+      "filename": "loris_693829_V1_t1_005.mnc",
+      "size": 16110008
+    },
+    "loris_696042_V1_fMRI_001.mnc": {
+      "filename": "loris_696042_V1_fMRI_001.mnc",
+      "size": 56935494
+    },
+    "loris_696042_V1_fMRI_002.mnc": {
+      "filename": "loris_696042_V1_fMRI_002.mnc",
+      "size": 60112005
+    },
+    "loris_696042_V1_fMRI_003.mnc": {
+      "filename": "loris_696042_V1_fMRI_003.mnc",
+      "size": 74757009
+    },
+    "loris_696042_V1_t1_001.mnc": {
+      "filename": "loris_696042_V1_t1_001.mnc",
+      "size": 23308480
+    },
+    "loris_696042_V1_t1_002.mnc": {
+      "filename": "loris_696042_V1_t1_002.mnc",
+      "size": 22752127
+    },
+    "loris_700122_V1_CTAC_001.mnc": {
+      "filename": "loris_700122_V1_CTAC_001.mnc",
+      "size": 6113763
+    },
+    "loris_700122_V1_CT_001.mnc": {
+      "filename": "loris_700122_V1_CT_001.mnc",
+      "size": 1200835
+    },
+    "loris_700122_V1_CT_002.mnc": {
+      "filename": "loris_700122_V1_CT_002.mnc",
+      "size": 12112127
+    },
+    "loris_700122_V1_MAC_001.mnc": {
+      "filename": "loris_700122_V1_MAC_001.mnc",
+      "size": 17906248
+    },
+    "loris_700122_V1_MAC_002.mnc": {
+      "filename": "loris_700122_V1_MAC_002.mnc",
+      "size": 16678237
+    },
+    "loris_709133_V1_CTAC_001.mnc": {
+      "filename": "loris_709133_V1_CTAC_001.mnc",
+      "size": 5673605
+    },
+    "loris_709133_V1_CT_001.mnc": {
+      "filename": "loris_709133_V1_CT_001.mnc",
+      "size": 1206918
+    },
+    "loris_709133_V1_CT_002.mnc": {
+      "filename": "loris_709133_V1_CT_002.mnc",
+      "size": 11517388
+    },
+    "loris_709133_V1_MAC_001.mnc": {
+      "filename": "loris_709133_V1_MAC_001.mnc",
+      "size": 16874670
+    },
+    "loris_709133_V1_MAC_002.mnc": {
+      "filename": "loris_709133_V1_MAC_002.mnc",
+      "size": 15460057
+    },
+    "loris_757531_V1_t1_001.mnc": {
+      "filename": "loris_757531_V1_t1_001.mnc",
+      "size": 5819688
+    },
+    "loris_757531_V1_t1_002.mnc": {
+      "filename": "loris_757531_V1_t1_002.mnc",
+      "size": 15074681
+    },
+    "loris_760170_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc": {
+      "filename": "loris_760170_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc",
+      "size": 1126624
+    },
+    "loris_760170_V1_T2_EPI_rev_phase_encod_grad_dir_002.mnc": {
+      "filename": "loris_760170_V1_T2_EPI_rev_phase_encod_grad_dir_002.mnc",
+      "size": 1127312
+    },
+    "loris_760170_V1_dti_001.mnc": {
+      "filename": "loris_760170_V1_dti_001.mnc",
+      "size": 52685422
+    },
+    "loris_760170_V1_dti_002.mnc": {
+      "filename": "loris_760170_V1_dti_002.mnc",
+      "size": 51654022
+    },
+    "loris_760170_V1_fMRI_001.mnc": {
+      "filename": "loris_760170_V1_fMRI_001.mnc",
+      "size": 37811577
+    },
+    "loris_760170_V1_fMRI_002.mnc": {
+      "filename": "loris_760170_V1_fMRI_002.mnc",
+      "size": 44775083
+    },
+    "loris_760170_V1_fMRI_003.mnc": {
+      "filename": "loris_760170_V1_fMRI_003.mnc",
+      "size": 37698533
+    },
+    "loris_760170_V1_fMRI_004.mnc": {
+      "filename": "loris_760170_V1_fMRI_004.mnc",
+      "size": 44724650
+    },
+    "loris_760170_V1_t1_001.mnc": {
+      "filename": "loris_760170_V1_t1_001.mnc",
+      "size": 16348900
+    },
+    "loris_760170_V1_t1_002.mnc": {
+      "filename": "loris_760170_V1_t1_002.mnc",
+      "size": 16401060
+    },
+    "loris_769805_V1_fMRI_001.mnc": {
+      "filename": "loris_769805_V1_fMRI_001.mnc",
+      "size": 118118847
+    },
+    "loris_769805_V1_fMRI_002.mnc": {
+      "filename": "loris_769805_V1_fMRI_002.mnc",
+      "size": 25106443
+    },
+    "loris_769805_V1_fMRI_003.mnc": {
+      "filename": "loris_769805_V1_fMRI_003.mnc",
+      "size": 40013206
+    },
+    "loris_769805_V1_fMRI_004.mnc": {
+      "filename": "loris_769805_V1_fMRI_004.mnc",
+      "size": 64795145
+    },
+    "loris_769805_V1_fMRI_005.mnc": {
+      "filename": "loris_769805_V1_fMRI_005.mnc",
+      "size": 24868414
+    },
+    "loris_769805_V1_fMRI_006.mnc": {
+      "filename": "loris_769805_V1_fMRI_006.mnc",
+      "size": 40087494
+    },
+    "loris_769805_V1_fMRI_007.mnc": {
+      "filename": "loris_769805_V1_fMRI_007.mnc",
+      "size": 65047917
+    },
+    "loris_769805_V1_fMRI_008.mnc": {
+      "filename": "loris_769805_V1_fMRI_008.mnc",
+      "size": 25064949
+    },
+    "loris_769805_V1_fMRI_009.mnc": {
+      "filename": "loris_769805_V1_fMRI_009.mnc",
+      "size": 25079394
+    },
+    "loris_769805_V1_fMRI_010.mnc": {
+      "filename": "loris_769805_V1_fMRI_010.mnc",
+      "size": 35098691
+    },
+    "loris_769805_V1_t1_001.mnc": {
+      "filename": "loris_769805_V1_t1_001.mnc",
+      "size": 19094469
+    },
+    "loris_779799_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc": {
+      "filename": "loris_779799_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc",
+      "size": 1089412
+    },
+    "loris_779799_V1_T2_EPI_rev_phase_encod_grad_dir_002.mnc": {
+      "filename": "loris_779799_V1_T2_EPI_rev_phase_encod_grad_dir_002.mnc",
+      "size": 1096692
+    },
+    "loris_779799_V1_dti_001.mnc": {
+      "filename": "loris_779799_V1_dti_001.mnc",
+      "size": 49015184
+    },
+    "loris_779799_V1_dti_002.mnc": {
+      "filename": "loris_779799_V1_dti_002.mnc",
+      "size": 48769149
+    },
+    "loris_779799_V1_fMRI_001.mnc": {
+      "filename": "loris_779799_V1_fMRI_001.mnc",
+      "size": 35916146
+    },
+    "loris_779799_V1_fMRI_002.mnc": {
+      "filename": "loris_779799_V1_fMRI_002.mnc",
+      "size": 42621666
+    },
+    "loris_779799_V1_fMRI_003.mnc": {
+      "filename": "loris_779799_V1_fMRI_003.mnc",
+      "size": 35958755
+    },
+    "loris_779799_V1_fMRI_004.mnc": {
+      "filename": "loris_779799_V1_fMRI_004.mnc",
+      "size": 42709545
+    },
+    "loris_779799_V1_t1_001.mnc": {
+      "filename": "loris_779799_V1_t1_001.mnc",
+      "size": 15925853
+    },
+    "loris_779799_V1_t1_002.mnc": {
+      "filename": "loris_779799_V1_t1_002.mnc",
+      "size": 15857479
+    },
+    "loris_799881_V1_t1_001.mnc": {
+      "filename": "loris_799881_V1_t1_001.mnc",
+      "size": 16281315
+    },
+    "loris_806774_V3_dti_001.mnc": {
+      "filename": "loris_806774_V3_dti_001.mnc",
+      "size": 107216694
+    },
+    "loris_806774_V3_fMRI_001.mnc": {
+      "filename": "loris_806774_V3_fMRI_001.mnc",
+      "size": 2334847
+    },
+    "loris_806774_V3_fMRI_002.mnc": {
+      "filename": "loris_806774_V3_fMRI_002.mnc",
+      "size": 25215808
+    },
+    "loris_806774_V3_fMRI_003.mnc": {
+      "filename": "loris_806774_V3_fMRI_003.mnc",
+      "size": 35276181
+    },
+    "loris_806774_V3_fMRI_004.mnc": {
+      "filename": "loris_806774_V3_fMRI_004.mnc",
+      "size": 32810594
+    },
+    "loris_806774_V3_fMRI_005.mnc": {
+      "filename": "loris_806774_V3_fMRI_005.mnc",
+      "size": 60417642
+    },
+    "loris_806774_V3_fMRI_006.mnc": {
+      "filename": "loris_806774_V3_fMRI_006.mnc",
+      "size": 2325322
+    },
+    "loris_806774_V3_t1_001.mnc": {
+      "filename": "loris_806774_V3_t1_001.mnc",
+      "size": 19752529
+    },
+    "loris_809761_V1_fMRI_001.mnc": {
+      "filename": "loris_809761_V1_fMRI_001.mnc",
+      "size": 5195820
+    },
+    "loris_809761_V1_t1_001.mnc": {
+      "filename": "loris_809761_V1_t1_001.mnc",
+      "size": 23706899
+    },
+    "loris_826328_V1_fMRI_001.mnc": {
+      "filename": "loris_826328_V1_fMRI_001.mnc",
+      "size": 58428698
+    },
+    "loris_826328_V1_t1_001.mnc": {
+      "filename": "loris_826328_V1_t1_001.mnc",
+      "size": 17329790
+    },
+    "loris_833158_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc": {
+      "filename": "loris_833158_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc",
+      "size": 1568472
+    },
+    "loris_833158_V1_dti_001.mnc": {
+      "filename": "loris_833158_V1_dti_001.mnc",
+      "size": 97053383
+    },
+    "loris_833158_V1_fMRI_001.mnc": {
+      "filename": "loris_833158_V1_fMRI_001.mnc",
+      "size": 40120105
+    },
+    "loris_833158_V1_fMRI_002.mnc": {
+      "filename": "loris_833158_V1_fMRI_002.mnc",
+      "size": 65303095
+    },
+    "loris_833158_V1_fMRI_003.mnc": {
+      "filename": "loris_833158_V1_fMRI_003.mnc",
+      "size": 25194198
+    },
+    "loris_833158_V1_fMRI_004.mnc": {
+      "filename": "loris_833158_V1_fMRI_004.mnc",
+      "size": 25241328
+    },
+    "loris_833158_V1_fMRI_005.mnc": {
+      "filename": "loris_833158_V1_fMRI_005.mnc",
+      "size": 35203493
+    },
+    "loris_833158_V1_t1_001.mnc": {
+      "filename": "loris_833158_V1_t1_001.mnc",
+      "size": 19956691
+    },
+    "loris_833158_V1_t1_002.mnc": {
+      "filename": "loris_833158_V1_t1_002.mnc",
+      "size": 18760463
+    },
+    "loris_836049_V1_CTAC_001.mnc": {
+      "filename": "loris_836049_V1_CTAC_001.mnc",
+      "size": 6058851
+    },
+    "loris_836049_V1_CT_001.mnc": {
+      "filename": "loris_836049_V1_CT_001.mnc",
+      "size": 1216621
+    },
+    "loris_836049_V1_CT_002.mnc": {
+      "filename": "loris_836049_V1_CT_002.mnc",
+      "size": 12044783
+    },
+    "loris_836049_V1_MAC_001.mnc": {
+      "filename": "loris_836049_V1_MAC_001.mnc",
+      "size": 17666503
+    },
+    "loris_836049_V1_MAC_002.mnc": {
+      "filename": "loris_836049_V1_MAC_002.mnc",
+      "size": 16218795
+    },
+    "loris_836565_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc": {
+      "filename": "loris_836565_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc",
+      "size": 1497631
+    },
+    "loris_836565_V1_dti_001.mnc": {
+      "filename": "loris_836565_V1_dti_001.mnc",
+      "size": 92421142
+    },
+    "loris_836565_V1_fMRI_001.mnc": {
+      "filename": "loris_836565_V1_fMRI_001.mnc",
+      "size": 35779867
+    },
+    "loris_836565_V1_fMRI_002.mnc": {
+      "filename": "loris_836565_V1_fMRI_002.mnc",
+      "size": 40812568
+    },
+    "loris_836565_V1_fMRI_003.mnc": {
+      "filename": "loris_836565_V1_fMRI_003.mnc",
+      "size": 66293006
+    },
+    "loris_836565_V1_fMRI_004.mnc": {
+      "filename": "loris_836565_V1_fMRI_004.mnc",
+      "size": 25576387
+    },
+    "loris_836565_V1_fMRI_005.mnc": {
+      "filename": "loris_836565_V1_fMRI_005.mnc",
+      "size": 25606714
+    },
+    "loris_836565_V1_fMRI_006.mnc": {
+      "filename": "loris_836565_V1_fMRI_006.mnc",
+      "size": 266820961
+    },
+    "loris_836565_V1_fMRI_007.mnc": {
+      "filename": "loris_836565_V1_fMRI_007.mnc",
+      "size": 24818248
+    },
+    "loris_836565_V1_fMRI_008.mnc": {
+      "filename": "loris_836565_V1_fMRI_008.mnc",
+      "size": 39728888
+    },
+    "loris_836565_V1_fMRI_009.mnc": {
+      "filename": "loris_836565_V1_fMRI_009.mnc",
+      "size": 64558437
+    },
+    "loris_836565_V1_fMRI_010.mnc": {
+      "filename": "loris_836565_V1_fMRI_010.mnc",
+      "size": 24922116
+    },
+    "loris_836565_V1_fMRI_011.mnc": {
+      "filename": "loris_836565_V1_fMRI_011.mnc",
+      "size": 40067285
+    },
+    "loris_836565_V1_fMRI_012.mnc": {
+      "filename": "loris_836565_V1_fMRI_012.mnc",
+      "size": 64941650
+    },
+    "loris_836565_V1_fMRI_013.mnc": {
+      "filename": "loris_836565_V1_fMRI_013.mnc",
+      "size": 25129043
+    },
+    "loris_836565_V1_fMRI_014.mnc": {
+      "filename": "loris_836565_V1_fMRI_014.mnc",
+      "size": 25121842
+    },
+    "loris_836565_V1_fMRI_015.mnc": {
+      "filename": "loris_836565_V1_fMRI_015.mnc",
+      "size": 35008697
+    },
+    "loris_836565_V1_t1_001.mnc": {
+      "filename": "loris_836565_V1_t1_001.mnc",
+      "size": 19001584
+    },
+    "loris_836565_V1_t1_002.mnc": {
+      "filename": "loris_836565_V1_t1_002.mnc",
+      "size": 18760970
+    },
+    "loris_836565_V1_t1_003.mnc": {
+      "filename": "loris_836565_V1_t1_003.mnc",
+      "size": 18879994
+    },
+    "loris_841160_V1_CT_001.mnc": {
+      "filename": "loris_841160_V1_CT_001.mnc",
+      "size": 315998
+    },
+    "loris_841160_V1_CT_002.mnc": {
+      "filename": "loris_841160_V1_CT_002.mnc",
+      "size": 631306
+    },
+    "loris_841160_V1_CT_003.mnc": {
+      "filename": "loris_841160_V1_CT_003.mnc",
+      "size": 738760
+    },
+    "loris_841160_V2_CT_001.mnc": {
+      "filename": "loris_841160_V2_CT_001.mnc",
+      "size": 310583
+    },
+    "loris_841160_V2_CT_002.mnc": {
+      "filename": "loris_841160_V2_CT_002.mnc",
+      "size": 623742
+    },
+    "loris_841160_V2_CT_003.mnc": {
+      "filename": "loris_841160_V2_CT_003.mnc",
+      "size": 685864
+    },
+    "loris_849239_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc": {
+      "filename": "loris_849239_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc",
+      "size": 1536894
+    },
+    "loris_849239_V1_dti_001.mnc": {
+      "filename": "loris_849239_V1_dti_001.mnc",
+      "size": 95535094
+    },
+    "loris_849239_V1_fMRI_001.mnc": {
+      "filename": "loris_849239_V1_fMRI_001.mnc",
+      "size": 40944213
+    },
+    "loris_849239_V1_fMRI_002.mnc": {
+      "filename": "loris_849239_V1_fMRI_002.mnc",
+      "size": 66580529
+    },
+    "loris_849239_V1_fMRI_003.mnc": {
+      "filename": "loris_849239_V1_fMRI_003.mnc",
+      "size": 25654713
+    },
+    "loris_849239_V1_fMRI_004.mnc": {
+      "filename": "loris_849239_V1_fMRI_004.mnc",
+      "size": 25670694
+    },
+    "loris_849239_V1_fMRI_005.mnc": {
+      "filename": "loris_849239_V1_fMRI_005.mnc",
+      "size": 35920339
+    },
+    "loris_849239_V1_fMRI_006.mnc": {
+      "filename": "loris_849239_V1_fMRI_006.mnc",
+      "size": 142376293
+    },
+    "loris_849239_V1_fMRI_007.mnc": {
+      "filename": "loris_849239_V1_fMRI_007.mnc",
+      "size": 154044584
+    },
+    "loris_849239_V1_fMRI_008.mnc": {
+      "filename": "loris_849239_V1_fMRI_008.mnc",
+      "size": 25755036
+    },
+    "loris_849239_V1_fMRI_009.mnc": {
+      "filename": "loris_849239_V1_fMRI_009.mnc",
+      "size": 41188398
+    },
+    "loris_849239_V1_fMRI_010.mnc": {
+      "filename": "loris_849239_V1_fMRI_010.mnc",
+      "size": 66964594
+    },
+    "loris_849239_V1_fMRI_011.mnc": {
+      "filename": "loris_849239_V1_fMRI_011.mnc",
+      "size": 25832764
+    },
+    "loris_849239_V1_fMRI_012.mnc": {
+      "filename": "loris_849239_V1_fMRI_012.mnc",
+      "size": 40827865
+    },
+    "loris_849239_V1_fMRI_013.mnc": {
+      "filename": "loris_849239_V1_fMRI_013.mnc",
+      "size": 66381644
+    },
+    "loris_849239_V1_fMRI_014.mnc": {
+      "filename": "loris_849239_V1_fMRI_014.mnc",
+      "size": 25660526
+    },
+    "loris_849239_V1_fMRI_015.mnc": {
+      "filename": "loris_849239_V1_fMRI_015.mnc",
+      "size": 25656988
+    },
+    "loris_849239_V1_fMRI_016.mnc": {
+      "filename": "loris_849239_V1_fMRI_016.mnc",
+      "size": 35845733
+    },
+    "loris_849239_V1_t1_001.mnc": {
+      "filename": "loris_849239_V1_t1_001.mnc",
+      "size": 18997276
+    },
+    "loris_849239_V1_t1_002.mnc": {
+      "filename": "loris_849239_V1_t1_002.mnc",
+      "size": 18998223
+    },
+    "loris_849239_V1_t1_003.mnc": {
+      "filename": "loris_849239_V1_t1_003.mnc",
+      "size": 19292162
+    },
+    "loris_857279_V1_fMRI_001.mnc": {
+      "filename": "loris_857279_V1_fMRI_001.mnc",
+      "size": 40555289
+    },
+    "loris_857279_V1_fMRI_002.mnc": {
+      "filename": "loris_857279_V1_fMRI_002.mnc",
+      "size": 40622849
+    },
+    "loris_857279_V1_fMRI_003.mnc": {
+      "filename": "loris_857279_V1_fMRI_003.mnc",
+      "size": 5113515
+    },
+    "loris_857279_V1_fMRI_004.mnc": {
+      "filename": "loris_857279_V1_fMRI_004.mnc",
+      "size": 56310638
+    },
+    "loris_857279_V1_fMRI_005.mnc": {
+      "filename": "loris_857279_V1_fMRI_005.mnc",
+      "size": 28178554
+    },
+    "loris_857279_V1_fMRI_006.mnc": {
+      "filename": "loris_857279_V1_fMRI_006.mnc",
+      "size": 40631153
+    },
+    "loris_857279_V1_fMRI_007.mnc": {
+      "filename": "loris_857279_V1_fMRI_007.mnc",
+      "size": 40675807
+    },
+    "loris_857279_V1_t1_001.mnc": {
+      "filename": "loris_857279_V1_t1_001.mnc",
+      "size": 22979127
+    },
+    "loris_857279_V1_t1_002.mnc": {
+      "filename": "loris_857279_V1_t1_002.mnc",
+      "size": 22591267
+    },
+    "loris_860718_V1_CT_001.mnc": {
+      "filename": "loris_860718_V1_CT_001.mnc",
+      "size": 304886
+    },
+    "loris_860718_V1_CT_002.mnc": {
+      "filename": "loris_860718_V1_CT_002.mnc",
+      "size": 604188
+    },
+    "loris_860718_V1_CT_003.mnc": {
+      "filename": "loris_860718_V1_CT_003.mnc",
+      "size": 682660
+    },
+    "loris_860718_V2_CT_001.mnc": {
+      "filename": "loris_860718_V2_CT_001.mnc",
+      "size": 302430
+    },
+    "loris_860718_V2_CT_002.mnc": {
+      "filename": "loris_860718_V2_CT_002.mnc",
+      "size": 611819
+    },
+    "loris_860718_V2_CT_003.mnc": {
+      "filename": "loris_860718_V2_CT_003.mnc",
+      "size": 674934
+    },
+    "loris_860977_V1_fMRI_001.mnc": {
+      "filename": "loris_860977_V1_fMRI_001.mnc",
+      "size": 42595863
+    },
+    "loris_860977_V1_fMRI_002.mnc": {
+      "filename": "loris_860977_V1_fMRI_002.mnc",
+      "size": 42932821
+    },
+    "loris_860977_V1_fMRI_003.mnc": {
+      "filename": "loris_860977_V1_fMRI_003.mnc",
+      "size": 42788163
+    },
+    "loris_860977_V1_fMRI_004.mnc": {
+      "filename": "loris_860977_V1_fMRI_004.mnc",
+      "size": 42886972
+    },
+    "loris_860977_V1_fMRI_005.mnc": {
+      "filename": "loris_860977_V1_fMRI_005.mnc",
+      "size": 29273856
+    },
+    "loris_860977_V1_fMRI_006.mnc": {
+      "filename": "loris_860977_V1_fMRI_006.mnc",
+      "size": 59056668
+    },
+    "loris_860977_V1_t1_001.mnc": {
+      "filename": "loris_860977_V1_t1_001.mnc",
+      "size": 25870505
+    },
+    "loris_860977_V1_t1_002.mnc": {
+      "filename": "loris_860977_V1_t1_002.mnc",
+      "size": 22492607
+    },
+    "loris_862095_V1_fMRI_001.mnc": {
+      "filename": "loris_862095_V1_fMRI_001.mnc",
+      "size": 1479348
+    },
+    "loris_862095_V1_fMRI_002.mnc": {
+      "filename": "loris_862095_V1_fMRI_002.mnc",
+      "size": 5259450
+    },
+    "loris_862095_V1_fMRI_003.mnc": {
+      "filename": "loris_862095_V1_fMRI_003.mnc",
+      "size": 4048136
+    },
+    "loris_862095_V1_fMRI_004.mnc": {
+      "filename": "loris_862095_V1_fMRI_004.mnc",
+      "size": 94009365
+    },
+    "loris_862095_V1_t1_001.mnc": {
+      "filename": "loris_862095_V1_t1_001.mnc",
+      "size": 16909294
+    },
+    "loris_882210_V1_dti_001.mnc": {
+      "filename": "loris_882210_V1_dti_001.mnc",
+      "size": 191185662
+    },
+    "loris_882210_V1_dti_002.mnc": {
+      "filename": "loris_882210_V1_dti_002.mnc",
+      "size": 194685384
+    },
+    "loris_882210_V1_fMRI_001.mnc": {
+      "filename": "loris_882210_V1_fMRI_001.mnc",
+      "size": 35219760
+    },
+    "loris_882210_V1_fMRI_002.mnc": {
+      "filename": "loris_882210_V1_fMRI_002.mnc",
+      "size": 41709503
+    },
+    "loris_882210_V1_fMRI_003.mnc": {
+      "filename": "loris_882210_V1_fMRI_003.mnc",
+      "size": 36925058
+    },
+    "loris_882210_V1_fMRI_004.mnc": {
+      "filename": "loris_882210_V1_fMRI_004.mnc",
+      "size": 43685187
+    },
+    "loris_882210_V1_t1_001.mnc": {
+      "filename": "loris_882210_V1_t1_001.mnc",
+      "size": 16286539
+    },
+    "loris_882210_V1_t1_002.mnc": {
+      "filename": "loris_882210_V1_t1_002.mnc",
+      "size": 16584298
+    },
+    "loris_885876_V1_fMRI_001.mnc": {
+      "filename": "loris_885876_V1_fMRI_001.mnc",
+      "size": 57296752
+    },
+    "loris_885876_V1_fMRI_002.mnc": {
+      "filename": "loris_885876_V1_fMRI_002.mnc",
+      "size": 57322147
+    },
+    "loris_885876_V1_fMRI_003.mnc": {
+      "filename": "loris_885876_V1_fMRI_003.mnc",
+      "size": 2102623
+    },
+    "loris_885876_V1_fMRI_004.mnc": {
+      "filename": "loris_885876_V1_fMRI_004.mnc",
+      "size": 2092096
+    },
+    "loris_885876_V1_fMRI_005.mnc": {
+      "filename": "loris_885876_V1_fMRI_005.mnc",
+      "size": 23960866
+    },
+    "loris_885876_V1_fMRI_006.mnc": {
+      "filename": "loris_885876_V1_fMRI_006.mnc",
+      "size": 19991358
+    },
+    "loris_885876_V1_fMRI_007.mnc": {
+      "filename": "loris_885876_V1_fMRI_007.mnc",
+      "size": 56005726
+    },
+    "loris_885876_V1_t1_001.mnc": {
+      "filename": "loris_885876_V1_t1_001.mnc",
+      "size": 7823189
+    },
+    "loris_892874_V3_CT_001.mnc": {
+      "filename": "loris_892874_V3_CT_001.mnc",
+      "size": 292433
+    },
+    "loris_892874_V3_CT_002.mnc": {
+      "filename": "loris_892874_V3_CT_002.mnc",
+      "size": 593096
+    },
+    "loris_892874_V3_CT_003.mnc": {
+      "filename": "loris_892874_V3_CT_003.mnc",
+      "size": 687868
+    },
+    "loris_893275_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc": {
+      "filename": "loris_893275_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc",
+      "size": 1536977
+    },
+    "loris_893275_V1_dti_001.mnc": {
+      "filename": "loris_893275_V1_dti_001.mnc",
+      "size": 95922721
+    },
+    "loris_893275_V1_fMRI_001.mnc": {
+      "filename": "loris_893275_V1_fMRI_001.mnc",
+      "size": 41444995
+    },
+    "loris_893275_V1_fMRI_002.mnc": {
+      "filename": "loris_893275_V1_fMRI_002.mnc",
+      "size": 67389663
+    },
+    "loris_893275_V1_fMRI_003.mnc": {
+      "filename": "loris_893275_V1_fMRI_003.mnc",
+      "size": 25986715
+    },
+    "loris_893275_V1_fMRI_004.mnc": {
+      "filename": "loris_893275_V1_fMRI_004.mnc",
+      "size": 26017333
+    },
+    "loris_893275_V1_fMRI_005.mnc": {
+      "filename": "loris_893275_V1_fMRI_005.mnc",
+      "size": 36395794
+    },
+    "loris_893275_V1_fMRI_006.mnc": {
+      "filename": "loris_893275_V1_fMRI_006.mnc",
+      "size": 196881551
+    },
+    "loris_893275_V1_fMRI_007.mnc": {
+      "filename": "loris_893275_V1_fMRI_007.mnc",
+      "size": 26145049
+    },
+    "loris_893275_V1_fMRI_008.mnc": {
+      "filename": "loris_893275_V1_fMRI_008.mnc",
+      "size": 41709875
+    },
+    "loris_893275_V1_fMRI_009.mnc": {
+      "filename": "loris_893275_V1_fMRI_009.mnc",
+      "size": 67573567
+    },
+    "loris_893275_V1_fMRI_010.mnc": {
+      "filename": "loris_893275_V1_fMRI_010.mnc",
+      "size": 26221365
+    },
+    "loris_893275_V1_fMRI_011.mnc": {
+      "filename": "loris_893275_V1_fMRI_011.mnc",
+      "size": 41712450
+    },
+    "loris_893275_V1_fMRI_012.mnc": {
+      "filename": "loris_893275_V1_fMRI_012.mnc",
+      "size": 67752032
+    },
+    "loris_893275_V1_fMRI_013.mnc": {
+      "filename": "loris_893275_V1_fMRI_013.mnc",
+      "size": 26158507
+    },
+    "loris_893275_V1_fMRI_014.mnc": {
+      "filename": "loris_893275_V1_fMRI_014.mnc",
+      "size": 26145664
+    },
+    "loris_893275_V1_fMRI_015.mnc": {
+      "filename": "loris_893275_V1_fMRI_015.mnc",
+      "size": 36568484
+    },
+    "loris_893275_V1_t1_001.mnc": {
+      "filename": "loris_893275_V1_t1_001.mnc",
+      "size": 20101259
+    },
+    "loris_893275_V1_t1_002.mnc": {
+      "filename": "loris_893275_V1_t1_002.mnc",
+      "size": 20002414
+    },
+    "loris_893275_V1_t1_003.mnc": {
+      "filename": "loris_893275_V1_t1_003.mnc",
+      "size": 19539051
+    },
+    "loris_894785_V1_dti_001.mnc": {
+      "filename": "loris_894785_V1_dti_001.mnc",
+      "size": 429550577
+    },
+    "loris_894785_V1_t1_001.mnc": {
+      "filename": "loris_894785_V1_t1_001.mnc",
+      "size": 15756058
+    },
+    "loris_898056_V1_dti_001.mnc": {
+      "filename": "loris_898056_V1_dti_001.mnc",
+      "size": 460367021
+    },
+    "loris_898056_V1_dti_002.mnc": {
+      "filename": "loris_898056_V1_dti_002.mnc",
+      "size": 461910227
+    },
+    "loris_898056_V1_t1_001.mnc": {
+      "filename": "loris_898056_V1_t1_001.mnc",
+      "size": 16482201
+    },
+    "loris_898056_V1_t1_002.mnc": {
+      "filename": "loris_898056_V1_t1_002.mnc",
+      "size": 16714242
+    },
+    "loris_899699_V1_dti_001.mnc": {
+      "filename": "loris_899699_V1_dti_001.mnc",
+      "size": 453074982
+    },
+    "loris_899699_V1_dti_002.mnc": {
+      "filename": "loris_899699_V1_dti_002.mnc",
+      "size": 453692216
+    },
+    "loris_899699_V1_t1_001.mnc": {
+      "filename": "loris_899699_V1_t1_001.mnc",
+      "size": 16527481
+    },
+    "loris_899699_V1_t1_002.mnc": {
+      "filename": "loris_899699_V1_t1_002.mnc",
+      "size": 16310559
+    },
+    "loris_903624_V1_dti_001.mnc": {
+      "filename": "loris_903624_V1_dti_001.mnc",
+      "size": 97315893
+    },
+    "loris_903624_V1_fMRI_001.mnc": {
+      "filename": "loris_903624_V1_fMRI_001.mnc",
+      "size": 2189387
+    },
+    "loris_903624_V1_fMRI_002.mnc": {
+      "filename": "loris_903624_V1_fMRI_002.mnc",
+      "size": 24485435
+    },
+    "loris_903624_V1_fMRI_003.mnc": {
+      "filename": "loris_903624_V1_fMRI_003.mnc",
+      "size": 34151068
+    },
+    "loris_903624_V1_fMRI_004.mnc": {
+      "filename": "loris_903624_V1_fMRI_004.mnc",
+      "size": 27512362
+    },
+    "loris_903624_V1_fMRI_005.mnc": {
+      "filename": "loris_903624_V1_fMRI_005.mnc",
+      "size": 58565085
+    },
+    "loris_903624_V1_fMRI_006.mnc": {
+      "filename": "loris_903624_V1_fMRI_006.mnc",
+      "size": 2182945
+    },
+    "loris_903624_V1_fMRI_007.mnc": {
+      "filename": "loris_903624_V1_fMRI_007.mnc",
+      "size": 58952760
+    },
+    "loris_903624_V1_fMRI_008.mnc": {
+      "filename": "loris_903624_V1_fMRI_008.mnc",
+      "size": 2178259
+    },
+    "loris_903624_V1_fMRI_009.mnc": {
+      "filename": "loris_903624_V1_fMRI_009.mnc",
+      "size": 2188519
+    },
+    "loris_903624_V1_fMRI_010.mnc": {
+      "filename": "loris_903624_V1_fMRI_010.mnc",
+      "size": 24599766
+    },
+    "loris_903624_V1_fMRI_011.mnc": {
+      "filename": "loris_903624_V1_fMRI_011.mnc",
+      "size": 18029626
+    },
+    "loris_903624_V1_fMRI_012.mnc": {
+      "filename": "loris_903624_V1_fMRI_012.mnc",
+      "size": 58727653
+    },
+    "loris_903624_V1_fMRI_013.mnc": {
+      "filename": "loris_903624_V1_fMRI_013.mnc",
+      "size": 64711756
+    },
+    "loris_903624_V1_t1_001.mnc": {
+      "filename": "loris_903624_V1_t1_001.mnc",
+      "size": 18777442
+    },
+    "loris_903624_V1_t1_002.mnc": {
+      "filename": "loris_903624_V1_t1_002.mnc",
+      "size": 13450619
+    },
+    "loris_903624_V1_t1_003.mnc": {
+      "filename": "loris_903624_V1_t1_003.mnc",
+      "size": 16905646
+    },
+    "loris_903624_V1_t1_004.mnc": {
+      "filename": "loris_903624_V1_t1_004.mnc",
+      "size": 16200474
+    },
+    "loris_903624_V1_t1_005.mnc": {
+      "filename": "loris_903624_V1_t1_005.mnc",
+      "size": 8102138
+    },
+    "loris_903624_V2_dti_001.mnc": {
+      "filename": "loris_903624_V2_dti_001.mnc",
+      "size": 98317265
+    },
+    "loris_903624_V2_fMRI_001.mnc": {
+      "filename": "loris_903624_V2_fMRI_001.mnc",
+      "size": 2250390
+    },
+    "loris_903624_V2_fMRI_002.mnc": {
+      "filename": "loris_903624_V2_fMRI_002.mnc",
+      "size": 25251466
+    },
+    "loris_903624_V2_fMRI_003.mnc": {
+      "filename": "loris_903624_V2_fMRI_003.mnc",
+      "size": 34842413
+    },
+    "loris_903624_V2_fMRI_004.mnc": {
+      "filename": "loris_903624_V2_fMRI_004.mnc",
+      "size": 32359709
+    },
+    "loris_903624_V2_fMRI_005.mnc": {
+      "filename": "loris_903624_V2_fMRI_005.mnc",
+      "size": 60370158
+    },
+    "loris_903624_V2_fMRI_006.mnc": {
+      "filename": "loris_903624_V2_fMRI_006.mnc",
+      "size": 2240532
+    },
+    "loris_903624_V2_fMRI_007.mnc": {
+      "filename": "loris_903624_V2_fMRI_007.mnc",
+      "size": 20023648
+    },
+    "loris_903624_V2_fMRI_008.mnc": {
+      "filename": "loris_903624_V2_fMRI_008.mnc",
+      "size": 60112222
+    },
+    "loris_903624_V2_fMRI_009.mnc": {
+      "filename": "loris_903624_V2_fMRI_009.mnc",
+      "size": 60288038
+    },
+    "loris_903624_V2_fMRI_010.mnc": {
+      "filename": "loris_903624_V2_fMRI_010.mnc",
+      "size": 60206550
+    },
+    "loris_903624_V2_fMRI_011.mnc": {
+      "filename": "loris_903624_V2_fMRI_011.mnc",
+      "size": 2236612
+    },
+    "loris_903624_V2_fMRI_012.mnc": {
+      "filename": "loris_903624_V2_fMRI_012.mnc",
+      "size": 2255442
+    },
+    "loris_903624_V2_fMRI_013.mnc": {
+      "filename": "loris_903624_V2_fMRI_013.mnc",
+      "size": 25008659
+    },
+    "loris_903624_V2_t1_001.mnc": {
+      "filename": "loris_903624_V2_t1_001.mnc",
+      "size": 19523306
+    },
+    "loris_903624_V2_t1_002.mnc": {
+      "filename": "loris_903624_V2_t1_002.mnc",
+      "size": 16026146
+    },
+    "loris_903624_V2_t1_003.mnc": {
+      "filename": "loris_903624_V2_t1_003.mnc",
+      "size": 37479516
+    },
+    "loris_903624_V2_t1_004.mnc": {
+      "filename": "loris_903624_V2_t1_004.mnc",
+      "size": 8358974
+    },
+    "loris_903624_V2_t1_005.mnc": {
+      "filename": "loris_903624_V2_t1_005.mnc",
+      "size": 8035342
+    },
+    "loris_904115_V1_t1_001.mnc": {
+      "filename": "loris_904115_V1_t1_001.mnc",
+      "size": 16098009
+    },
+    "loris_904115_V1_t1_002.mnc": {
+      "filename": "loris_904115_V1_t1_002.mnc",
+      "size": 16155124
+    },
+    "loris_913174_V1_fMRI_001.mnc": {
+      "filename": "loris_913174_V1_fMRI_001.mnc",
+      "size": 25799638
+    },
+    "loris_913174_V1_fMRI_002.mnc": {
+      "filename": "loris_913174_V1_fMRI_002.mnc",
+      "size": 8142197
+    },
+    "loris_913174_V1_fMRI_003.mnc": {
+      "filename": "loris_913174_V1_fMRI_003.mnc",
+      "size": 7746906
+    },
+    "loris_913174_V1_fMRI_004.mnc": {
+      "filename": "loris_913174_V1_fMRI_004.mnc",
+      "size": 22931995
+    },
+    "loris_913174_V1_fMRI_005.mnc": {
+      "filename": "loris_913174_V1_fMRI_005.mnc",
+      "size": 18645218
+    },
+    "loris_913174_V1_fMRI_006.mnc": {
+      "filename": "loris_913174_V1_fMRI_006.mnc",
+      "size": 8072090
+    },
+    "loris_913174_V1_fMRI_007.mnc": {
+      "filename": "loris_913174_V1_fMRI_007.mnc",
+      "size": 7924601
+    },
+    "loris_913174_V1_fMRI_008.mnc": {
+      "filename": "loris_913174_V1_fMRI_008.mnc",
+      "size": 7972030
+    },
+    "loris_913174_V1_fMRI_009.mnc": {
+      "filename": "loris_913174_V1_fMRI_009.mnc",
+      "size": 8034497
+    },
+    "loris_913174_V1_fMRI_010.mnc": {
+      "filename": "loris_913174_V1_fMRI_010.mnc",
+      "size": 8058195
+    },
+    "loris_913174_V1_fMRI_011.mnc": {
+      "filename": "loris_913174_V1_fMRI_011.mnc",
+      "size": 8057961
+    },
+    "loris_913174_V1_fMRI_012.mnc": {
+      "filename": "loris_913174_V1_fMRI_012.mnc",
+      "size": 21809836
+    },
+    "loris_913174_V1_fMRI_013.mnc": {
+      "filename": "loris_913174_V1_fMRI_013.mnc",
+      "size": 22007376
+    },
+    "loris_913174_V1_fMRI_014.mnc": {
+      "filename": "loris_913174_V1_fMRI_014.mnc",
+      "size": 20343523
+    },
+    "loris_928194_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc": {
+      "filename": "loris_928194_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc",
+      "size": 1060209
+    },
+    "loris_928194_V1_T2_EPI_rev_phase_encod_grad_dir_002.mnc": {
+      "filename": "loris_928194_V1_T2_EPI_rev_phase_encod_grad_dir_002.mnc",
+      "size": 1056872
+    },
+    "loris_928194_V1_dti_001.mnc": {
+      "filename": "loris_928194_V1_dti_001.mnc",
+      "size": 2740030
+    },
+    "loris_928194_V1_dti_002.mnc": {
+      "filename": "loris_928194_V1_dti_002.mnc",
+      "size": 131152133
+    },
+    "loris_928194_V1_dti_003.mnc": {
+      "filename": "loris_928194_V1_dti_003.mnc",
+      "size": 46470666
+    },
+    "loris_928194_V1_dti_004.mnc": {
+      "filename": "loris_928194_V1_dti_004.mnc",
+      "size": 49114918
+    },
+    "loris_928194_V1_fMRI_001.mnc": {
+      "filename": "loris_928194_V1_fMRI_001.mnc",
+      "size": 34558578
+    },
+    "loris_928194_V1_fMRI_002.mnc": {
+      "filename": "loris_928194_V1_fMRI_002.mnc",
+      "size": 34294714
+    },
+    "loris_928194_V1_fMRI_003.mnc": {
+      "filename": "loris_928194_V1_fMRI_003.mnc",
+      "size": 40553074
+    },
+    "loris_928194_V1_fMRI_004.mnc": {
+      "filename": "loris_928194_V1_fMRI_004.mnc",
+      "size": 34666567
+    },
+    "loris_928194_V1_fMRI_005.mnc": {
+      "filename": "loris_928194_V1_fMRI_005.mnc",
+      "size": 40898799
+    },
+    "loris_928194_V1_t1_001.mnc": {
+      "filename": "loris_928194_V1_t1_001.mnc",
+      "size": 16503947
+    },
+    "loris_928194_V1_t1_002.mnc": {
+      "filename": "loris_928194_V1_t1_002.mnc",
+      "size": 15510619
+    },
+    "loris_928194_V1_t1_003.mnc": {
+      "filename": "loris_928194_V1_t1_003.mnc",
+      "size": 15712784
+    },
+    "loris_933552_V1_CTAC_001.mnc": {
+      "filename": "loris_933552_V1_CTAC_001.mnc",
+      "size": 6434947
+    },
+    "loris_933552_V1_CTAC_002.mnc": {
+      "filename": "loris_933552_V1_CTAC_002.mnc",
+      "size": 9614768
+    },
+    "loris_933552_V1_CT_001.mnc": {
+      "filename": "loris_933552_V1_CT_001.mnc",
+      "size": 1091486
+    },
+    "loris_933552_V1_CT_002.mnc": {
+      "filename": "loris_933552_V1_CT_002.mnc",
+      "size": 13025944
+    },
+    "loris_933552_V1_CT_003.mnc": {
+      "filename": "loris_933552_V1_CT_003.mnc",
+      "size": 2274042
+    },
+    "loris_933552_V1_CT_004.mnc": {
+      "filename": "loris_933552_V1_CT_004.mnc",
+      "size": 8880476
+    },
+    "loris_933552_V1_MAC_001.mnc": {
+      "filename": "loris_933552_V1_MAC_001.mnc",
+      "size": 1775762
+    },
+    "loris_933552_V1_MAC_002.mnc": {
+      "filename": "loris_933552_V1_MAC_002.mnc",
+      "size": 1290184
+    },
+    "loris_933552_V1_NAC_001.mnc": {
+      "filename": "loris_933552_V1_NAC_001.mnc",
+      "size": 2593959
+    },
+    "loris_933552_V1_NAC_002.mnc": {
+      "filename": "loris_933552_V1_NAC_002.mnc",
+      "size": 2248387
+    },
+    "loris_940747_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc": {
+      "filename": "loris_940747_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc",
+      "size": 1509979
+    },
+    "loris_940747_V1_dti_001.mnc": {
+      "filename": "loris_940747_V1_dti_001.mnc",
+      "size": 93983748
+    },
+    "loris_940747_V1_fMRI_001.mnc": {
+      "filename": "loris_940747_V1_fMRI_001.mnc",
+      "size": 45960710
+    },
+    "loris_940747_V1_fMRI_002.mnc": {
+      "filename": "loris_940747_V1_fMRI_002.mnc",
+      "size": 74780849
+    },
+    "loris_940747_V1_fMRI_003.mnc": {
+      "filename": "loris_940747_V1_fMRI_003.mnc",
+      "size": 28738600
+    },
+    "loris_940747_V1_fMRI_004.mnc": {
+      "filename": "loris_940747_V1_fMRI_004.mnc",
+      "size": 28660196
+    },
+    "loris_940747_V1_fMRI_005.mnc": {
+      "filename": "loris_940747_V1_fMRI_005.mnc",
+      "size": 40096621
+    },
+    "loris_940747_V1_fMRI_006.mnc": {
+      "filename": "loris_940747_V1_fMRI_006.mnc",
+      "size": 46081566
+    },
+    "loris_940747_V1_fMRI_007.mnc": {
+      "filename": "loris_940747_V1_fMRI_007.mnc",
+      "size": 73131044
+    },
+    "loris_940747_V1_fMRI_008.mnc": {
+      "filename": "loris_940747_V1_fMRI_008.mnc",
+      "size": 28183540
+    },
+    "loris_940747_V1_fMRI_009.mnc": {
+      "filename": "loris_940747_V1_fMRI_009.mnc",
+      "size": 28416250
+    },
+    "loris_940747_V1_fMRI_010.mnc": {
+      "filename": "loris_940747_V1_fMRI_010.mnc",
+      "size": 39692149
+    },
+    "loris_940747_V1_fMRI_011.mnc": {
+      "filename": "loris_940747_V1_fMRI_011.mnc",
+      "size": 325672416
+    },
+    "loris_940747_V1_fMRI_012.mnc": {
+      "filename": "loris_940747_V1_fMRI_012.mnc",
+      "size": 27425581
+    },
+    "loris_940747_V1_fMRI_013.mnc": {
+      "filename": "loris_940747_V1_fMRI_013.mnc",
+      "size": 43585530
+    },
+    "loris_940747_V1_fMRI_014.mnc": {
+      "filename": "loris_940747_V1_fMRI_014.mnc",
+      "size": 69514517
+    },
+    "loris_940747_V1_fMRI_015.mnc": {
+      "filename": "loris_940747_V1_fMRI_015.mnc",
+      "size": 27101932
+    },
+    "loris_940747_V1_t1_001.mnc": {
+      "filename": "loris_940747_V1_t1_001.mnc",
+      "size": 20687151
+    },
+    "loris_940747_V1_t1_002.mnc": {
+      "filename": "loris_940747_V1_t1_002.mnc",
+      "size": 19262400
+    },
+    "loris_946198_V1_fMRI_001.mnc": {
+      "filename": "loris_946198_V1_fMRI_001.mnc",
+      "size": 59479964
+    },
+    "loris_946198_V1_fMRI_002.mnc": {
+      "filename": "loris_946198_V1_fMRI_002.mnc",
+      "size": 65829821
+    },
+    "loris_946198_V1_fMRI_003.mnc": {
+      "filename": "loris_946198_V1_fMRI_003.mnc",
+      "size": 59101954
+    },
+    "loris_946198_V1_fMRI_004.mnc": {
+      "filename": "loris_946198_V1_fMRI_004.mnc",
+      "size": 24667481
+    },
+    "loris_946198_V1_fMRI_005.mnc": {
+      "filename": "loris_946198_V1_fMRI_005.mnc",
+      "size": 3184133
+    },
+    "loris_946198_V1_fMRI_006.mnc": {
+      "filename": "loris_946198_V1_fMRI_006.mnc",
+      "size": 19749576
+    },
+    "loris_946198_V1_t1_001.mnc": {
+      "filename": "loris_946198_V1_t1_001.mnc",
+      "size": 15857313
+    },
+    "loris_946198_V1_t1_002.mnc": {
+      "filename": "loris_946198_V1_t1_002.mnc",
+      "size": 17657462
+    },
+    "loris_946198_V1_t1_003.mnc": {
+      "filename": "loris_946198_V1_t1_003.mnc",
+      "size": 8206220
+    },
+    "loris_946198_V1_t1_004.mnc": {
+      "filename": "loris_946198_V1_t1_004.mnc",
+      "size": 15203793
+    },
+    "loris_946198_V1_t1_005.mnc": {
+      "filename": "loris_946198_V1_t1_005.mnc",
+      "size": 17797937
+    },
+    "loris_946198_V1_t1_006.mnc": {
+      "filename": "loris_946198_V1_t1_006.mnc",
+      "size": 8074512
+    },
+    "loris_946198_V2_fMRI_001.mnc": {
+      "filename": "loris_946198_V2_fMRI_001.mnc",
+      "size": 63152416
+    },
+    "loris_946198_V2_fMRI_002.mnc": {
+      "filename": "loris_946198_V2_fMRI_002.mnc",
+      "size": 62637968
+    },
+    "loris_946198_V2_fMRI_003.mnc": {
+      "filename": "loris_946198_V2_fMRI_003.mnc",
+      "size": 2363409
+    },
+    "loris_946198_V2_fMRI_004.mnc": {
+      "filename": "loris_946198_V2_fMRI_004.mnc",
+      "size": 2365302
+    },
+    "loris_946198_V2_fMRI_005.mnc": {
+      "filename": "loris_946198_V2_fMRI_005.mnc",
+      "size": 26273285
+    },
+    "loris_946198_V2_fMRI_006.mnc": {
+      "filename": "loris_946198_V2_fMRI_006.mnc",
+      "size": 21094719
+    },
+    "loris_946198_V2_fMRI_007.mnc": {
+      "filename": "loris_946198_V2_fMRI_007.mnc",
+      "size": 62700741
+    },
+    "loris_946198_V2_t1_001.mnc": {
+      "filename": "loris_946198_V2_t1_001.mnc",
+      "size": 8514427
+    },
+    "loris_946198_V2_t1_002.mnc": {
+      "filename": "loris_946198_V2_t1_002.mnc",
+      "size": 8713024
+    },
+    "loris_946198_V3_dti_001.mnc": {
+      "filename": "loris_946198_V3_dti_001.mnc",
+      "size": 103966158
+    },
+    "loris_946198_V3_fMRI_001.mnc": {
+      "filename": "loris_946198_V3_fMRI_001.mnc",
+      "size": 2226111
+    },
+    "loris_946198_V3_fMRI_002.mnc": {
+      "filename": "loris_946198_V3_fMRI_002.mnc",
+      "size": 24236324
+    },
+    "loris_946198_V3_fMRI_003.mnc": {
+      "filename": "loris_946198_V3_fMRI_003.mnc",
+      "size": 33846466
+    },
+    "loris_946198_V3_fMRI_004.mnc": {
+      "filename": "loris_946198_V3_fMRI_004.mnc",
+      "size": 31353950
+    },
+    "loris_946198_V3_fMRI_005.mnc": {
+      "filename": "loris_946198_V3_fMRI_005.mnc",
+      "size": 57764243
+    },
+    "loris_946198_V3_fMRI_006.mnc": {
+      "filename": "loris_946198_V3_fMRI_006.mnc",
+      "size": 2208243
+    },
+    "loris_946198_V3_fMRI_007.mnc": {
+      "filename": "loris_946198_V3_fMRI_007.mnc",
+      "size": 58323934
+    },
+    "loris_946198_V3_fMRI_008.mnc": {
+      "filename": "loris_946198_V3_fMRI_008.mnc",
+      "size": 2254501
+    },
+    "loris_946198_V3_fMRI_009.mnc": {
+      "filename": "loris_946198_V3_fMRI_009.mnc",
+      "size": 2253297
+    },
+    "loris_946198_V3_fMRI_010.mnc": {
+      "filename": "loris_946198_V3_fMRI_010.mnc",
+      "size": 24487514
+    },
+    "loris_946198_V3_fMRI_011.mnc": {
+      "filename": "loris_946198_V3_fMRI_011.mnc",
+      "size": 19614699
+    },
+    "loris_946198_V3_fMRI_012.mnc": {
+      "filename": "loris_946198_V3_fMRI_012.mnc",
+      "size": 58932422
+    },
+    "loris_946198_V3_fMRI_013.mnc": {
+      "filename": "loris_946198_V3_fMRI_013.mnc",
+      "size": 58609591
+    },
+    "loris_946198_V3_t1_001.mnc": {
+      "filename": "loris_946198_V3_t1_001.mnc",
+      "size": 19122353
+    },
+    "loris_946198_V3_t1_002.mnc": {
+      "filename": "loris_946198_V3_t1_002.mnc",
+      "size": 15144585
+    },
+    "loris_946198_V3_t1_003.mnc": {
+      "filename": "loris_946198_V3_t1_003.mnc",
+      "size": 16753874
+    },
+    "loris_946198_V3_t1_004.mnc": {
+      "filename": "loris_946198_V3_t1_004.mnc",
+      "size": 8121499
+    },
+    "loris_951949_V1_CTAC_001.mnc": {
+      "filename": "loris_951949_V1_CTAC_001.mnc",
+      "size": 9264423
+    },
+    "loris_951949_V1_CTAC_002.mnc": {
+      "filename": "loris_951949_V1_CTAC_002.mnc",
+      "size": 9281355
+    },
+    "loris_951949_V1_CTAC_003.mnc": {
+      "filename": "loris_951949_V1_CTAC_003.mnc",
+      "size": 6630390
+    },
+    "loris_951949_V1_CT_001.mnc": {
+      "filename": "loris_951949_V1_CT_001.mnc",
+      "size": 2217729
+    },
+    "loris_951949_V1_CT_002.mnc": {
+      "filename": "loris_951949_V1_CT_002.mnc",
+      "size": 8635640
+    },
+    "loris_951949_V1_CT_003.mnc": {
+      "filename": "loris_951949_V1_CT_003.mnc",
+      "size": 2266632
+    },
+    "loris_951949_V1_CT_004.mnc": {
+      "filename": "loris_951949_V1_CT_004.mnc",
+      "size": 8676635
+    },
+    "loris_951949_V1_CT_005.mnc": {
+      "filename": "loris_951949_V1_CT_005.mnc",
+      "size": 1069538
+    },
+    "loris_951949_V1_CT_006.mnc": {
+      "filename": "loris_951949_V1_CT_006.mnc",
+      "size": 13427204
+    },
+    "loris_951949_V1_MAC_001.mnc": {
+      "filename": "loris_951949_V1_MAC_001.mnc",
+      "size": 1008604
+    },
+    "loris_951949_V1_MAC_002.mnc": {
+      "filename": "loris_951949_V1_MAC_002.mnc",
+      "size": 1346371
+    },
+    "loris_951949_V1_MAC_003.mnc": {
+      "filename": "loris_951949_V1_MAC_003.mnc",
+      "size": 1700868
+    },
+    "loris_951949_V1_NAC_001.mnc": {
+      "filename": "loris_951949_V1_NAC_001.mnc",
+      "size": 2075139
+    },
+    "loris_951949_V1_NAC_002.mnc": {
+      "filename": "loris_951949_V1_NAC_002.mnc",
+      "size": 2319720
+    },
+    "loris_951949_V1_NAC_003.mnc": {
+      "filename": "loris_951949_V1_NAC_003.mnc",
+      "size": 2522692
+    },
+    "loris_951949_V1_fMRI_001.mnc": {
+      "filename": "loris_951949_V1_fMRI_001.mnc",
+      "size": 54376326
+    },
+    "loris_951949_V1_t1_001.mnc": {
+      "filename": "loris_951949_V1_t1_001.mnc",
+      "size": 17366579
+    },
+    "loris_956998_V1_fMRI_001.mnc": {
+      "filename": "loris_956998_V1_fMRI_001.mnc",
+      "size": 53351513
+    },
+    "loris_956998_V1_t1_001.mnc": {
+      "filename": "loris_956998_V1_t1_001.mnc",
+      "size": 16396649
+    },
+    "loris_977622_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc": {
+      "filename": "loris_977622_V1_T2_EPI_rev_phase_encod_grad_dir_001.mnc",
+      "size": 1154144
+    },
+    "loris_977622_V1_dti_001.mnc": {
+      "filename": "loris_977622_V1_dti_001.mnc",
+      "size": 52796773
+    },
+    "loris_977622_V1_fMRI_001.mnc": {
+      "filename": "loris_977622_V1_fMRI_001.mnc",
+      "size": 38956829
+    },
+    "loris_977622_V1_fMRI_002.mnc": {
+      "filename": "loris_977622_V1_fMRI_002.mnc",
+      "size": 46128118
+    },
+    "loris_977622_V1_t1_001.mnc": {
+      "filename": "loris_977622_V1_t1_001.mnc",
+      "size": 16754118
+    },
+    "loris_984792_V1_fMRI_001.mnc": {
+      "filename": "loris_984792_V1_fMRI_001.mnc",
+      "size": 23142438
+    },
+    "loris_984792_V1_fMRI_002.mnc": {
+      "filename": "loris_984792_V1_fMRI_002.mnc",
+      "size": 25905152
+    },
+    "loris_984792_V1_fMRI_003.mnc": {
+      "filename": "loris_984792_V1_fMRI_003.mnc",
+      "size": 24800175
+    },
+    "loris_984792_V1_fMRI_004.mnc": {
+      "filename": "loris_984792_V1_fMRI_004.mnc",
+      "size": 27610651
+    },
+    "loris_984792_V1_t1_001.mnc": {
+      "filename": "loris_984792_V1_t1_001.mnc",
+      "size": 19675472
+    },
+    "loris_984792_V1_t1_002.mnc": {
+      "filename": "loris_984792_V1_t1_002.mnc",
+      "size": 18779941
+    },
+    "loris_990782_V1_fMRI_001.mnc": {
+      "filename": "loris_990782_V1_fMRI_001.mnc",
+      "size": 307514843
+    },
+    "loris_990782_V1_fMRI_002.mnc": {
+      "filename": "loris_990782_V1_fMRI_002.mnc",
+      "size": 26005589
+    },
+    "loris_990782_V1_fMRI_003.mnc": {
+      "filename": "loris_990782_V1_fMRI_003.mnc",
+      "size": 4855293
+    },
+    "loris_990782_V1_fMRI_004.mnc": {
+      "filename": "loris_990782_V1_fMRI_004.mnc",
+      "size": 41559512
+    },
+    "loris_990782_V1_fMRI_005.mnc": {
+      "filename": "loris_990782_V1_fMRI_005.mnc",
+      "size": 67407818
+    },
+    "loris_990782_V1_fMRI_006.mnc": {
+      "filename": "loris_990782_V1_fMRI_006.mnc",
+      "size": 26014111
+    },
+    "loris_990782_V1_fMRI_007.mnc": {
+      "filename": "loris_990782_V1_fMRI_007.mnc",
+      "size": 40908879
+    },
+    "loris_990782_V1_fMRI_008.mnc": {
+      "filename": "loris_990782_V1_fMRI_008.mnc",
+      "size": 66483306
+    },
+    "loris_990782_V1_fMRI_009.mnc": {
+      "filename": "loris_990782_V1_fMRI_009.mnc",
+      "size": 25623211
+    },
+    "loris_990782_V1_fMRI_010.mnc": {
+      "filename": "loris_990782_V1_fMRI_010.mnc",
+      "size": 25610664
+    },
+    "loris_990782_V1_fMRI_011.mnc": {
+      "filename": "loris_990782_V1_fMRI_011.mnc",
+      "size": 35839898
+    },
+    "loris_990782_V1_t1_001.mnc": {
+      "filename": "loris_990782_V1_t1_001.mnc",
+      "size": 19410356
+    },
+    "loris_994770_V1_CTAC_001.mnc": {
+      "filename": "loris_994770_V1_CTAC_001.mnc",
+      "size": 5811552
+    },
+    "loris_994770_V1_CT_001.mnc": {
+      "filename": "loris_994770_V1_CT_001.mnc",
+      "size": 1178766
+    },
+    "loris_994770_V1_CT_002.mnc": {
+      "filename": "loris_994770_V1_CT_002.mnc",
+      "size": 11653623
+    },
+    "loris_994770_V1_MAC_001.mnc": {
+      "filename": "loris_994770_V1_MAC_001.mnc",
+      "size": 17070246
+    },
+    "loris_994770_V1_MAC_002.mnc": {
+      "filename": "loris_994770_V1_MAC_002.mnc",
+      "size": 9070663
+    },
+    "loris_994770_V1_fMRI_001.mnc": {
+      "filename": "loris_994770_V1_fMRI_001.mnc",
+      "size": 53616728
+    },
+    "loris_994770_V1_t1_001.mnc": {
+      "filename": "loris_994770_V1_t1_001.mnc",
+      "size": 16626592
+    }
+  }
+}
