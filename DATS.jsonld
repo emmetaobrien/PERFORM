@@ -1,11 +1,11 @@
 {
-    "$schema": "https://w3id.org/dats/schema/dataset_schema.json",
+    "@context": "https://w3id.org/dats/schema/dataset_schema.json",
     "@type": "Dataset",
     "title": "PERFORM Dataset; one control subject",
     "description": "Functional Magnetic Resonance Imaging (fMRI), electroencephalography (EEG), sleep and nutrition assessments were performed on one male control subject. This registered access dataset is currently accessible on request only.",
     "creators": [
         {
-	"$schema": "https://w3id.org/dats/schema/organization_schema.json",
+	"@id": "https://w3id.org/dats/schema/organization_schema.json",
 	"@type": "Organization",
             "name": "PERFORM Centre Concordia University"
         }
@@ -13,21 +13,21 @@
     "types": [
         { 
             "information": {
-                "$schema": "https://w3id.org/dats/schema/annotation_schema.json",
+                "@id": "https://w3id.org/dats/schema/annotation_schema.json",
                 "@type": "Annotation",
                 "value": "MRI"
             }
         },
         { 
             "information": {
-                "$schema": "https://w3id.org/dats/schema/annotation_schema.json",
+                "@id": "https://w3id.org/dats/schema/annotation_schema.json",
                 "@type": "Annotation",
                 "value": "EEG"
             }
         },
         {
             "information": {
-                "$schema": "https://w3id.org/dats/schema/annotation_schema.json",
+                "@id": "https://w3id.org/dats/schema/annotation_schema.json",
                 "@type": "Annotation",
                 "value": "Quality Control Subject",
                 "valueIRI": "http://uri.interlex.org/base/ilx_0381893"
@@ -38,21 +38,21 @@
     "privacy": "Registered Access",
     "isAbout": [
         {
-	 	"$schema": "https://w3id.org/dats/schema/biological_entity_schema.json",
+	 	"@id": "https://w3id.org/dats/schema/biological_entity_schema.json",
 		"@type": "BiologicalEntity",
         	"name": "adult human"
         }
     ],
     "spatialCoverage": [
         {
-            "$schema": "https://w3id.org/dats/schema/place_schema.json",
+            "@id": "https://w3id.org/dats/schema/place_schema.json",
 	    "@type": "Place",
             "name": "Montréal"
         }
     ],
     "licenses": [
         {
-	    "$schema": "https://w3id.org/dats/schema/license_schema.json",
+	    "@id": "https://w3id.org/dats/schema/license_schema.json",
 	    "@type": "Licence",
             "name": "Cite PERFORM Centre Concordia University as the source of data."
         }
@@ -60,17 +60,17 @@
     "aggregation": "instance of dataset",
     "keywords": [
         {
-	    "$schema": "https://w3id.org/dats/schema/annotation_schema.json",
+	    "@id": "https://w3id.org/dats/schema/annotation_schema.json",
             "@type": "Annotation",
             "value": "control"
         },
         {
-	    "$schema": "https://w3id.org/dats/schema/annotation_schema.json",
+	    "@id": "https://w3id.org/dats/schema/annotation_schema.json",
             "@type": "Annotation",
             "value": "MRI"
         },
         {
-	    "$schema": "https://w3id.org/dats/schema/annotation_schema.json",
+	    "@id": "https://w3id.org/dats/schema/annotation_schema.json",
             "@type": "Annotation",
             "value": "EEG"
         }
