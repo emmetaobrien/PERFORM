@@ -1,5 +1,29 @@
 {
-    "@context": "https://w3id.org/dats/schema/dataset_schema.json",
+	"@context": {
+		"sdo": "https://schema.org/",
+		"Dataset": "sdo:Dataset",
+		"title": {
+      			"@id": "sdo:name",
+      			"@type": "sdo:Text"
+    		},
+    		"description": {
+      			"@id": "sdo:description",
+      			"@type": "sdo:Text"
+    		},
+    		"distributions": {
+		      "@id": "sdo:distribution",
+		      "@type": "sdo:DataDownload"
+	 	},
+	    	"primaryPublications": "sdo:citation",
+    		"citations": "sdo:citation",
+	    	"producedBy": "sdo:producer",
+    		"creators": "sdo:creator",
+	    	"licenses": "sdo:license",
+    		"isAbout": "sdo:about",
+	    	"hasPart": "sdo:hasPart",
+    		"acknowledges": "sdo:funder",
+	    	"keywords": "sdo:keywords"
+	},
     "@type": "Dataset",
     "title": "PERFORM Dataset; one control subject",
     "description": "Functional Magnetic Resonance Imaging (fMRI), electroencephalography (EEG), sleep and nutrition assessments were performed on one male control subject. This registered access dataset is currently accessible on request only.",
