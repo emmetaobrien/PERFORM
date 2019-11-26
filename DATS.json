@@ -1,62 +1,56 @@
 {
-    "title": "PERFORM Dataset; one control subject",
-    "description": "Functional Magnetic Resonance Imaging (fMRI), electroencephalography (EEG), sleep and nutrition assessments were performed on one male control subject. This registered access dataset is currently accessible on request only.",
-    "creators": [
-        {
-            "name": "PERFORM Centre Concordia University"
-        }
-    ],
-    "types": [
-        { 
-            "information": {
-                "value": "MRI"
-            }
-        },
-        { 
-            "information": {
-                "value": "EEG"
-            }
-        },
-        {
-            "information": {
-                "value": "Quality Control Subject",
-                "valueIRI": "http://uri.interlex.org/base/ilx_0381893"
-            }
-        }
-    ],
-    "version": "1.0",
-    "privacy": "Registered Access",
-    "isAbout": [
-        {
-            "@type": "BiologicalEntity",
-            "name": "adult human"
-        }
-    ],
-    "spatialCoverage": [
-        {
-            "@type": "Place",
-            "name": "Montréal"
-        }
-    ],
-    "licenses": [
-        {
-            "@type": "License",
-            "name": "Cite PERFORM Centre Concordia University as the source of data."
-        }
-    ],
-    "aggregation": "instance of dataset",
-    "keywords": [
-        {
-            "@type": "Annotation",
-            "value": "control"
-        },
-        {
-            "@type": "Annotation",
-            "value": "MRI"
-        },
-        {
-            "@type": "Annotation",
-            "value": "EEG"
-        }
-    ]
+	"title": "PERFORM Dataset; one control subject",
+	"description": "Functional Magnetic Resonance Imaging (fMRI), electroencephalography (EEG), sleep and nutrition assessments were performed on one male control subject. This registered access dataset is currently accessible on request only.",
+	"creators": [
+		{
+            		"name": "PERFORM Centre Concordia University"
+        	}
+    	],
+	"types": [
+		{ 
+        		"information": {
+        		        "value": "MRI"
+            		}
+        	},
+		{ 
+            		"information": {
+                		"value": "EEG"
+            		}
+        	},
+		{
+            		"information": {
+                		"value": "Quality Control Subject",
+                		"valueIRI": "http://uri.interlex.org/base/ilx_0381893"
+            		}
+        	}
+    	],
+	"version": "1.0",
+	"privacy": "Registered Access",
+	"isAbout": [
+		{
+            		"name": "adult human"
+        	}
+    	],
+	"spatialCoverage": [
+        	{
+        		"name": "Montréal"
+        	}
+    	],
+	"licenses": [
+        	{
+        		"name": "Cite PERFORM Centre Concordia University as the source of data."
+        	}
+    	],
+    	"aggregation": "instance of dataset",
+	"keywords": [
+        	{
+			"value": "control"
+        	},
+        	{
+          		"value": "MRI"
+        	},
+        	{
+            		"value": "EEG"
+        	}
+    	]
 }
