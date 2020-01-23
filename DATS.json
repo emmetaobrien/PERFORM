@@ -99,14 +99,6 @@
                   			"value": "1"
 				}
           		]
-      		},
-      		{
-         		"category": "logo",
-         		"values": [
-            			{
-                			"value": "logo.png"
-            			}
-        		]
-    		}
+      		}
 	]
 }
