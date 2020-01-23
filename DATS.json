@@ -36,6 +36,20 @@
         		"name": "Montréal"
         	}
     	],
+	"distributions": [
+ 		{
+ 			"formats": [
+ 				"mINC",
+ 			],
+ 			"size" : 196,
+ 			"unit" : {
+ 				"value": "MB"
+ 			},
+ 			"access": {
+ 				"landingPage": "https://www.concordia.ca/research/perform.htm/"
+ 			}
+ 		}
+	],
 	"licenses": [
         	{
         		"name": "Cite PERFORM Centre Concordia University as the source of data."
@@ -52,5 +66,47 @@
         	{
             		"value": "EEG"
         	}
-    	]
+    	],
+	"extraProperties": [
+		{
+			"category": "contact",
+			"values": [
+				{
+              				"value": "Tristan Glatard, Associate Professor, Dept. of Computer Science and Software Engineering, Concordia Univeristy, 1455 de Maisonneuve Boulevard W, Montreal QC Canada tristan.glatard@concordia.ca"
+				}
+			]
+   		},
+		{
+			"category": "CONP_status",
+			"values": [
+				{
+					"value": "CONP"
+				}
+			]
+		},
+		{
+			"category": "files",
+			"values": [
+               			{
+					"value": "34"
+				}
+          		]
+      		},
+      		{
+          		"category": "subjects",
+          		"values": [
+              			{
+                  			"value": "1"
+				}
+          		]
+      		},
+      		{
+         		"category": "logo",
+         		"values": [
+            			{
+                			"value": "logo.png"
+            			}
+        		]
+    		}
+	]
 }
