@@ -39,7 +39,7 @@
 	"distributions": [
  		{
  			"formats": [
- 				"mINC",
+ 				"minc",
  			],
  			"size" : 196,
  			"unit" : {
